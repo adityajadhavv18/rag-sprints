@@ -1,0 +1,7 @@
+# Secrets: never commit
+.env
+.venv/
+__pycache__/
+*.pyc
+# Raw SEC HTML (12 MB) is re-downloadable with scripts/download_10ks.py; the clean .txt corpus is committed
+data/raw/
