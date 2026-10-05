@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 # Raw SEC HTML (12 MB) is re-downloadable with scripts/download_10ks.py; the clean .txt corpus is committed
 data/raw/
+# Local Qdrant data (docker volume)
+qdrant_storage/
