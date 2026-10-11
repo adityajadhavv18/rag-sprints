@@ -1,0 +1,87 @@
+Kestrel PCA-90 Patient-Controlled Analgesia Pump
+Operator and Troubleshooting Manual, HVMC edition, revision 5
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+1. Overview
+The Kestrel PCA-90 lets a patient give themselves a small, preset dose of opioid by pressing a handset button, within limits set by the prescriber. At HVMC it is used with Hydrovane and Morphalin in prefilled 30 mL cassettes. Only the patient may press the button; family members and staff must never press it for them ("PCA by proxy"), because sedation is the safety signal that stops further doses.
+
+2. Programming parameters
+Each PCA order specifies a demand dose, a lockout interval, an optional continuous (basal) rate and a 1-hour or 4-hour dose limit. The lockout interval is the minimum time between doses; button presses during lockout are recorded but not delivered. Continuous basal infusions are not used for opioid-naive patients at HVMC. Two nurses must independently verify the programming against the order at initial setup, at every cassette change and at every handover.
+
+3. The security key
+The cassette door is locked with a security key held by the charge nurse. A missing key must be reported to pharmacy within the same shift. Wasting the remaining opioid in a cassette requires a second nurse as witness.
+
+4. Monitoring
+Assess the sedation score (POSS) and respiratory rate every hour for the first 12 hours, then every 2 hours. Continuous pulse oximetry is required. If the patient is difficult to rouse, stop the PCA and follow protocol CP-15.
+
+5. Fault codes
+Codes on the PCA-90 have their own meanings and must not be read from the IV-220 manual.
+
+E-01 Cassette not locked
+Type: clinical, high priority.
+Meaning: The cassette door is unlocked.
+Action: Lock the door with the security key held by the charge nurse.
+
+E-03 Handset disconnected
+Type: clinical, medium priority.
+Meaning: The patient handset cable is unplugged.
+Action: Reconnect the handset and check that the patient can reach it.
+
+E-05 Cassette low
+Type: clinical, medium priority.
+Meaning: Less than 5 mL remains in the cassette.
+Action: Request a new cassette from pharmacy.
+
+E-06 Cassette empty
+Type: clinical, high priority.
+Meaning: The cassette is empty; delivery has stopped.
+Action: Change the cassette with a second nurse verifying the programming.
+
+E-08 Dose limit reached
+Type: clinical, medium priority.
+Meaning: The 1-hour or 4-hour dose limit has been reached; demand doses are blocked.
+Action: Assess pain and sedation; contact the prescriber if pain is uncontrolled. Do not raise the limit without an order.
+
+E-12 Patient line occlusion
+Type: clinical, high priority.
+Meaning: The tubing to the patient is blocked.
+Action: Check the clamp and the IV site, then restart.
+
+E-17 Excess demand presses
+Type: clinical, low priority.
+Meaning: More than 10 button presses occurred during one lockout interval.
+Action: Assess pain control; frequent presses during lockout usually mean the regimen is inadequate. Notify the prescriber.
+
+E-19 Programming not verified
+Type: clinical, high priority.
+Meaning: The second-nurse verification step was skipped.
+Action: Complete independent double verification before starting.
+
+E-24 Security key left in door
+Type: clinical, low priority.
+Meaning: The key has remained in the cassette lock for more than 2 minutes.
+Action: Remove the key and return it to the charge nurse.
+
+E-52 Pump door forced
+Type: clinical, high priority.
+Meaning: The locked cassette door was opened without the key.
+Action: Treat as a possible diversion event: secure the pump, notify the charge nurse and pharmacy, and report in the safety event system.
+
+E-61 Handset button stuck
+Type: technical.
+Meaning: The handset reports a continuous press.
+Action: Technical fault. Replace the handset; if the code persists, remove the pump from service.
+
+E-62 Delivery mechanism fault
+Type: technical.
+Meaning: The pumping mechanism did not move as commanded.
+Action: Technical fault. Remove from service.
+
+E-71 Event log full
+Type: technical.
+Meaning: The pump history memory is full and older events cannot be overwritten.
+Action: Technical fault. Remove from service so biomedical engineering can download the log for opioid accountability.
+
+
+Out-of-service procedure
+Attach a red "DO NOT USE" tag with the fault code and asset tag and call biomedical engineering at extension 4417. For any device holding a controlled substance, the remaining drug is wasted with a witness before the device leaves the unit.

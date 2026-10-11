@@ -1,0 +1,87 @@
+Talon VM-8 Bedside Patient Monitor
+Quick Reference and Alarm Guide, HVMC edition
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+1. Overview
+The Talon VM-8 displays ECG, heart rate, non-invasive blood pressure, oxygen saturation (SpO2), respiratory rate, temperature and, when the module is fitted, end-tidal carbon dioxide (EtCO2). Every inpatient bed on the telemetry, step-down and ICU units has a VM-8 that reports to the central station at the nurses' desk. Monitors on general wards are portable and do not report centrally unless docked.
+
+2. Default alarm limits for adults
+Heart rate: low 50, high 120 beats per minute. SpO2: low 90 percent. Respiratory rate: low 8, high 30 breaths per minute. Systolic blood pressure: low 90, high 180 mmHg. EtCO2: low 25, high 50 mmHg. Limits may be changed only with a provider order or under a unit protocol, and changes must be documented. Alarm limits reset to the defaults when a new patient is admitted to the monitor.
+
+3. Reducing nuisance alarms
+Change ECG electrodes every 24 hours after cleaning the skin with soap and water. Place the SpO2 sensor on a warm finger without nail polish. Use the correct cuff size: the bladder should cover 80 percent of the arm circumference. Never turn alarm volume below the unit minimum or disable an alarm category.
+
+4. Alarm messages
+
+Alarm ASYSTOLE
+Priority: red, highest priority.
+Meaning: No QRS complexes detected for 4 seconds.
+Action: Check the patient immediately; start resuscitation if unresponsive and pulseless.
+
+Alarm VFIB/VTACH
+Priority: red, highest priority.
+Meaning: Ventricular fibrillation or sustained ventricular tachycardia detected.
+Action: Check the patient immediately; call a code if pulseless.
+
+Alarm BRADY
+Priority: yellow, medium priority.
+Meaning: Heart rate below the low limit.
+Action: Assess the patient and look for drug causes such as Metavol or Sedoflux.
+
+Alarm TACHY
+Priority: yellow, medium priority.
+Meaning: Heart rate above the high limit.
+Action: Assess for pain, fever, bleeding or arrhythmia.
+
+Alarm SPO2 LOW
+Priority: yellow, medium priority.
+Meaning: Oxygen saturation below the low limit for 10 seconds.
+Action: Check the probe and the patient's breathing; give oxygen per order.
+
+Alarm SPO2 PROBE OFF
+Priority: cyan, technical.
+Meaning: The oxygen sensor is not on the patient.
+Action: Reattach the sensor.
+
+Alarm RR LOW
+Priority: yellow, medium priority.
+Meaning: Respiratory rate below the low limit.
+Action: Assess sedation and breathing; consider opioid-induced respiratory depression (CP-15).
+
+Alarm APNEA
+Priority: red, highest priority.
+Meaning: No breath detected for 20 seconds.
+Action: Stimulate the patient and assess airway and breathing immediately.
+
+Alarm ETCO2 HIGH
+Priority: yellow, medium priority.
+Meaning: End-tidal carbon dioxide above the high limit.
+Action: Assess for hypoventilation, especially in patients on opioids.
+
+Alarm NBP CUFF LEAK
+Priority: cyan, technical.
+Meaning: The blood pressure cuff did not inflate.
+Action: Check the cuff and hose connections.
+
+Alarm LEADS OFF
+Priority: cyan, technical.
+Meaning: One or more ECG electrodes are disconnected.
+Action: Replace electrodes; check skin preparation.
+
+Alarm ARTIFACT
+Priority: cyan, technical.
+Meaning: Signal noise prevents analysis.
+Action: Check electrodes and patient movement.
+
+Alarm BATTERY LOW
+Priority: cyan, technical.
+Meaning: Less than 20 minutes of battery remain on a portable monitor.
+Action: Dock or plug in the monitor.
+
+Alarm NO CENTRAL
+Priority: yellow, technical.
+Meaning: The monitor has lost its connection to the central station.
+Action: Check the network cable or wireless status; inform the charge nurse because alarms are not reaching the desk.
+
+5. Service
+Faulty monitors are tagged and reported to biomedical engineering at extension 4417.

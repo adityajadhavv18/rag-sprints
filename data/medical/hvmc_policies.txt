@@ -1,0 +1,24 @@
+Halverd Valley Medical Center (HVMC)
+Selected Hospital-Wide Clinical Policies
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+Policy HP-04 Patient identification
+Use two identifiers, the patient's full name and date of birth, before giving any medication, blood product or treatment, collecting any specimen, or performing any procedure. The room or bed number is never an identifier. Ask the patient to state their name and date of birth rather than reading it to them. If the patient cannot respond, check the wristband against the order. A patient without a wristband receives no treatment except in an emergency until one is applied.
+
+Policy HP-07 Verbal and telephone orders
+Verbal orders are accepted only in emergencies or when the prescriber is physically unable to write or enter the order, such as during a sterile procedure. Telephone orders are accepted when the prescriber is off site. The receiving nurse writes the order down and reads it back in full, including drug name, dose, route and frequency, and the prescriber confirms. Numbers between 13 and 19 are spelled out digit by digit ("one-five") to avoid confusion with 30 to 90. Verbal and telephone orders must be signed by the prescriber within 24 hours. Verbal orders are never accepted for chemotherapy.
+
+Policy HP-11 High-alert medications
+High-alert medications carry a heightened risk of significant harm when used in error. At HVMC they include all insulins, opioids, IV potassium chloride, anticoagulants, vasopressors, neuromuscular blockers and chemotherapy. These drugs are stored separately with warning labels. Insulin, opioid infusions, PCA, IV potassium and heparin infusions require an independent double check by a second nurse, which means the second nurse reviews the order, the drug, the dose calculation and the pump programming without being prompted by the first nurse.
+
+Policy HP-15 Hand hygiene
+Clean hands at the five moments: before touching a patient, before a clean or aseptic procedure, after body fluid exposure risk, after touching a patient, and after touching the patient's surroundings. Alcohol-based hand rub is the default, rubbed for 20 seconds until dry. Wash with soap and water when hands are visibly soiled, after caring for a patient with Clostridioides difficile or norovirus, and before eating. Artificial nails and nail extensions are not permitted for staff who provide direct patient care.
+
+Policy HP-19 Sharps safety
+Use safety-engineered needles and never recap a used needle. Dispose of sharps at the point of use in a sharps container, which is replaced when three-quarters full. A needlestick or splash injury is first-aided immediately by washing with soap and water, then reported to employee health at extension 4650 within 1 hour, because post-exposure treatment for HIV works best when started within 2 hours.
+
+Policy HP-23 Handover between shifts
+Nurses hand over at the bedside using the SBAR structure: situation, background, assessment and recommendation. The outgoing and incoming nurse check together the patient's identity, infusions and pump settings, drains, and any high-alert medications. Patients and families are invited to take part. Handover is not complete until the incoming nurse has had the chance to ask questions.
+
+Policy HP-27 Do-not-resuscitate orders
+A do-not-resuscitate (DNR) order is written by the attending physician after a discussion with the patient or their legal decision maker, and the discussion is documented in the health record. DNR applies only to cardiopulmonary resuscitation; it does not mean other treatments are withheld. A purple wristband identifies patients with a DNR order. DNR orders are reviewed whenever the patient's condition changes significantly and are suspended during procedures under anesthesia only after a documented discussion.

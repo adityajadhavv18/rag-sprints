@@ -1,0 +1,195 @@
+Kestrel IV-220 Volumetric Infusion Pump
+Operator and Troubleshooting Manual, HVMC edition, revision 7
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+1. Overview
+The Kestrel IV-220 is a single-channel volumetric infusion pump used on all HVMC adult inpatient units. It delivers fluids, medications and blood products through the dedicated Kestrel administration set (catalog KS-110) or the blood set (catalog KS-115). Only these sets are validated: third-party tubing causes inaccurate flow and repeated alarms. Each pump is identified by a five-digit asset tag on the back of the housing.
+
+2. Specifications
+Flow rate range: 0.1 to 999 mL/h, in 0.1 mL/h steps below 100 mL/h and 1 mL/h steps above.
+Volume to be infused (VTBI): 0.1 to 9,999 mL.
+Accuracy: plus or minus 5 percent at flow rates of 1 mL/h or higher with a KS-110 set.
+Keep vein open (KVO) rate after the VTBI is complete: 1 mL/h by default, or the programmed rate if lower.
+Downstream occlusion pressure settings: low 300 mmHg, medium 500 mmHg (factory default), high 750 mmHg.
+Air-in-line detection: single bubbles of 50 microliters or larger, or 1 mL of accumulated air within 15 minutes.
+Battery: internal lithium-ion battery that runs the pump for up to 8 hours at 25 mL/h when fully charged. A full recharge takes 6 hours while plugged in, and the pump continues to infuse while charging.
+
+3. Drug library and dose error reduction
+All pumps carry the HVMC drug library, version DL-24.3, pushed wirelessly by biomedical engineering. Every infusion should be programmed through the drug library rather than in basic mL/h mode, because the library applies soft limits (which can be overridden with a confirmation) and hard limits (which cannot be overridden). High-alert medications such as insulin, opioid infusions, potassium chloride and vasopressors have hard limits. Basic mode is permitted only for maintenance IV fluids. If a hard limit stops a dose that the order requires, verify the order with pharmacy; do not reprogram the drug as a different concentration to get around the limit.
+
+4. Loading the set and priming
+Spike the bag and fill the drip chamber halfway. Open the roller clamp and prime the line by gravity until no air remains, then close the roller clamp. Open the pump door, place the set cassette into the channel with the flow arrow pointing toward the patient, and close the door until it clicks. The pump performs a 4-second self-test of the air sensor and pressure sensors every time the door is closed. Open the roller clamp before starting the infusion.
+
+5. Alarm priorities
+High-priority alarms show a flashing red light and a repeating three-tone sound; the infusion stops. Examples are occlusions, air in line and door open. Medium-priority alarms show a yellow light and a two-tone sound; the infusion may continue. Examples are low battery and VTBI near end. Low-priority alarms show a steady yellow light and a single tone, such as the reminder that the pump has been left on hold for 2 minutes. Never silence an alarm without identifying its cause. The alarm silence button mutes the sound for 2 minutes only.
+
+6. Cleaning between patients
+Wipe all external surfaces with a hospital-approved 70 percent isopropyl alcohol or quaternary ammonium wipe and allow 3 minutes of wet contact time. For patients on contact precautions for Clostridioides difficile, use a sporicidal wipe containing no more than 0.5 percent sodium hypochlorite. Never spray liquid into the door mechanism, and never immerse the pump. Place a green "clean" tag on the pump before returning it to the equipment room.
+
+7. Battery care
+Keep pumps plugged in whenever they are not being used for transport. A pump that cannot hold a charge for at least 2 hours must be tagged for biomedical engineering. Do not store pumps with a fully depleted battery for more than 30 days.
+
+8. Fault codes
+Fault codes appear on the display as E- followed by two digits. Clinical faults can be cleared at the bedside by following the action listed. Technical faults mean the pump has failed a self-check: stop using the pump, move the infusion to a replacement pump and follow the out-of-service procedure in section 9.
+
+E-01 Low battery
+Type: clinical, medium priority.
+Meaning: Less than 30 minutes of battery remain.
+Action: Plug the pump into mains power. The infusion continues.
+
+E-02 Battery depleted
+Type: clinical, high priority.
+Meaning: Battery exhausted; the infusion has stopped.
+Action: Plug in immediately and restart the infusion. If E-02 appears while the pump is plugged in, treat it as technical fault E-31.
+
+E-03 Door open during infusion
+Type: clinical, high priority.
+Meaning: The pump door was opened while an infusion was running.
+Action: Check that the set is correctly loaded, close the door until it clicks, and press RESUME.
+
+E-04 Set not recognized
+Type: clinical, high priority.
+Meaning: The cassette is missing, upside down, or is not a Kestrel KS-110 or KS-115 set.
+Action: Reload the set with the flow arrow pointing toward the patient. Replace third-party tubing with a Kestrel set.
+
+E-05 VTBI complete
+Type: clinical, medium priority.
+Meaning: The programmed volume has been delivered; the pump is running at the KVO rate.
+Action: Hang the next bag or stop the infusion as ordered.
+
+E-06 Infusion on hold too long
+Type: clinical, low priority.
+Meaning: The pump has been on hold for 2 minutes without restarting.
+Action: Restart the infusion or power the pump down.
+
+E-07 Drug library limit
+Type: clinical, high priority.
+Meaning: A hard limit was reached during programming.
+Action: Check the order and the units entered. A hard limit cannot be overridden; contact pharmacy if the order is correct.
+
+E-08 Rate change not confirmed
+Type: clinical, low priority.
+Meaning: A new rate was entered but not confirmed within 30 seconds.
+Action: Re-enter the rate and press CONFIRM.
+
+E-09 Secondary infusion complete
+Type: clinical, medium priority.
+Meaning: The piggyback infusion has finished and the pump returned to the primary rate.
+Action: Close the secondary clamp and document the dose.
+
+E-10 Flow sensor out of range
+Type: clinical, high priority.
+Meaning: The drip chamber flow sensor reports flow that does not match the programmed rate.
+Action: Check that the drip chamber is half full and vertical. Reprime if needed.
+
+E-11 Free-flow risk detected
+Type: clinical, high priority.
+Meaning: The set was removed with the roller clamp open.
+Action: Close the roller clamp immediately and check the patient for unintended bolus.
+
+E-12 Downstream occlusion
+Type: clinical, high priority.
+Meaning: Pressure between the pump and the patient exceeded the selected occlusion limit.
+Action: Check for a closed slide clamp, kinked tubing or an infiltrated IV site. Clear the cause and press RESUME. If E-12 recurs three times within one hour, assess and replace the IV site.
+
+E-13 Pressure rising
+Type: clinical, medium priority.
+Meaning: Downstream pressure has reached 75 percent of the occlusion limit.
+Action: Inspect the line and IV site before a full occlusion alarm occurs.
+
+E-14 Back-pressure after bolus
+Type: clinical, medium priority.
+Meaning: Pressure remained high after a bolus.
+Action: Pause and allow pressure to fall; check IV site patency.
+
+E-15 Bolus limit reached
+Type: clinical, medium priority.
+Meaning: The requested bolus exceeds the drug library bolus limit.
+Action: Confirm the ordered bolus dose; re-enter within limits.
+
+E-16 Programming timeout
+Type: clinical, low priority.
+Meaning: Programming was left incomplete for 2 minutes.
+Action: Restart programming from the drug library screen.
+
+E-17 Air in line
+Type: clinical, high priority.
+Meaning: A bubble of 50 microliters or larger, or accumulated air, passed the air sensor.
+Action: Clamp the line, open the door, and remove the air by priming it out through a distal port or by disconnecting and repriming the set. Never push the air toward the patient. Close the door and press RESUME.
+
+E-18 Empty container
+Type: clinical, high priority.
+Meaning: Air detected continuously at the top of the set; the bag is likely empty.
+Action: Hang a new bag and reprime the line.
+
+E-19 Wrong set for blood
+Type: clinical, high priority.
+Meaning: A blood product was selected but a KS-110 set is loaded.
+Action: Replace with a KS-115 blood set.
+
+E-20 Temperature warning
+Type: clinical, medium priority.
+Meaning: The pump is operating outside 10 to 40 degrees Celsius.
+Action: Move the pump away from heaters or direct sunlight.
+
+E-21 Upstream occlusion
+Type: clinical, high priority.
+Meaning: No fluid is reaching the pump from the bag side.
+Action: Check that the bag is not empty, the roller clamp above the pump is open, and the spike is fully inserted and vented if using a glass bottle. Press RESUME.
+
+E-22 Drug library out of date
+Type: clinical, low priority.
+Meaning: The pump has not received a drug library update in 30 days.
+Action: Connect the pump to the network or tag it for biomedical engineering.
+
+E-23 Network connection lost
+Type: clinical, low priority.
+Meaning: The pump cannot report to the infusion server.
+Action: The infusion continues. Report persistent loss to the help desk.
+
+E-30 Door latch sensor failure
+Type: technical.
+Meaning: The door latch sensor reports an impossible state.
+Action: Technical fault. Remove the pump from service.
+
+E-31 Power supply failure
+Type: technical.
+Meaning: The pump is plugged in but not charging.
+Action: Technical fault. Remove the pump from service.
+
+E-32 Motor stall
+Type: technical.
+Meaning: The pumping mechanism did not move as commanded.
+Action: Technical fault. Remove the pump from service.
+
+E-33 Pressure sensor self-test failure
+Type: technical.
+Meaning: The pressure sensor failed the door-close self-test.
+Action: Technical fault. Remove the pump from service.
+
+E-34 Memory error
+Type: technical.
+Meaning: The stored drug library or event log is corrupted.
+Action: Technical fault. Remove the pump from service.
+
+E-35 Keypad stuck
+Type: technical.
+Meaning: A key has been reported pressed for more than 20 seconds.
+Action: Technical fault. Remove the pump from service.
+
+E-36 Watchdog reset
+Type: technical.
+Meaning: The pump restarted unexpectedly during an infusion.
+Action: Technical fault. Remove the pump from service and check the patient for missed or extra volume.
+
+E-71 Air sensor self-test failure
+Type: technical.
+Meaning: The ultrasonic air sensor failed its self-test, so air in the line can no longer be detected.
+Action: Technical fault. Stop the infusion and remove the pump from service immediately; do not keep using it even if fluid appears to flow normally.
+
+
+9. Out-of-service procedure
+Move the infusion to a replacement pump from the equipment room. Leave the administration set in the faulty pump only if a patient was harmed or nearly harmed, so the set can be examined. Attach a red "DO NOT USE" tag, write the fault code, asset tag and a short description on the tag, and call biomedical engineering at extension 4417, available 24 hours a day. Any event that reached the patient must also be reported in the HVMC safety event system within the same shift.
+
+10. Preventive maintenance
+Biomedical engineering inspects every pump every 12 months, including an air sensor calibration and a battery capacity test. A pump whose inspection sticker is out of date must not be used.

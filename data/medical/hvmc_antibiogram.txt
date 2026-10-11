@@ -1,0 +1,82 @@
+Halverd Valley Medical Center (HVMC)
+Cumulative Antibiogram, January to December 2025
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+The antibiogram reports the percentage of first isolates from each organism that tested susceptible to each antibiotic, one isolate per patient per year. Results are shown only for organisms with at least 30 isolates. Use it to choose empiric therapy before culture results are back; once results are available, narrow therapy to the individual susceptibility report. An agent below 80 percent susceptibility is not recommended for empiric use against that organism.
+
+Organism: Escherichia coli (497 isolates)
+Escherichia coli susceptibility to Zephacillin: 90 percent.
+Escherichia coli susceptibility to Cefalyn: 84 percent.
+Escherichia coli susceptibility to Meronex: 83 percent.
+Escherichia coli susceptibility to Tarnaflox: 87 percent.
+Escherichia coli susceptibility to Azithrel: 92 percent.
+
+Organism: Klebsiella pneumoniae (228 isolates)
+Klebsiella pneumoniae susceptibility to Zephacillin: 66 percent.
+Klebsiella pneumoniae susceptibility to Cefalyn: 87 percent.
+Klebsiella pneumoniae susceptibility to Meronex: 85 percent.
+Klebsiella pneumoniae susceptibility to Tarnaflox: 95 percent.
+Klebsiella pneumoniae susceptibility to Azithrel: 94 percent.
+
+Organism: Pseudomonas aeruginosa (224 isolates)
+Pseudomonas aeruginosa susceptibility to Zephacillin: 61 percent.
+Pseudomonas aeruginosa susceptibility to Cefalyn: 83 percent.
+Pseudomonas aeruginosa susceptibility to Meronex: 74 percent.
+Pseudomonas aeruginosa susceptibility to Tarnaflox: 64 percent.
+Pseudomonas aeruginosa susceptibility to Azithrel: 60 percent.
+
+Organism: Enterobacter cloacae (585 isolates)
+Enterobacter cloacae susceptibility to Zephacillin: 99 percent.
+Enterobacter cloacae susceptibility to Cefalyn: 95 percent.
+Enterobacter cloacae susceptibility to Meronex: 57 percent.
+Enterobacter cloacae susceptibility to Tarnaflox: 93 percent.
+Enterobacter cloacae susceptibility to Azithrel: 80 percent.
+
+Organism: Proteus mirabilis (497 isolates)
+Proteus mirabilis susceptibility to Zephacillin: 96 percent.
+Proteus mirabilis susceptibility to Cefalyn: 94 percent.
+Proteus mirabilis susceptibility to Meronex: 96 percent.
+Proteus mirabilis susceptibility to Tarnaflox: 65 percent.
+Proteus mirabilis susceptibility to Azithrel: 94 percent.
+
+Organism: Staphylococcus aureus (MSSA) (49 isolates)
+Staphylococcus aureus (MSSA) susceptibility to Zephacillin: 88 percent.
+Staphylococcus aureus (MSSA) susceptibility to Cefalyn: 59 percent.
+Staphylococcus aureus (MSSA) susceptibility to Meronex: 58 percent.
+Staphylococcus aureus (MSSA) susceptibility to Vancorin: 57 percent.
+Staphylococcus aureus (MSSA) susceptibility to Tarnaflox: 67 percent.
+Staphylococcus aureus (MSSA) susceptibility to Azithrel: 70 percent.
+
+Organism: Staphylococcus aureus (MRSA) (64 isolates)
+Staphylococcus aureus (MRSA) susceptibility to Zephacillin: 84 percent.
+Staphylococcus aureus (MRSA) susceptibility to Cefalyn: 75 percent.
+Staphylococcus aureus (MRSA) susceptibility to Meronex: 83 percent.
+Staphylococcus aureus (MRSA) susceptibility to Vancorin: 92 percent.
+Staphylococcus aureus (MRSA) susceptibility to Tarnaflox: 67 percent.
+Staphylococcus aureus (MRSA) susceptibility to Azithrel: 88 percent.
+
+Organism: Enterococcus faecalis (273 isolates)
+Enterococcus faecalis susceptibility to Zephacillin: 95 percent.
+Enterococcus faecalis susceptibility to Cefalyn: 73 percent.
+Enterococcus faecalis susceptibility to Meronex: 86 percent.
+Enterococcus faecalis susceptibility to Vancorin: 55 percent.
+Enterococcus faecalis susceptibility to Tarnaflox: 97 percent.
+Enterococcus faecalis susceptibility to Azithrel: 60 percent.
+
+Organism: Streptococcus pneumoniae (502 isolates)
+Streptococcus pneumoniae susceptibility to Zephacillin: 96 percent.
+Streptococcus pneumoniae susceptibility to Cefalyn: 72 percent.
+Streptococcus pneumoniae susceptibility to Meronex: 81 percent.
+Streptococcus pneumoniae susceptibility to Vancorin: 90 percent.
+Streptococcus pneumoniae susceptibility to Tarnaflox: 60 percent.
+Streptococcus pneumoniae susceptibility to Azithrel: 100 percent.
+
+Organism: Acinetobacter baumannii (294 isolates)
+Acinetobacter baumannii susceptibility to Zephacillin: 40 percent.
+Acinetobacter baumannii susceptibility to Cefalyn: 68 percent.
+Acinetobacter baumannii susceptibility to Meronex: 34 percent.
+Acinetobacter baumannii susceptibility to Tarnaflox: 52 percent.
+Acinetobacter baumannii susceptibility to Azithrel: 38 percent.
+
+Trends
+ESBL-producing Escherichia coli rose from 11 to 14 percent of urinary isolates. Meronex remains reliable against ESBL organisms and is restricted to protect this. MRSA made up 31 percent of Staphylococcus aureus bloodstream isolates. The antimicrobial stewardship committee reviews these figures every spring and updates the sepsis order set (CP-07) if empiric choices need to change.

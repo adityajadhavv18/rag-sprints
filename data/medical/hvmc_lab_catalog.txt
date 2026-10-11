@@ -1,0 +1,551 @@
+Halverd Valley Medical Center (HVMC)
+Laboratory Test Catalog and Reference Ranges, 2026
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+Critical value policy
+A critical value is a result that may indicate an immediately life-threatening condition. The laboratory phones every critical value to the responsible licensed caregiver within 30 minutes of result verification, and the receiver must read the value back. If the caregiver cannot be reached within 30 minutes, the laboratory escalates to the unit charge nurse and then to the attending physician. Reference ranges below apply to adults.
+
+Specimen rejection
+Specimens are rejected if unlabeled, labeled with fewer than two patient identifiers, collected in the wrong tube, clotted when anticoagulated, or underfilled. The lab notifies the unit to redraw.
+
+Section: Chemistry
+
+LC-0410 Sodium, serum
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 135 to 145 mmol/L.
+Critical values: below 120 or above 160 mmol/L.
+Turnaround time: STAT 45 minutes; routine 4 hours.
+Notes: Correct chronic hyponatremia by no more than 8 mmol/L in 24 hours.
+
+LC-0412 Potassium, serum
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 3.5 to 5.1 mmol/L.
+Critical values: below 2.8 or above 6.2 mmol/L.
+Turnaround time: STAT 45 minutes; routine 4 hours.
+Notes: Hemolysis falsely raises potassium. A hemolyzed sample is reported with a comment and should be redrawn before treating.
+
+LC-0414 Potassium, whole blood (blood gas analyzer)
+Specimen: pre-heparinized arterial or venous syringe, minimum 1 mL.
+Reference range: 3.4 to 4.9 mmol/L.
+Critical values: below 2.5 or above 6.5 mmol/L.
+Turnaround time: STAT 15 minutes.
+Notes: Faster than LC-0412 but not interchangeable with it; use the same method when trending.
+
+LC-0416 Sodium, whole blood (blood gas analyzer)
+Specimen: pre-heparinized arterial or venous syringe, minimum 1 mL.
+Reference range: 136 to 146 mmol/L.
+Critical values: below 118 or above 162 mmol/L.
+Turnaround time: STAT 15 minutes.
+Notes: Results can differ from LC-0410 by up to 4 mmol/L.
+
+LC-0421 Chloride, serum
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 98 to 107 mmol/L.
+Critical values: none defined.
+Turnaround time: routine 4 hours.
+Notes: Reported as part of the basic metabolic panel.
+
+LC-0430 Bicarbonate (total CO2), serum
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 22 to 29 mmol/L.
+Critical values: below 10 or above 40 mmol/L.
+Turnaround time: STAT 45 minutes; routine 4 hours.
+Notes: Underfilled tubes give falsely low results.
+
+LC-0432 Anion gap (calculated)
+Specimen: calculated from LC-0410, LC-0421 and LC-0430.
+Reference range: 4 to 12 mmol/L.
+Critical values: none defined.
+Turnaround time: reported with the basic metabolic panel.
+Notes: A gap above 12 mmol/L suggests ketoacidosis, lactic acidosis or toxins.
+
+LC-0440 Blood urea nitrogen (BUN)
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 7 to 20 mg/dL.
+Critical values: none defined.
+Turnaround time: routine 4 hours.
+Notes: Rises with gastrointestinal bleeding and dehydration.
+
+LC-0445 Creatinine, serum
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 0.6 to 1.2 mg/dL.
+Critical values: none defined.
+Turnaround time: STAT 45 minutes; routine 4 hours.
+Notes: eGFR is reported automatically using the CKD-EPI 2021 equation. Formulary renal dosing uses CrCl, not eGFR, unless stated.
+
+LC-0447 Cystatin C
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 0.6 to 1.0 mg/L.
+Critical values: none defined.
+Turnaround time: routine 24 hours.
+Notes: Used with creatinine when muscle mass is unusually high or low.
+
+LC-0450 Glucose, plasma
+Specimen: sodium fluoride (gray top) tube, minimum 2 mL.
+Reference range: 70 to 99 mg/dL fasting.
+Critical values: below 50 or above 450 mg/dL.
+Turnaround time: STAT 30 minutes; routine 4 hours.
+Notes: Point-of-care glucose readings below 40 or above 500 mg/dL must be confirmed with this test.
+
+LC-0452 Beta-hydroxybutyrate (ketones), serum
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: below 0.4 mmol/L.
+Critical values: 3.0 mmol/L or above.
+Turnaround time: STAT 60 minutes.
+Notes: Preferred ketone test for monitoring diabetic ketoacidosis (CP-27).
+
+LC-0455 Osmolality, serum
+Specimen: serum separator (gold top) tube, minimum 4 mL.
+Reference range: 275 to 295 mOsm/kg.
+Critical values: below 250 or above 320 mOsm/kg.
+Turnaround time: STAT 60 minutes.
+Notes: An osmolal gap above 10 suggests toxic alcohol ingestion.
+
+LC-0460 Calcium, total
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 8.6 to 10.2 mg/dL.
+Critical values: below 6.5 or above 13.0 mg/dL.
+Turnaround time: routine 4 hours.
+Notes: Interpret with albumin (LC-0530), or order ionized calcium.
+
+LC-0462 Calcium, ionized
+Specimen: pre-heparinized syringe on ice, minimum 1 mL.
+Reference range: 1.15 to 1.33 mmol/L.
+Critical values: below 0.80 or above 1.60 mmol/L.
+Turnaround time: STAT 30 minutes.
+Notes: Unaffected by albumin; preferred during massive transfusion.
+
+LC-0465 Magnesium, serum
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 1.7 to 2.2 mg/dL.
+Critical values: below 1.0 or above 4.9 mg/dL.
+Turnaround time: routine 4 hours.
+Notes: Replace with Magnora per formulary.
+
+LC-0470 Phosphate, serum
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 2.5 to 4.5 mg/dL.
+Critical values: below 1.0 mg/dL.
+Turnaround time: routine 4 hours.
+Notes: Watch for refeeding syndrome in malnourished patients.
+
+LC-0475 Uric acid
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 3.5 to 7.2 mg/dL.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Monitored during Allopra titration.
+
+LC-0510 Alanine aminotransferase (ALT)
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 7 to 56 U/L.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Part of the hepatic function panel.
+
+LC-0512 Aspartate aminotransferase (AST)
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 10 to 40 U/L.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Also released by muscle injury and hemolysis.
+
+LC-0515 Alkaline phosphatase
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 44 to 147 U/L.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Also raised in bone disease.
+
+LC-0517 Gamma-glutamyl transferase (GGT)
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 9 to 48 U/L.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Helps confirm a liver source of raised alkaline phosphatase.
+
+LC-0520 Bilirubin, total
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL; protect from light.
+Reference range: 0.1 to 1.2 mg/dL.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Light exposure falsely lowers results.
+
+LC-0522 Bilirubin, direct
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL; protect from light.
+Reference range: 0.0 to 0.3 mg/dL.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Ordered when total bilirubin is raised.
+
+LC-0530 Albumin
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 3.5 to 5.0 g/dL.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Low albumin lowers total calcium without changing ionized calcium.
+
+LC-0540 Lipase
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 13 to 60 U/L.
+Critical values: none defined.
+Turnaround time: STAT 60 minutes; routine 6 hours.
+Notes: A value above 3 times the upper limit supports acute pancreatitis.
+
+LC-0545 Amylase
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 30 to 110 U/L.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Lipase (LC-0540) is preferred for pancreatitis.
+
+LC-0550 Creatine kinase (CK)
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 39 to 308 U/L.
+Critical values: above 5,000 U/L.
+Turnaround time: routine 4 hours.
+Notes: Very high values suggest rhabdomyolysis; check urine and creatinine.
+
+LC-0560 Triglycerides
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: below 150 mg/dL.
+Critical values: none defined.
+Turnaround time: routine 24 hours.
+Notes: Monitor in patients on lipid infusions.
+
+LC-0565 Lipid panel
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: LDL below 100 mg/dL; HDL above 40 mg/dL.
+Critical values: none defined.
+Turnaround time: routine 24 hours.
+Notes: Fasting not required.
+
+Section: Hematology and coagulation
+
+LC-0610 Hemoglobin
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 13.5 to 17.5 g/dL in males; 12.0 to 15.5 g/dL in females.
+Critical values: below 7.0 g/dL.
+Turnaround time: STAT 30 minutes; routine 2 hours.
+Notes: Transfusion threshold for most stable inpatients is 7.0 g/dL.
+
+LC-0611 Hematocrit
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 41 to 53 percent in males; 36 to 46 percent in females.
+Critical values: below 20 percent.
+Turnaround time: STAT 30 minutes; routine 2 hours.
+Notes: Reported with the complete blood count.
+
+LC-0612 White blood cell count (WBC)
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 4.5 to 11.0 x10^9/L.
+Critical values: below 1.0 or above 50.0 x10^9/L.
+Turnaround time: STAT 30 minutes; routine 2 hours.
+Notes: Differential added automatically when the WBC is flagged.
+
+LC-0613 Absolute neutrophil count
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 1.5 to 8.0 x10^9/L.
+Critical values: below 0.5 x10^9/L.
+Turnaround time: routine 2 hours.
+Notes: Below 0.5 x10^9/L requires neutropenic precautions.
+
+LC-0615 Platelet count
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 150 to 400 x10^9/L.
+Critical values: below 20 x10^9/L.
+Turnaround time: STAT 30 minutes; routine 2 hours.
+Notes: Clumping can cause a falsely low count; the lab redraws in a citrate tube.
+
+LC-0616 Reticulocyte count
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 0.5 to 2.5 percent.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Distinguishes reduced red cell production from blood loss or destruction.
+
+LC-0618 Peripheral blood smear
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: normal morphology.
+Critical values: schistocytes or blasts.
+Turnaround time: routine 24 hours.
+Notes: Reviewed by a pathologist when flagged.
+
+LC-0620 Prothrombin time with INR
+Specimen: sodium citrate (light blue top) tube, filled to the line.
+Reference range: INR 0.9 to 1.1.
+Critical values: INR above 5.0.
+Turnaround time: STAT 45 minutes; routine 4 hours.
+Notes: The tube must be filled to the fill line to keep the 9:1 blood-to-citrate ratio; underfilled tubes are rejected.
+
+LC-0622 Thrombin time
+Specimen: sodium citrate (light blue top) tube, filled to the line.
+Reference range: 14 to 19 seconds.
+Critical values: none defined.
+Turnaround time: routine 4 hours.
+Notes: Very sensitive to Corvetrol; a normal result excludes significant drug effect.
+
+LC-0625 Activated partial thromboplastin time (aPTT)
+Specimen: sodium citrate (light blue top) tube, filled to the line.
+Reference range: 25 to 35 seconds.
+Critical values: above 100 seconds.
+Turnaround time: STAT 45 minutes; routine 4 hours.
+Notes: Do not draw from a line used for heparin infusion.
+
+LC-0627 Heparin-induced thrombocytopenia (HIT) antibody
+Specimen: serum separator (gold top) tube, minimum 4 mL.
+Reference range: negative.
+Critical values: none defined.
+Turnaround time: routine 24 hours.
+Notes: Order only when the 4Ts score is intermediate or high.
+
+LC-0630 Fibrinogen
+Specimen: sodium citrate (light blue top) tube, filled to the line.
+Reference range: 200 to 400 mg/dL.
+Critical values: below 100 mg/dL.
+Turnaround time: STAT 60 minutes.
+Notes: Used in massive transfusion and suspected DIC.
+
+LC-0632 Factor Xa inhibitor level (Corvatrel-calibrated)
+Specimen: sodium citrate (light blue top) tube, filled to the line.
+Reference range: reported in ng/mL; no reference range.
+Critical values: none defined.
+Turnaround time: STAT 2 hours.
+Notes: Useful before urgent surgery in patients taking Corvatrel.
+
+LC-0640 D-dimer
+Specimen: sodium citrate (light blue top) tube, filled to the line.
+Reference range: below 0.50 mcg/mL FEU.
+Critical values: none defined.
+Turnaround time: STAT 60 minutes.
+Notes: For patients over 50, use the age-adjusted cutoff: age multiplied by 0.01 mcg/mL FEU. Only useful to exclude clots in patients with low pretest probability.
+
+LC-0650 Type and screen
+Specimen: EDTA (pink top) tube, minimum 6 mL, hand-labeled at the bedside.
+Reference range: not applicable.
+Critical values: none defined.
+Turnaround time: STAT 60 minutes.
+Notes: Valid for 72 hours. Required before any transfusion.
+
+LC-0652 Crossmatch
+Specimen: EDTA (pink top) tube, minimum 6 mL.
+Reference range: compatible.
+Critical values: none defined.
+Turnaround time: STAT 45 minutes after type and screen.
+Notes: Electronic crossmatch is used when two blood groups are on file.
+
+LC-0655 Direct antiglobulin test (DAT)
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: negative.
+Critical values: none defined.
+Turnaround time: routine 4 hours.
+Notes: Part of the transfusion reaction investigation.
+
+Section: Sepsis and infection
+
+LC-0710 Lactate, venous
+Specimen: sodium fluoride (gray top) tube, minimum 2 mL.
+Reference range: 0.5 to 2.0 mmol/L.
+Critical values: 4.0 mmol/L or above.
+Turnaround time: STAT 20 minutes.
+Notes: Transport on ice and analyze within 15 minutes of collection. Avoid prolonged tourniquet use. If the first lactate is above 2.0 mmol/L, repeat within 2 to 4 hours (CP-07).
+
+LC-0712 Lactate, arterial
+Specimen: pre-heparinized arterial syringe, minimum 1 mL.
+Reference range: 0.5 to 1.6 mmol/L.
+Critical values: 4.0 mmol/L or above.
+Turnaround time: STAT 15 minutes.
+Notes: Run on the blood gas analyzer; arterial values run slightly lower than venous.
+
+LC-0720 Procalcitonin
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: below 0.10 ng/mL.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: A value above 0.5 ng/mL suggests bacterial infection. Used to support stopping antibiotics, not to delay starting them.
+
+LC-0730 Blood culture set
+Specimen: one aerobic and one anaerobic bottle, 8 to 10 mL of blood per bottle.
+Reference range: no growth.
+Critical values: any positive culture.
+Turnaround time: preliminary report at 24 hours; final report at 5 days.
+Notes: Collect two sets from two separate venipuncture sites before antibiotics are given. Do not draw through an existing IV catheter unless a line infection is suspected.
+
+LC-0732 Urine culture
+Specimen: sterile urine cup or catheter sample port, minimum 10 mL.
+Reference range: no growth or below 10,000 CFU/mL.
+Critical values: none defined.
+Turnaround time: preliminary report at 24 hours; final report at 48 hours.
+Notes: Never collect from the drainage bag. Refrigerate if not sent within 30 minutes.
+
+LC-0734 Sputum culture
+Specimen: sterile sputum cup.
+Reference range: normal respiratory flora.
+Critical values: none defined.
+Turnaround time: final report at 72 hours.
+Notes: Rejected if more than 10 squamous cells per field.
+
+LC-0736 MRSA nasal screen (PCR)
+Specimen: nasal swab, both nostrils.
+Reference range: not detected.
+Critical values: none defined.
+Turnaround time: routine 4 hours.
+Notes: A negative result supports stopping Vancorin in pneumonia.
+
+LC-0738 Clostridioides difficile toxin PCR
+Specimen: liquid stool sample.
+Reference range: not detected.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Only unformed stool is tested; do not test after laxatives within 48 hours.
+
+LC-0740 C-reactive protein (CRP)
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: below 5 mg/L.
+Critical values: none defined.
+Turnaround time: routine 4 hours.
+Notes: Non-specific marker of inflammation.
+
+LC-0742 Erythrocyte sedimentation rate (ESR)
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 0 to 20 mm/h.
+Critical values: none defined.
+Turnaround time: routine 4 hours.
+Notes: Rises slowly and falls slowly; less useful than CRP in acute illness.
+
+LC-0744 Respiratory viral panel (PCR)
+Specimen: nasopharyngeal swab in viral transport medium.
+Reference range: not detected.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Includes influenza A and B, RSV and SARS-CoV-2.
+
+Section: Cardiac and endocrine
+
+LC-0815 High-sensitivity troponin (HVMC hs-TnX assay)
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 99th percentile upper limit 14 ng/L.
+Critical values: 52 ng/L or above.
+Turnaround time: STAT 45 minutes.
+Notes: 0/1-hour algorithm: rule-out if the presentation value is below 5 ng/L and symptoms began more than 3 hours earlier; rule-in if the value is 52 ng/L or above, or rises by 5 ng/L or more at 1 hour. All other patients enter the observation zone and are retested at 3 hours.
+
+LC-0818 Troponin, point-of-care (bedside)
+Specimen: lithium heparin whole blood, minimum 1 mL.
+Reference range: upper reference limit 30 ng/L.
+Critical values: none defined.
+Turnaround time: 15 minutes.
+Notes: Less sensitive than LC-0815; never used alone to rule out myocardial infarction.
+
+LC-0851 B-type natriuretic peptide (BNP)
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: below 100 pg/mL.
+Critical values: none defined.
+Turnaround time: STAT 60 minutes.
+Notes: Values are lower in obesity; above 400 pg/mL makes heart failure likely.
+
+LC-0853 NT-proBNP
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: below 125 pg/mL under age 75; below 450 pg/mL age 75 and over.
+Critical values: none defined.
+Turnaround time: STAT 60 minutes.
+Notes: Not interchangeable with BNP (LC-0851).
+
+LC-0860 Hemoglobin A1c
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 4.0 to 5.6 percent.
+Critical values: none defined.
+Turnaround time: routine 24 hours.
+Notes: Ordered once per admission for patients with diabetes if none in 90 days.
+
+LC-0870 Thyroid-stimulating hormone (TSH)
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 0.4 to 4.0 mIU/L.
+Critical values: none defined.
+Turnaround time: routine 24 hours.
+Notes: Not recommended during acute critical illness.
+
+LC-0872 Free T4
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: 0.8 to 1.8 ng/dL.
+Critical values: none defined.
+Turnaround time: routine 24 hours.
+Notes: Ordered when TSH is abnormal.
+
+LC-0875 Cortisol, random
+Specimen: serum separator (gold top) tube, minimum 4 mL.
+Reference range: morning value 6 to 23 mcg/dL.
+Critical values: none defined.
+Turnaround time: routine 6 hours.
+Notes: Draw before the first dose of Prednavex when adrenal insufficiency is suspected.
+
+Section: Drug levels and special handling
+
+LC-0910 Vancorin levels for AUC dosing
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: target AUC 400 to 600.
+Critical values: none defined.
+Turnaround time: STAT 2 hours.
+Notes: Draw two levels around the same dose: the first 1 hour after the end of the infusion and the second within 30 minutes before the next dose. Label each tube with the exact draw time.
+
+LC-0912 Aminoglycoside level
+Specimen: lithium heparin (mint green top) tube, minimum 3 mL.
+Reference range: interpreted by pharmacy using a dosing nomogram.
+Critical values: none defined.
+Turnaround time: STAT 2 hours.
+Notes: Draw 6 to 14 hours after the first once-daily dose.
+
+LC-0915 Valproic acid level
+Specimen: serum separator (gold top) tube, minimum 4 mL.
+Reference range: 50 to 100 mcg/mL.
+Critical values: above 150 mcg/mL.
+Turnaround time: routine 6 hours.
+Notes: Falls sharply with Meronex; see formulary.
+
+LC-0918 Digoxin-class glycoside level
+Specimen: serum separator (gold top) tube, minimum 4 mL.
+Reference range: 0.5 to 0.9 ng/mL.
+Critical values: above 2.0 ng/mL.
+Turnaround time: routine 6 hours.
+Notes: Draw at least 6 hours after the last dose.
+
+LC-0920 Anti-Xa level (Heparivex)
+Specimen: sodium citrate (light blue top) tube, filled to the line.
+Reference range: treatment range 0.5 to 1.0 IU/mL; prophylaxis range 0.2 to 0.5 IU/mL.
+Critical values: none defined.
+Turnaround time: routine 4 hours.
+Notes: Draw 4 hours after the third or fourth dose.
+
+LC-0922 Anti-Xa level (unfractionated heparin)
+Specimen: sodium citrate (light blue top) tube, filled to the line.
+Reference range: 0.3 to 0.7 IU/mL.
+Critical values: none defined.
+Turnaround time: STAT 60 minutes.
+Notes: Draw 6 hours after any rate change. Not the same calibration as LC-0920.
+
+LC-0930 Ammonia, plasma
+Specimen: EDTA (lavender top) tube, minimum 2 mL.
+Reference range: 15 to 45 mcg/dL.
+Critical values: none defined.
+Turnaround time: STAT 30 minutes.
+Notes: Transport on ice and analyze within 30 minutes; do not use a tourniquet.
+
+LC-0935 Carboxyhemoglobin
+Specimen: pre-heparinized syringe, minimum 1 mL.
+Reference range: below 3 percent in non-smokers.
+Critical values: above 20 percent.
+Turnaround time: STAT 15 minutes.
+Notes: Pulse oximetry falsely reads normal in carbon monoxide poisoning.
+
+LC-0940 Arterial blood gas
+Specimen: pre-heparinized arterial syringe, minimum 1 mL.
+Reference range: pH 7.35 to 7.45; PaCO2 35 to 45 mmHg; PaO2 80 to 100 mmHg.
+Critical values: pH below 7.20 or above 7.60.
+Turnaround time: STAT 15 minutes.
+Notes: Expel all air bubbles and cap the syringe. Place on ice if analysis is delayed more than 30 minutes.
+
+LC-0945 Venous blood gas
+Specimen: pre-heparinized syringe, minimum 1 mL.
+Reference range: pH 7.31 to 7.41; PCO2 41 to 51 mmHg.
+Critical values: pH below 7.20.
+Turnaround time: STAT 15 minutes.
+Notes: Acceptable instead of an arterial gas for pH and bicarbonate trends.

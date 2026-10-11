@@ -1,0 +1,102 @@
+Kestrel SP-40 Syringe Infusion Pump
+Operator and Troubleshooting Manual, HVMC edition, revision 3
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+1. Overview
+The Kestrel SP-40 is a syringe pump for small-volume, high-precision infusions. At HVMC it is used in critical care, the neonatal-capable recovery area and for vasoactive infusions such as Norvessa and Vasoplex. It accepts syringes of 5, 10, 20, 30 and 50 mL from the brands listed in the syringe table on the pump; the brand must be confirmed on screen every time a syringe is loaded, because the plunger force calculation depends on it.
+
+2. Specifications
+Flow rate range: 0.01 to 200 mL/h with a 50 mL syringe. Bolus rate: up to 1,200 mL/h. Syringe occlusion pressure: adjustable in nine levels from 50 to 900 mmHg, factory default level 5. Near-end-of-infusion warning: 15 minutes before the syringe is empty. Battery: up to 10 hours at 5 mL/h when fully charged.
+
+3. Loading a syringe
+Prime the extension line before loading. Lift the plunger clamp, seat the syringe flange in the slot, lower the barrel clamp and close the plunger clamp over the plunger. Confirm the syringe brand and size on screen. Purge the line using the PURGE key, never by pushing the syringe by hand. Mount the pump no more than 30 cm above the patient's heart; raising a syringe pump higher can cause siphoning and an unintended bolus.
+
+4. Changing syringes for vasoactive drugs
+Prepare the new syringe before the current one runs out. Use the double-pump method for vasopressors: start the new syringe on a second SP-40 at the same rate, wait until the blood pressure is stable, then stop the old syringe. This avoids the drop in blood pressure that occurs when a vasopressor infusion pauses.
+
+5. Fault codes
+Codes on the SP-40 have their own meanings and must not be read from the IV-220 manual.
+
+E-01 Syringe not detected
+Type: clinical, high priority.
+Meaning: The barrel clamp does not sense a syringe.
+Action: Reseat the syringe and lower the barrel clamp fully.
+
+E-02 Plunger not engaged
+Type: clinical, high priority.
+Meaning: The plunger clamp is open or the plunger is not captured.
+Action: Close the plunger clamp over the plunger and confirm on screen.
+
+E-04 Syringe brand not confirmed
+Type: clinical, medium priority.
+Meaning: A syringe was loaded but its brand was not confirmed within 60 seconds.
+Action: Select the syringe brand and size from the list.
+
+E-05 Near end of infusion
+Type: clinical, medium priority.
+Meaning: About 15 minutes of drug remain in the syringe.
+Action: Prepare the next syringe; use the double-pump method for vasopressors.
+
+E-06 Syringe empty
+Type: clinical, high priority.
+Meaning: The plunger has reached the end of the syringe.
+Action: Load the new syringe and restart.
+
+E-09 Bolus interrupted
+Type: clinical, medium priority.
+Meaning: A bolus was stopped before the full volume was given.
+Action: Check the volume delivered on the history screen before giving more.
+
+E-12 Syringe line occlusion
+Type: clinical, high priority.
+Meaning: Plunger force exceeded the selected occlusion level.
+Action: Check the extension line and three-way taps for closed positions, then restart. For vasopressors, restart quickly because pressure support has stopped.
+
+E-14 Siphoning risk
+Type: clinical, high priority.
+Meaning: The pump detects a height above the patient that could cause free flow.
+Action: Lower the pump to no more than 30 cm above the heart.
+
+E-17 Plunger clamp opened during infusion
+Type: clinical, high priority.
+Meaning: The plunger clamp was lifted while the syringe was infusing.
+Action: Close the clamp, check the patient for an unintended bolus and restart.
+
+E-21 Rate above drug library limit
+Type: clinical, medium priority.
+Meaning: The entered rate exceeds the soft limit for the selected drug.
+Action: Confirm the order and either correct the rate or override with a documented reason.
+
+E-23 Standby time expired
+Type: clinical, low priority.
+Meaning: The pump has been in standby longer than the set time.
+Action: Restart the infusion or extend standby.
+
+E-40 Drive mechanism fault
+Type: technical.
+Meaning: The lead screw did not move as commanded.
+Action: Technical fault. Remove from service and tag for biomedical engineering.
+
+E-41 Force sensor calibration error
+Type: technical.
+Meaning: The plunger force sensor is out of calibration.
+Action: Technical fault. Remove from service.
+
+E-42 Barrel clamp sensor fault
+Type: technical.
+Meaning: The syringe size cannot be measured.
+Action: Technical fault. Remove from service.
+
+E-44 Battery fault
+Type: technical.
+Meaning: The battery cannot be charged.
+Action: Technical fault. Remove from service.
+
+E-71 Syringe size sensor drift
+Type: technical.
+Meaning: The barrel clamp reports a size that does not match the selected syringe.
+Action: Technical fault. Remove from service; volumes delivered may be inaccurate.
+
+
+Out-of-service procedure
+Attach a red "DO NOT USE" tag with the fault code and asset tag and call biomedical engineering at extension 4417. For any device holding a controlled substance, the remaining drug is wasted with a witness before the device leaves the unit.

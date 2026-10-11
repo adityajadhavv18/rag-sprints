@@ -1,0 +1,407 @@
+Halverd Valley Medical Center (HVMC)
+Y-Site IV Compatibility Chart, 2026
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+Y-site compatibility means two drugs can meet in the same IV line for the short time they mix at the connection. It does not mean they can be mixed in the same bag. When a pair is not listed, call central pharmacy at extension 4200 before running them together. Blood products are compatible only with normal saline.
+
+Section: Zephacillin Y-site compatibility
+
+Zephacillin with Cefalyn: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Meronex: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Vancorin: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Azithrel: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Tarnaflox: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Nephrazole: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Lumidex: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Ondelix: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Pantorex: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Morphalin: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Hydrovane: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Zephacillin with Acetavol: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Zephacillin with Ketrolin: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Sedoflux: Variable: compatible only below the standard concentration; check with pharmacy.
+Zephacillin with Halopran: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Calmazine: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Furovex: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Norvessa: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Vasoplex: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Kaliveen: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Magnora: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Prednavex: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Zephacillin with Heparivex: Compatible at standard concentrations for at least 4 hours.
+Zephacillin with Dextriva: Compatible at the HVMC standard concentrations in the drug library.
+Zephacillin with Fosferra: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+
+Section: Cefalyn Y-site compatibility
+
+Cefalyn with Meronex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Cefalyn with Vancorin: Compatible at standard concentrations for at least 4 hours.
+Cefalyn with Azithrel: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Cefalyn with Tarnaflox: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Cefalyn with Nephrazole: Compatible at the HVMC standard concentrations in the drug library.
+Cefalyn with Lumidex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Cefalyn with Ondelix: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Cefalyn with Pantorex: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Cefalyn with Morphalin: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Cefalyn with Hydrovane: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Cefalyn with Acetavol: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Cefalyn with Ketrolin: Compatible at the HVMC standard concentrations in the drug library.
+Cefalyn with Sedoflux: Compatible at the HVMC standard concentrations in the drug library.
+Cefalyn with Halopran: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Cefalyn with Calmazine: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Cefalyn with Furovex: Compatible at the HVMC standard concentrations in the drug library.
+Cefalyn with Norvessa: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Cefalyn with Vasoplex: No data: treat as incompatible until pharmacy confirms.
+Cefalyn with Kaliveen: Compatible at the HVMC standard concentrations in the drug library.
+Cefalyn with Magnora: Compatible at the HVMC standard concentrations in the drug library.
+Cefalyn with Prednavex: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Cefalyn with Heparivex: Compatible at the HVMC standard concentrations in the drug library.
+Cefalyn with Dextriva: No data: treat as incompatible until pharmacy confirms.
+Cefalyn with Fosferra: Incompatible: loss of potency of the first drug. Use a separate lumen.
+
+Section: Meronex Y-site compatibility
+
+Meronex with Vancorin: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Meronex with Azithrel: Compatible at the HVMC standard concentrations in the drug library.
+Meronex with Tarnaflox: Compatible at standard concentrations for at least 4 hours.
+Meronex with Nephrazole: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Meronex with Lumidex: Compatible at standard concentrations for at least 4 hours.
+Meronex with Ondelix: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Meronex with Pantorex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Meronex with Morphalin: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Meronex with Hydrovane: No data: treat as incompatible until pharmacy confirms.
+Meronex with Acetavol: No data: treat as incompatible until pharmacy confirms.
+Meronex with Ketrolin: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Meronex with Sedoflux: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Meronex with Halopran: Variable: compatible only below the standard concentration; check with pharmacy.
+Meronex with Calmazine: Compatible at standard concentrations for at least 4 hours.
+Meronex with Furovex: Compatible at standard concentrations for at least 4 hours.
+Meronex with Norvessa: Compatible at the HVMC standard concentrations in the drug library.
+Meronex with Vasoplex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Meronex with Kaliveen: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Meronex with Magnora: Compatible at the HVMC standard concentrations in the drug library.
+Meronex with Prednavex: Compatible at standard concentrations for at least 4 hours.
+Meronex with Heparivex: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Meronex with Dextriva: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Meronex with Fosferra: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+
+Section: Vancorin Y-site compatibility
+
+Vancorin with Azithrel: Compatible at the HVMC standard concentrations in the drug library.
+Vancorin with Tarnaflox: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Vancorin with Nephrazole: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Vancorin with Lumidex: Compatible at the HVMC standard concentrations in the drug library.
+Vancorin with Ondelix: Compatible at standard concentrations for at least 4 hours.
+Vancorin with Pantorex: Compatible at standard concentrations for at least 4 hours.
+Vancorin with Morphalin: Compatible at standard concentrations for at least 4 hours.
+Vancorin with Hydrovane: Compatible at standard concentrations for at least 4 hours.
+Vancorin with Acetavol: Compatible at the HVMC standard concentrations in the drug library.
+Vancorin with Ketrolin: Compatible at standard concentrations for at least 4 hours.
+Vancorin with Sedoflux: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Vancorin with Halopran: Compatible at standard concentrations for at least 4 hours.
+Vancorin with Calmazine: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Vancorin with Furovex: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Vancorin with Norvessa: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Vancorin with Vasoplex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Vancorin with Kaliveen: No data: treat as incompatible until pharmacy confirms.
+Vancorin with Magnora: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Vancorin with Prednavex: Compatible at standard concentrations for at least 4 hours.
+Vancorin with Heparivex: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Vancorin with Dextriva: Compatible at the HVMC standard concentrations in the drug library.
+Vancorin with Fosferra: Compatible at standard concentrations for at least 4 hours.
+
+Section: Azithrel Y-site compatibility
+
+Azithrel with Tarnaflox: Compatible at the HVMC standard concentrations in the drug library.
+Azithrel with Nephrazole: Compatible at the HVMC standard concentrations in the drug library.
+Azithrel with Lumidex: Compatible at standard concentrations for at least 4 hours.
+Azithrel with Ondelix: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Azithrel with Pantorex: Variable: compatible only below the standard concentration; check with pharmacy.
+Azithrel with Morphalin: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Azithrel with Hydrovane: Compatible at standard concentrations for at least 4 hours.
+Azithrel with Acetavol: Compatible at standard concentrations for at least 4 hours.
+Azithrel with Ketrolin: Compatible at the HVMC standard concentrations in the drug library.
+Azithrel with Sedoflux: Compatible at standard concentrations for at least 4 hours.
+Azithrel with Halopran: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Azithrel with Calmazine: No data: treat as incompatible until pharmacy confirms.
+Azithrel with Furovex: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Azithrel with Norvessa: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Azithrel with Vasoplex: Compatible at standard concentrations for at least 4 hours.
+Azithrel with Kaliveen: No data: treat as incompatible until pharmacy confirms.
+Azithrel with Magnora: Compatible at standard concentrations for at least 4 hours.
+Azithrel with Prednavex: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Azithrel with Heparivex: Compatible at the HVMC standard concentrations in the drug library.
+Azithrel with Dextriva: No data: treat as incompatible until pharmacy confirms.
+Azithrel with Fosferra: Compatible at standard concentrations for at least 4 hours.
+
+Section: Tarnaflox Y-site compatibility
+
+Tarnaflox with Nephrazole: Compatible at standard concentrations for at least 4 hours.
+Tarnaflox with Lumidex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Tarnaflox with Ondelix: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Tarnaflox with Pantorex: No data: treat as incompatible until pharmacy confirms.
+Tarnaflox with Morphalin: No data: treat as incompatible until pharmacy confirms.
+Tarnaflox with Hydrovane: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Tarnaflox with Acetavol: Variable: compatible only below the standard concentration; check with pharmacy.
+Tarnaflox with Ketrolin: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Tarnaflox with Sedoflux: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Tarnaflox with Halopran: No data: treat as incompatible until pharmacy confirms.
+Tarnaflox with Calmazine: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Tarnaflox with Furovex: Compatible at the HVMC standard concentrations in the drug library.
+Tarnaflox with Norvessa: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Tarnaflox with Vasoplex: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Tarnaflox with Kaliveen: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Tarnaflox with Magnora: Variable: compatible only below the standard concentration; check with pharmacy.
+Tarnaflox with Prednavex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Tarnaflox with Heparivex: Variable: compatible only below the standard concentration; check with pharmacy.
+Tarnaflox with Dextriva: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Tarnaflox with Fosferra: Variable: depends on the diluent; compatible in saline but not in dextrose.
+
+Section: Nephrazole Y-site compatibility
+
+Nephrazole with Lumidex: Variable: compatible only below the standard concentration; check with pharmacy.
+Nephrazole with Ondelix: Compatible at standard concentrations for at least 4 hours.
+Nephrazole with Pantorex: Compatible at the HVMC standard concentrations in the drug library.
+Nephrazole with Morphalin: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Nephrazole with Hydrovane: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Nephrazole with Acetavol: Compatible at standard concentrations for at least 4 hours.
+Nephrazole with Ketrolin: Variable: compatible only below the standard concentration; check with pharmacy.
+Nephrazole with Sedoflux: Compatible at standard concentrations for at least 4 hours.
+Nephrazole with Halopran: Compatible at standard concentrations for at least 4 hours.
+Nephrazole with Calmazine: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Nephrazole with Furovex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Nephrazole with Norvessa: Variable: compatible only below the standard concentration; check with pharmacy.
+Nephrazole with Vasoplex: No data: treat as incompatible until pharmacy confirms.
+Nephrazole with Kaliveen: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Nephrazole with Magnora: Compatible at the HVMC standard concentrations in the drug library.
+Nephrazole with Prednavex: Compatible at the HVMC standard concentrations in the drug library.
+Nephrazole with Heparivex: Compatible at standard concentrations for at least 4 hours.
+Nephrazole with Dextriva: Compatible at standard concentrations for at least 4 hours.
+Nephrazole with Fosferra: Variable: compatible only below the standard concentration; check with pharmacy.
+
+Section: Lumidex Y-site compatibility
+
+Lumidex with Ondelix: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Lumidex with Pantorex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Lumidex with Morphalin: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Lumidex with Hydrovane: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Lumidex with Acetavol: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Lumidex with Ketrolin: Compatible at standard concentrations for at least 4 hours.
+Lumidex with Sedoflux: Variable: compatible only below the standard concentration; check with pharmacy.
+Lumidex with Halopran: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Lumidex with Calmazine: Compatible at standard concentrations for at least 4 hours.
+Lumidex with Furovex: Compatible at the HVMC standard concentrations in the drug library.
+Lumidex with Norvessa: Compatible at standard concentrations for at least 4 hours.
+Lumidex with Vasoplex: Compatible at the HVMC standard concentrations in the drug library.
+Lumidex with Kaliveen: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Lumidex with Magnora: Compatible at the HVMC standard concentrations in the drug library.
+Lumidex with Prednavex: Compatible at the HVMC standard concentrations in the drug library.
+Lumidex with Heparivex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Lumidex with Dextriva: Compatible at standard concentrations for at least 4 hours.
+Lumidex with Fosferra: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+
+Section: Ondelix Y-site compatibility
+
+Ondelix with Pantorex: Variable: compatible only below the standard concentration; check with pharmacy.
+Ondelix with Morphalin: Variable: compatible only below the standard concentration; check with pharmacy.
+Ondelix with Hydrovane: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Ondelix with Acetavol: Compatible at standard concentrations for at least 4 hours.
+Ondelix with Ketrolin: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Ondelix with Sedoflux: Compatible at the HVMC standard concentrations in the drug library.
+Ondelix with Halopran: Compatible at standard concentrations for at least 4 hours.
+Ondelix with Calmazine: Variable: compatible only below the standard concentration; check with pharmacy.
+Ondelix with Furovex: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Ondelix with Norvessa: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Ondelix with Vasoplex: Compatible at standard concentrations for at least 4 hours.
+Ondelix with Kaliveen: Variable: compatible only below the standard concentration; check with pharmacy.
+Ondelix with Magnora: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Ondelix with Prednavex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Ondelix with Heparivex: Compatible at the HVMC standard concentrations in the drug library.
+Ondelix with Dextriva: Variable: compatible only below the standard concentration; check with pharmacy.
+Ondelix with Fosferra: Incompatible: loss of potency of the first drug. Use a separate lumen.
+
+Section: Pantorex Y-site compatibility
+
+Pantorex with Morphalin: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Pantorex with Hydrovane: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Pantorex with Acetavol: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Pantorex with Ketrolin: Compatible at the HVMC standard concentrations in the drug library.
+Pantorex with Sedoflux: Compatible at the HVMC standard concentrations in the drug library.
+Pantorex with Halopran: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Pantorex with Calmazine: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Pantorex with Furovex: Compatible at standard concentrations for at least 4 hours.
+Pantorex with Norvessa: Compatible at standard concentrations for at least 4 hours.
+Pantorex with Vasoplex: Variable: compatible only below the standard concentration; check with pharmacy.
+Pantorex with Kaliveen: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Pantorex with Magnora: Compatible at standard concentrations for at least 4 hours.
+Pantorex with Prednavex: Compatible at standard concentrations for at least 4 hours.
+Pantorex with Heparivex: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Pantorex with Dextriva: No data: treat as incompatible until pharmacy confirms.
+Pantorex with Fosferra: Compatible at the HVMC standard concentrations in the drug library.
+
+Section: Morphalin Y-site compatibility
+
+Morphalin with Hydrovane: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Morphalin with Acetavol: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Morphalin with Ketrolin: Compatible at standard concentrations for at least 4 hours.
+Morphalin with Sedoflux: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Morphalin with Halopran: Compatible at standard concentrations for at least 4 hours.
+Morphalin with Calmazine: Compatible at standard concentrations for at least 4 hours.
+Morphalin with Furovex: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Morphalin with Norvessa: Compatible at standard concentrations for at least 4 hours.
+Morphalin with Vasoplex: Compatible at standard concentrations for at least 4 hours.
+Morphalin with Kaliveen: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Morphalin with Magnora: No data: treat as incompatible until pharmacy confirms.
+Morphalin with Prednavex: No data: treat as incompatible until pharmacy confirms.
+Morphalin with Heparivex: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Morphalin with Dextriva: Compatible at standard concentrations for at least 4 hours.
+Morphalin with Fosferra: Variable: compatible only below the standard concentration; check with pharmacy.
+
+Section: Hydrovane Y-site compatibility
+
+Hydrovane with Acetavol: Compatible at standard concentrations for at least 4 hours.
+Hydrovane with Ketrolin: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Hydrovane with Sedoflux: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Hydrovane with Halopran: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Hydrovane with Calmazine: Compatible at the HVMC standard concentrations in the drug library.
+Hydrovane with Furovex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Hydrovane with Norvessa: No data: treat as incompatible until pharmacy confirms.
+Hydrovane with Vasoplex: Compatible at standard concentrations for at least 4 hours.
+Hydrovane with Kaliveen: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Hydrovane with Magnora: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Hydrovane with Prednavex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Hydrovane with Heparivex: Compatible at the HVMC standard concentrations in the drug library.
+Hydrovane with Dextriva: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Hydrovane with Fosferra: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+
+Section: Acetavol Y-site compatibility
+
+Acetavol with Ketrolin: No data: treat as incompatible until pharmacy confirms.
+Acetavol with Sedoflux: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Acetavol with Halopran: Compatible at the HVMC standard concentrations in the drug library.
+Acetavol with Calmazine: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Acetavol with Furovex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Acetavol with Norvessa: Variable: compatible only below the standard concentration; check with pharmacy.
+Acetavol with Vasoplex: Compatible at the HVMC standard concentrations in the drug library.
+Acetavol with Kaliveen: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Acetavol with Magnora: Compatible at standard concentrations for at least 4 hours.
+Acetavol with Prednavex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Acetavol with Heparivex: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Acetavol with Dextriva: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Acetavol with Fosferra: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+
+Section: Ketrolin Y-site compatibility
+
+Ketrolin with Sedoflux: Compatible at standard concentrations for at least 4 hours.
+Ketrolin with Halopran: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Ketrolin with Calmazine: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Ketrolin with Furovex: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Ketrolin with Norvessa: Compatible at standard concentrations for at least 4 hours.
+Ketrolin with Vasoplex: No data: treat as incompatible until pharmacy confirms.
+Ketrolin with Kaliveen: Compatible at standard concentrations for at least 4 hours.
+Ketrolin with Magnora: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Ketrolin with Prednavex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Ketrolin with Heparivex: Compatible at standard concentrations for at least 4 hours.
+Ketrolin with Dextriva: Compatible at standard concentrations for at least 4 hours.
+Ketrolin with Fosferra: Compatible at standard concentrations for at least 4 hours.
+
+Section: Sedoflux Y-site compatibility
+
+Sedoflux with Halopran: Compatible at the HVMC standard concentrations in the drug library.
+Sedoflux with Calmazine: Compatible at standard concentrations for at least 4 hours.
+Sedoflux with Furovex: Compatible at the HVMC standard concentrations in the drug library.
+Sedoflux with Norvessa: Compatible at the HVMC standard concentrations in the drug library.
+Sedoflux with Vasoplex: Variable: compatible only below the standard concentration; check with pharmacy.
+Sedoflux with Kaliveen: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Sedoflux with Magnora: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Sedoflux with Prednavex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Sedoflux with Heparivex: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Sedoflux with Dextriva: Compatible at the HVMC standard concentrations in the drug library.
+Sedoflux with Fosferra: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+
+Section: Halopran Y-site compatibility
+
+Halopran with Calmazine: Compatible at the HVMC standard concentrations in the drug library.
+Halopran with Furovex: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Halopran with Norvessa: Compatible at the HVMC standard concentrations in the drug library.
+Halopran with Vasoplex: Variable: compatible only below the standard concentration; check with pharmacy.
+Halopran with Kaliveen: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Halopran with Magnora: Compatible at standard concentrations for at least 4 hours.
+Halopran with Prednavex: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Halopran with Heparivex: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Halopran with Dextriva: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Halopran with Fosferra: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+
+Section: Calmazine Y-site compatibility
+
+Calmazine with Furovex: Compatible at standard concentrations for at least 4 hours.
+Calmazine with Norvessa: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Calmazine with Vasoplex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Calmazine with Kaliveen: Compatible at the HVMC standard concentrations in the drug library.
+Calmazine with Magnora: Compatible at the HVMC standard concentrations in the drug library.
+Calmazine with Prednavex: Incompatible: visible haze within 1 hour. Never run through the same Y-site.
+Calmazine with Heparivex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Calmazine with Dextriva: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Calmazine with Fosferra: Variable: depends on the diluent; compatible in saline but not in dextrose.
+
+Section: Furovex Y-site compatibility
+
+Furovex with Norvessa: Compatible at the HVMC standard concentrations in the drug library.
+Furovex with Vasoplex: Compatible at the HVMC standard concentrations in the drug library.
+Furovex with Kaliveen: Compatible at standard concentrations for at least 4 hours.
+Furovex with Magnora: Variable: compatible only below the standard concentration; check with pharmacy.
+Furovex with Prednavex: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+Furovex with Heparivex: Compatible at the HVMC standard concentrations in the drug library.
+Furovex with Dextriva: No data: treat as incompatible until pharmacy confirms.
+Furovex with Fosferra: Variable: compatible only below the standard concentration; check with pharmacy.
+
+Section: Norvessa Y-site compatibility
+
+Norvessa with Vasoplex: Compatible at the HVMC standard concentrations in the drug library.
+Norvessa with Kaliveen: Compatible at standard concentrations for at least 4 hours.
+Norvessa with Magnora: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Norvessa with Prednavex: Compatible at the HVMC standard concentrations in the drug library.
+Norvessa with Heparivex: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Norvessa with Dextriva: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Norvessa with Fosferra: Compatible at the HVMC standard concentrations in the drug library.
+
+Section: Vasoplex Y-site compatibility
+
+Vasoplex with Kaliveen: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Vasoplex with Magnora: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Vasoplex with Prednavex: Variable: compatible only below the standard concentration; check with pharmacy.
+Vasoplex with Heparivex: Incompatible: loss of potency of the first drug. Use a separate lumen.
+Vasoplex with Dextriva: Compatible at the HVMC standard concentrations in the drug library.
+Vasoplex with Fosferra: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+
+Section: Kaliveen Y-site compatibility
+
+Kaliveen with Magnora: Compatible at standard concentrations for at least 4 hours.
+Kaliveen with Prednavex: Variable: depends on the diluent; compatible in saline but not in dextrose.
+Kaliveen with Heparivex: Compatible at standard concentrations for at least 4 hours.
+Kaliveen with Dextriva: Variable: compatible only below the standard concentration; check with pharmacy.
+Kaliveen with Fosferra: Compatible at standard concentrations for at least 4 hours.
+
+Section: Magnora Y-site compatibility
+
+Magnora with Prednavex: No data: treat as incompatible until pharmacy confirms.
+Magnora with Heparivex: No data: treat as incompatible until pharmacy confirms.
+Magnora with Dextriva: Compatible at standard concentrations for at least 4 hours.
+Magnora with Fosferra: Compatible at standard concentrations for at least 4 hours.
+
+Section: Prednavex Y-site compatibility
+
+Prednavex with Heparivex: Compatible at the HVMC standard concentrations in the drug library.
+Prednavex with Dextriva: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+Prednavex with Fosferra: Compatible at the HVMC standard concentrations in the drug library.
+
+Section: Heparivex Y-site compatibility
+
+Heparivex with Dextriva: Compatible at standard concentrations for at least 4 hours.
+Heparivex with Fosferra: Incompatible: forms a precipitate. Use a separate lumen or a separate line.
+
+Section: Dextriva Y-site compatibility
+
+Dextriva with Fosferra: Compatible; flush the line with 10 mL saline between doses when running intermittently.
+
+Section: Fosferra Y-site compatibility

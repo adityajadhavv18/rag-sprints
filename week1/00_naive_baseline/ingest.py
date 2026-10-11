@@ -3,9 +3,12 @@
 Naive on purpose: fixed-size windows that ignore sections, paragraphs and tables.
 Later sprints (Parent-Child, Contextual) fix that, and this baseline measures by how much.
 
-Run from rag_sprints/:  uv run week1/00_naive_baseline/ingest.py
+Run from rag_sprints/:
+    uv run week1/00_naive_baseline/ingest.py                      # 10-K corpus -> naive_10k
+    RAG_CORPUS=medical uv run week1/00_naive_baseline/ingest.py   # synthetic medical corpus -> naive_medical
 """
 
+import os
 import statistics
 import time
 import uuid
@@ -16,10 +19,19 @@ from fastembed import TextEmbedding
 from qdrant_client import QdrantClient, models
 from tokenizers import Tokenizer
 
-DATA_DIR = Path(__file__).resolve().parents[2] / "data"
+DATA_ROOT = Path(__file__).resolve().parents[2] / "data"
+# corpus name -> (folder of .txt docs, golden set). RAG_CORPUS picks one for ingest, pipeline and run_eval alike.
+CORPORA = {
+    "10k": (DATA_ROOT, "golden_v1.jsonl"),
+    "medical": (DATA_ROOT / "medical", "golden_medical_v1.jsonl"),
+}
+CORPUS = os.getenv("RAG_CORPUS", "10k")
+if CORPUS not in CORPORA:
+    raise SystemExit(f"RAG_CORPUS={CORPUS!r} is not one of {sorted(CORPORA)}")
+DATA_DIR, GOLDEN_SET = CORPORA[CORPUS]
 EMBED_MODEL = "BAAI/bge-small-en-v1.5"
 QDRANT_URL = "http://localhost:6333"
-COLLECTION = "naive_10k"  # one collection per architecture, so sprints never overwrite each other
+COLLECTION = f"naive_{CORPUS}"  # one collection per architecture and corpus, so nothing overwrites anything else
 
 # Measured in the EMBEDDING model's tokens: bge-small reads at most 512 tokens and silently drops the rest.
 # 450 + 2 special tokens ([CLS], [SEP]) can never exceed 512. (500 OpenAI tokens overflowed on 30% of chunks.)

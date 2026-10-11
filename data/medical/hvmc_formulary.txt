@@ -1,0 +1,2328 @@
+Halverd Valley Medical Center (HVMC)
+Adult Inpatient Formulary, 2026 edition
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+How to use this formulary
+Each entry lists the HVMC formulary code (HV-RX-####), drug class, formulary status, indications, usual adult dosing, renal dose adjustment, key interactions, monitoring and pharmacist notes. Renal adjustments use creatinine clearance (CrCl) calculated with the Cockcroft-Gault equation and actual body weight. This formulary covers adults only; consult the separate pediatric handbook for patients under 18. Non-formulary requests are submitted to pharmacy and reviewed within 24 hours.
+
+Section: Anticoagulants and reversal agents
+
+HV-RX-1364 Brioparin (low molecular weight heparin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: VTE prophylaxis in selected surgical patients.
+Adult dosing: 2500 units subcutaneously once daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Additive bleeding with NSAIDs.
+Monitoring: Platelets twice weekly.
+Pharmacist notes: Second-line to Heparivex.
+
+HV-RX-1491 Velaparin (low molecular weight heparin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: VTE prophylaxis in selected surgical patients.
+Adult dosing: 5000 units subcutaneously once daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Bleeding risk with antiplatelet agents.
+Monitoring: Platelets twice weekly.
+Pharmacist notes: Second-line to Heparivex.
+
+HV-RX-1990 Galogrel (P2Y12 antiplatelet agent)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Acute coronary syndrome; after coronary stenting.
+Adult dosing: Loading dose 180 mg by mouth, then 10 mg once daily.
+Renal adjustment: No adjustment; avoid in dialysis patients.
+Interactions: Proton pump inhibitors may reduce effect.
+Monitoring: CBC weekly while on dual antiplatelet therapy.
+Pharmacist notes: Do not stop within 6 months of a stent without cardiology approval.
+
+HV-RX-2010 Heparivex (low molecular weight heparin)
+Formulary status: Tier 1, unrestricted.
+Indications: Prevention of venous thromboembolism (VTE) in hospitalized adults; treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE).
+Adult dosing: VTE prophylaxis: 40 mg subcutaneously once daily. Treatment: 1 mg/kg subcutaneously every 12 hours.
+Renal adjustment: CrCl below 30 mL/min: prophylaxis 30 mg once daily; treatment 1 mg/kg once daily.
+Interactions: Additive bleeding risk with antiplatelet agents and Ketrolin.
+Monitoring: Platelet count every 2 to 3 days for the first 14 days to detect heparin-induced thrombocytopenia. Anti-Xa level (LC-0920) in patients over 150 kg or with CrCl below 30 mL/min.
+Pharmacist notes: Do not expel the air bubble from the prefilled syringe before injection.
+
+HV-RX-2047 Corvatrel (oral factor Xa inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Stroke prevention in non-valvular atrial fibrillation; treatment of DVT and PE.
+Adult dosing: 15 mg by mouth once daily with the evening meal.
+Renal adjustment: CrCl 15 to 50 mL/min: 10 mg once daily. CrCl below 15 mL/min: avoid use.
+Interactions: Avoid combination with strong CYP3A4 inhibitors such as Nephrazole, which roughly doubles Corvatrel exposure.
+Monitoring: CBC and serum creatinine at baseline, then renal function every 6 months.
+Pharmacist notes: No specific reversal agent is stocked. For life-threatening bleeding, contact hematology for four-factor prothrombin complex concentrate.
+
+HV-RX-2074 Corvetrol (oral direct thrombin inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Stroke prevention in non-valvular atrial fibrillation.
+Adult dosing: 110 mg by mouth twice daily. Capsules must not be opened or crushed.
+Renal adjustment: CrCl 30 to 50 mL/min: 75 mg twice daily. CrCl below 30 mL/min: contraindicated.
+Interactions: P-glycoprotein inhibitors increase Corvetrol levels.
+Monitoring: aPTT (LC-0625) may be used as a qualitative indicator of drug presence.
+Pharmacist notes: The reversal agent is Revexa (HV-RX-2081).
+
+HV-RX-2081 Revexa (monoclonal antibody fragment reversal agent)
+Formulary status: Restricted: requires approval from the hematology or emergency department attending.
+Indications: Reversal of Corvetrol before emergency surgery or in life-threatening bleeding.
+Adult dosing: 5 g IV, given as two consecutive 2.5 g boluses no more than 15 minutes apart.
+Renal adjustment: No adjustment.
+Interactions: Does not reverse Corvatrel or Heparivex.
+Monitoring: aPTT 2 to 4 hours after administration.
+Pharmacist notes: Stored refrigerated in the emergency department automated dispensing cabinet. Restart anticoagulation within 24 hours once hemostasis is achieved.
+
+HV-RX-2545 Yoragrel (P2Y12 antiplatelet agent)
+Formulary status: Non-formulary; available by request.
+Indications: Acute coronary syndrome; after coronary stenting.
+Adult dosing: Loading dose 180 mg by mouth, then 10 mg once daily.
+Renal adjustment: No adjustment; avoid in dialysis patients.
+Interactions: Proton pump inhibitors may reduce effect.
+Monitoring: CBC weekly while on dual antiplatelet therapy.
+Pharmacist notes: Do not stop within 6 months of a stent without cardiology approval.
+
+HV-RX-2919 Rovaparin (low molecular weight heparin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: VTE prophylaxis in selected surgical patients.
+Adult dosing: 5000 units subcutaneously once daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Additive bleeding with NSAIDs.
+Monitoring: Platelets twice weekly.
+Pharmacist notes: Second-line to Heparivex.
+
+HV-RX-3479 Xalagrel (P2Y12 antiplatelet agent)
+Formulary status: Tier 2.
+Indications: Acute coronary syndrome; after coronary stenting.
+Adult dosing: Loading dose 180 mg by mouth, then 75 mg once daily.
+Renal adjustment: No adjustment.
+Interactions: Bleeding risk with anticoagulants and NSAIDs.
+Monitoring: Watch for signs of bleeding.
+Pharmacist notes: Hold 5 to 7 days before elective surgery.
+
+HV-RX-3577 Levigrel (P2Y12 antiplatelet agent)
+Formulary status: Tier 1, unrestricted.
+Indications: Acute coronary syndrome; after coronary stenting.
+Adult dosing: Loading dose 300 mg by mouth, then 10 mg once daily.
+Renal adjustment: No adjustment.
+Interactions: Bleeding risk with anticoagulants and NSAIDs.
+Monitoring: Watch for signs of bleeding.
+Pharmacist notes: Do not stop within 6 months of a stent without cardiology approval.
+
+HV-RX-4533 Iloparin (low molecular weight heparin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: VTE prophylaxis in selected surgical patients.
+Adult dosing: 5000 units subcutaneously once daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Additive bleeding with NSAIDs.
+Monitoring: Platelets twice weekly.
+Pharmacist notes: Non-formulary alternative to Heparivex for orthopedic surgery only.
+
+HV-RX-5503 Beloparin (low molecular weight heparin)
+Formulary status: Tier 1, unrestricted.
+Indications: VTE prophylaxis in selected surgical patients.
+Adult dosing: 5000 units subcutaneously once daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Bleeding risk with antiplatelet agents.
+Monitoring: Platelets twice weekly.
+Pharmacist notes: Second-line to Heparivex.
+
+HV-RX-7477 Novaparin (low molecular weight heparin)
+Formulary status: Tier 1, unrestricted.
+Indications: VTE prophylaxis in selected surgical patients.
+Adult dosing: 5000 units subcutaneously once daily.
+Renal adjustment: CrCl below 30 mL/min: use unfractionated heparin instead.
+Interactions: Bleeding risk with antiplatelet agents.
+Monitoring: Platelets at baseline and on day 5.
+Pharmacist notes: Non-formulary alternative to Heparivex for orthopedic surgery only.
+
+HV-RX-7622 Fenogrel (P2Y12 antiplatelet agent)
+Formulary status: Tier 2.
+Indications: Acute coronary syndrome; after coronary stenting.
+Adult dosing: Loading dose 600 mg by mouth, then 90 mg once daily.
+Renal adjustment: No adjustment.
+Interactions: Proton pump inhibitors may reduce effect.
+Monitoring: Watch for signs of bleeding.
+Pharmacist notes: Hold 5 to 7 days before elective surgery.
+
+HV-RX-7974 Firaparin (low molecular weight heparin)
+Formulary status: Tier 1, unrestricted.
+Indications: VTE prophylaxis in selected surgical patients.
+Adult dosing: 5000 units subcutaneously once daily.
+Renal adjustment: CrCl below 30 mL/min: use unfractionated heparin instead.
+Interactions: Bleeding risk with antiplatelet agents.
+Monitoring: Platelets twice weekly.
+Pharmacist notes: Second-line to Heparivex.
+
+HV-RX-8089 Opragrel (P2Y12 antiplatelet agent)
+Formulary status: Non-formulary; available by request.
+Indications: Acute coronary syndrome; after coronary stenting.
+Adult dosing: Loading dose 600 mg by mouth, then 10 mg once daily.
+Renal adjustment: No adjustment; avoid in dialysis patients.
+Interactions: Bleeding risk with anticoagulants and NSAIDs.
+Monitoring: CBC weekly while on dual antiplatelet therapy.
+Pharmacist notes: Hold 5 to 7 days before elective surgery.
+
+HV-RX-8159 Garagrel (P2Y12 antiplatelet agent)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Acute coronary syndrome; after coronary stenting.
+Adult dosing: Loading dose 300 mg by mouth, then 10 mg once daily.
+Renal adjustment: No adjustment; avoid in dialysis patients.
+Interactions: Bleeding risk with anticoagulants and NSAIDs.
+Monitoring: Watch for signs of bleeding.
+Pharmacist notes: Hold 5 to 7 days before elective surgery.
+
+HV-RX-8431 Ulvagrel (P2Y12 antiplatelet agent)
+Formulary status: Non-formulary; available by request.
+Indications: Acute coronary syndrome; after coronary stenting.
+Adult dosing: Loading dose 180 mg by mouth, then 10 mg once daily.
+Renal adjustment: No adjustment; avoid in dialysis patients.
+Interactions: Bleeding risk with anticoagulants and NSAIDs.
+Monitoring: CBC weekly while on dual antiplatelet therapy.
+Pharmacist notes: Hold 5 to 7 days before elective surgery.
+
+HV-RX-8725 Opraparin (low molecular weight heparin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: VTE prophylaxis in selected surgical patients.
+Adult dosing: 5000 units subcutaneously once daily.
+Renal adjustment: CrCl below 30 mL/min: use unfractionated heparin instead.
+Interactions: Additive bleeding with NSAIDs.
+Monitoring: Platelets at baseline and on day 5.
+Pharmacist notes: Non-formulary alternative to Heparivex for orthopedic surgery only.
+
+Section: Anti-infectives
+
+HV-RX-1102 Zephacillin (extended-spectrum penicillin with beta-lactamase inhibitor)
+Formulary status: Tier 1; infectious diseases (ID) approval required to continue beyond 72 hours.
+Indications: Empiric therapy for sepsis of unknown source, hospital-acquired pneumonia and intra-abdominal infection.
+Adult dosing: 4.5 g IV every 6 hours. The first dose is given over 30 minutes; later doses run as an extended infusion over 4 hours, which is the HVMC standard.
+Renal adjustment: CrCl 20 to 40 mL/min: 3.375 g every 6 hours. CrCl below 20 mL/min: 2.25 g every 6 hours.
+Interactions: Increased nephrotoxicity when combined with Vancorin.
+Monitoring: Serum creatinine daily; CBC twice weekly.
+Pharmacist notes: First-line agent in the sepsis order set (CP-07).
+
+HV-RX-1108 Cefalyn (third-generation cephalosporin)
+Formulary status: Tier 1, unrestricted.
+Indications: Community-acquired pneumonia, pyelonephritis and bacterial meningitis.
+Adult dosing: 2 g IV once daily. Bacterial meningitis: 2 g IV every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Do not co-administer with calcium-containing IV solutions in the same line.
+Monitoring: CBC weekly; watch for biliary sludge with prolonged courses.
+Pharmacist notes: Cefalyn plus Azithrel is the standard ward regimen for community-acquired pneumonia.
+
+HV-RX-1120 Meronex (carbapenem)
+Formulary status: Restricted: ID approval required before the first dose, except in septic shock, where approval may be obtained within 24 hours.
+Indications: Infections with ESBL-producing organisms and severe nosocomial infections.
+Adult dosing: 1 g IV every 8 hours. Central nervous system infections: 2 g IV every 8 hours.
+Renal adjustment: CrCl 26 to 50 mL/min: 1 g every 12 hours. CrCl 10 to 25 mL/min: 500 mg every 12 hours.
+Interactions: Lowers valproic acid levels by up to 90 percent; avoid the combination and choose an alternative antiepileptic.
+Monitoring: Seizure precautions in patients with central nervous system disease.
+Pharmacist notes: Reserve for documented resistance to protect the hospital antibiogram.
+
+HV-RX-1135 Vancorin (glycopeptide antibiotic with MRSA coverage)
+Formulary status: Tier 1; dosed by pharmacy under the pharmacy-to-dose protocol.
+Indications: Suspected or confirmed MRSA infection; empiric sepsis coverage together with Zephacillin.
+Adult dosing: Loading dose 25 mg/kg IV (maximum 3,000 mg), then maintenance dosing targeting an AUC of 400 to 600. Infuse no faster than 1 g per hour.
+Renal adjustment: Pharmacy adjusts the dose using drug levels.
+Interactions: Nephrotoxicity is increased with Zephacillin and Ketrolin.
+Monitoring: Drug levels per LC-0910; serum creatinine daily.
+Pharmacist notes: Flushing of the upper body during a fast infusion is an infusion reaction, not an allergy: slow the rate.
+
+HV-RX-1150 Azithrel (macrolide antibiotic)
+Formulary status: Tier 1, unrestricted.
+Indications: Community-acquired pneumonia (atypical coverage).
+Adult dosing: 500 mg IV or by mouth once daily for 3 days.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with Lumidex, Halopran and Tarnaflox; obtain an ECG if combined.
+Monitoring: Baseline QTc in patients with cardiac disease.
+Pharmacist notes: Switch from IV to oral once the patient tolerates oral intake.
+
+HV-RX-1172 Tarnaflox (fluoroquinolone)
+Formulary status: Restricted to patients with a documented beta-lactam allergy or to susceptibility-guided therapy.
+Indications: Pneumonia and complicated urinary tract infection.
+Adult dosing: 750 mg IV or by mouth once daily.
+Renal adjustment: CrCl 20 to 49 mL/min: 750 mg every 48 hours.
+Interactions: Oral absorption is reduced by antacids, iron and magnesium; separate doses by at least 2 hours. Additive QT prolongation.
+Monitoring: Ask about tendon pain at every assessment.
+Pharmacist notes: Boxed warning for tendon rupture, higher in patients over 60 and in those taking corticosteroids such as Prednavex. Avoid in myasthenia gravis.
+
+HV-RX-1190 Nephrazole (triazole antifungal)
+Formulary status: Tier 2.
+Indications: Invasive candidiasis.
+Adult dosing: Loading dose 800 mg IV on day 1, then 400 mg once daily.
+Renal adjustment: CrCl below 50 mL/min: after the loading dose, give 200 mg once daily.
+Interactions: Strong CYP3A4 inhibitor: avoid with Corvatrel.
+Monitoring: Liver enzymes (LC-0510, LC-0512) weekly.
+Pharmacist notes: Oral and IV doses are interchangeable.
+
+HV-RX-1317 Opramicin (aminoglycoside)
+Formulary status: Tier 2.
+Indications: Gram-negative sepsis in combination; synergy for endocarditis.
+Adult dosing: 7 mg/kg IV once daily.
+Renal adjustment: Pharmacy adjusts the interval using levels.
+Interactions: Additive nephrotoxicity.
+Monitoring: Creatinine daily; hearing changes.
+Pharmacist notes: Pharmacy-to-dose.
+
+HV-RX-1350 Opralexin (first-generation cephalosporin)
+Formulary status: Non-formulary; available by request.
+Indications: Skin and soft tissue infection; surgical prophylaxis.
+Adult dosing: 2 g IV every 8 hours; surgical prophylaxis 3 g IV within 60 minutes before incision.
+Renal adjustment: CrCl 10 to 30 mL/min: every 12 hours.
+Interactions: Probenecid raises levels.
+Monitoring: Rash.
+Pharmacist notes: Patients over 120 kg receive 3 g for surgical prophylaxis.
+
+HV-RX-1361 Xalacycline (tetracycline-class antibiotic)
+Formulary status: Non-formulary; available by request.
+Indications: Community-acquired pneumonia; skin infections; tick-borne illness.
+Adult dosing: 100 mg IV or by mouth every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Photosensitivity.
+Monitoring: Liver enzymes on long courses.
+Pharmacist notes: Avoid in pregnancy.
+
+HV-RX-1420 Belomicin (aminoglycoside)
+Formulary status: Tier 1, unrestricted.
+Indications: Gram-negative sepsis in combination; synergy for endocarditis.
+Adult dosing: 5 mg/kg IV once daily.
+Renal adjustment: Pharmacy adjusts the interval using levels.
+Interactions: Nephrotoxicity and ototoxicity with loop diuretics and Vancorin.
+Monitoring: Creatinine daily; hearing changes.
+Pharmacist notes: Limit courses to 72 hours when possible.
+
+HV-RX-1656 Fenomicin (aminoglycoside)
+Formulary status: Tier 2.
+Indications: Gram-negative sepsis in combination; synergy for endocarditis.
+Adult dosing: 5 mg/kg IV once daily.
+Renal adjustment: Pharmacy adjusts the interval using levels.
+Interactions: Nephrotoxicity and ototoxicity with loop diuretics and Vancorin.
+Monitoring: Level 6 to 14 hours after the first dose.
+Pharmacist notes: Pharmacy-to-dose.
+
+HV-RX-2072 Tovalexin (first-generation cephalosporin)
+Formulary status: Non-formulary; available by request.
+Indications: Skin and soft tissue infection; surgical prophylaxis.
+Adult dosing: 1 g IV every 8 hours; surgical prophylaxis 2 g IV within 60 minutes before incision.
+Renal adjustment: CrCl 10 to 30 mL/min: every 12 hours.
+Interactions: None clinically relevant.
+Monitoring: CBC weekly on long courses.
+Pharmacist notes: Patients over 120 kg receive 3 g for surgical prophylaxis.
+
+HV-RX-2193 Firalexin (first-generation cephalosporin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Skin and soft tissue infection; surgical prophylaxis.
+Adult dosing: 2 g IV every 8 hours; surgical prophylaxis 3 g IV within 60 minutes before incision.
+Renal adjustment: CrCl 10 to 30 mL/min: every 12 hours.
+Interactions: Probenecid raises levels.
+Monitoring: CBC weekly on long courses.
+Pharmacist notes: Patients over 120 kg receive 3 g for surgical prophylaxis.
+
+HV-RX-2264 Tovacycline (tetracycline-class antibiotic)
+Formulary status: Tier 2.
+Indications: Community-acquired pneumonia; skin infections; tick-borne illness.
+Adult dosing: 100 mg IV or by mouth every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Absorption reduced by calcium, iron and antacids.
+Monitoring: Liver enzymes on long courses.
+Pharmacist notes: Avoid in pregnancy.
+
+HV-RX-2414 Wexalexin (first-generation cephalosporin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Skin and soft tissue infection; surgical prophylaxis.
+Adult dosing: 2 g IV every 8 hours; surgical prophylaxis 2 g IV within 60 minutes before incision.
+Renal adjustment: CrCl 10 to 30 mL/min: every 12 hours.
+Interactions: Probenecid raises levels.
+Monitoring: Rash.
+Pharmacist notes: Safe in most penicillin-allergic patients without anaphylaxis history.
+
+HV-RX-2440 Estaclovir (antiviral)
+Formulary status: Non-formulary; available by request.
+Indications: Herpes simplex and varicella zoster infections.
+Adult dosing: 5 mg/kg IV every 8 hours.
+Renal adjustment: CrCl below 25 mL/min: every 24 hours.
+Interactions: None clinically relevant.
+Monitoring: Creatinine every 48 hours; keep patient well hydrated.
+Pharmacist notes: Infuse over 1 hour.
+
+HV-RX-2605 Estacycline (tetracycline-class antibiotic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Community-acquired pneumonia; skin infections; tick-borne illness.
+Adult dosing: 100 mg IV or by mouth every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Photosensitivity.
+Monitoring: Liver enzymes on long courses.
+Pharmacist notes: Avoid in pregnancy.
+
+HV-RX-2702 Garalexin (first-generation cephalosporin)
+Formulary status: Non-formulary; available by request.
+Indications: Skin and soft tissue infection; surgical prophylaxis.
+Adult dosing: 2 g IV every 8 hours; surgical prophylaxis 2 g IV within 60 minutes before incision.
+Renal adjustment: CrCl 10 to 30 mL/min: every 12 hours.
+Interactions: Probenecid raises levels.
+Monitoring: Rash.
+Pharmacist notes: Safe in most penicillin-allergic patients without anaphylaxis history.
+
+HV-RX-2836 Quinacycline (tetracycline-class antibiotic)
+Formulary status: Tier 2.
+Indications: Community-acquired pneumonia; skin infections; tick-borne illness.
+Adult dosing: 100 mg IV or by mouth every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Absorption reduced by calcium, iron and antacids.
+Monitoring: Liver enzymes on long courses.
+Pharmacist notes: Take with a full glass of water and stay upright for 30 minutes.
+
+HV-RX-2847 Calalexin (first-generation cephalosporin)
+Formulary status: Non-formulary; available by request.
+Indications: Skin and soft tissue infection; surgical prophylaxis.
+Adult dosing: 1 g IV every 8 hours; surgical prophylaxis 3 g IV within 60 minutes before incision.
+Renal adjustment: CrCl 10 to 30 mL/min: every 12 hours.
+Interactions: None clinically relevant.
+Monitoring: CBC weekly on long courses.
+Pharmacist notes: Safe in most penicillin-allergic patients without anaphylaxis history.
+
+HV-RX-3144 Galoclovir (antiviral)
+Formulary status: Tier 1, unrestricted.
+Indications: Herpes simplex and varicella zoster infections.
+Adult dosing: 10 mg/kg IV every 8 hours.
+Renal adjustment: CrCl 25 to 50 mL/min: every 12 hours.
+Interactions: None clinically relevant.
+Monitoring: Creatinine every 48 hours; keep patient well hydrated.
+Pharmacist notes: Dose on ideal body weight in obesity.
+
+HV-RX-3173 Opraclovir (antiviral)
+Formulary status: Tier 2.
+Indications: Herpes simplex and varicella zoster infections.
+Adult dosing: 10 mg/kg IV every 8 hours.
+Renal adjustment: CrCl below 25 mL/min: every 24 hours.
+Interactions: None clinically relevant.
+Monitoring: Neurological status.
+Pharmacist notes: Infuse over 1 hour.
+
+HV-RX-3581 Belolexin (first-generation cephalosporin)
+Formulary status: Tier 1, unrestricted.
+Indications: Skin and soft tissue infection; surgical prophylaxis.
+Adult dosing: 1 g IV every 8 hours; surgical prophylaxis 2 g IV within 60 minutes before incision.
+Renal adjustment: CrCl below 35 mL/min: extend interval to every 12 hours.
+Interactions: Probenecid raises levels.
+Monitoring: Rash.
+Pharmacist notes: Safe in most penicillin-allergic patients without anaphylaxis history.
+
+HV-RX-4308 Xalaclovir (antiviral)
+Formulary status: Tier 1, unrestricted.
+Indications: Herpes simplex and varicella zoster infections.
+Adult dosing: 5 mg/kg IV every 8 hours.
+Renal adjustment: CrCl 25 to 50 mL/min: every 12 hours.
+Interactions: Nephrotoxicity with other nephrotoxic drugs.
+Monitoring: Neurological status.
+Pharmacist notes: Dose on ideal body weight in obesity.
+
+HV-RX-4431 Ulvaclovir (antiviral)
+Formulary status: Tier 1, unrestricted.
+Indications: Herpes simplex and varicella zoster infections.
+Adult dosing: 5 mg/kg IV every 8 hours.
+Renal adjustment: CrCl 25 to 50 mL/min: every 12 hours.
+Interactions: Nephrotoxicity with other nephrotoxic drugs.
+Monitoring: Creatinine every 48 hours; keep patient well hydrated.
+Pharmacist notes: Infuse over 1 hour.
+
+HV-RX-4607 Briomicin (aminoglycoside)
+Formulary status: Non-formulary; available by request.
+Indications: Gram-negative sepsis in combination; synergy for endocarditis.
+Adult dosing: 5 mg/kg IV once daily.
+Renal adjustment: Avoid in CrCl below 20 mL/min.
+Interactions: Nephrotoxicity and ototoxicity with loop diuretics and Vancorin.
+Monitoring: Creatinine daily; hearing changes.
+Pharmacist notes: Pharmacy-to-dose.
+
+HV-RX-4789 Hexacycline (tetracycline-class antibiotic)
+Formulary status: Tier 2.
+Indications: Community-acquired pneumonia; skin infections; tick-borne illness.
+Adult dosing: 100 mg IV or by mouth every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Photosensitivity.
+Monitoring: Liver enzymes on long courses.
+Pharmacist notes: Avoid in pregnancy.
+
+HV-RX-5034 Calamicin (aminoglycoside)
+Formulary status: Tier 2.
+Indications: Gram-negative sepsis in combination; synergy for endocarditis.
+Adult dosing: 5 mg/kg IV once daily.
+Renal adjustment: Pharmacy adjusts the interval using levels.
+Interactions: Nephrotoxicity and ototoxicity with loop diuretics and Vancorin.
+Monitoring: Level 6 to 14 hours after the first dose.
+Pharmacist notes: Limit courses to 72 hours when possible.
+
+HV-RX-5545 Quinalexin (first-generation cephalosporin)
+Formulary status: Tier 1, unrestricted.
+Indications: Skin and soft tissue infection; surgical prophylaxis.
+Adult dosing: 2 g IV every 8 hours; surgical prophylaxis 3 g IV within 60 minutes before incision.
+Renal adjustment: CrCl below 35 mL/min: extend interval to every 12 hours.
+Interactions: Probenecid raises levels.
+Monitoring: CBC weekly on long courses.
+Pharmacist notes: Patients over 120 kg receive 3 g for surgical prophylaxis.
+
+HV-RX-5788 Levimicin (aminoglycoside)
+Formulary status: Tier 2.
+Indications: Gram-negative sepsis in combination; synergy for endocarditis.
+Adult dosing: 5 mg/kg IV once daily.
+Renal adjustment: Pharmacy adjusts the interval using levels.
+Interactions: Additive nephrotoxicity.
+Monitoring: Level 6 to 14 hours after the first dose.
+Pharmacist notes: Limit courses to 72 hours when possible.
+
+HV-RX-6159 Abramicin (aminoglycoside)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Gram-negative sepsis in combination; synergy for endocarditis.
+Adult dosing: 5 mg/kg IV once daily.
+Renal adjustment: Pharmacy adjusts the interval using levels.
+Interactions: Additive nephrotoxicity.
+Monitoring: Level 6 to 14 hours after the first dose.
+Pharmacist notes: Pharmacy-to-dose.
+
+HV-RX-6449 Belocycline (tetracycline-class antibiotic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Community-acquired pneumonia; skin infections; tick-borne illness.
+Adult dosing: 100 mg IV or by mouth every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Photosensitivity.
+Monitoring: Liver enzymes on long courses.
+Pharmacist notes: Avoid in pregnancy.
+
+HV-RX-6605 Galocycline (tetracycline-class antibiotic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Community-acquired pneumonia; skin infections; tick-borne illness.
+Adult dosing: 100 mg IV or by mouth every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Absorption reduced by calcium, iron and antacids.
+Monitoring: Liver enzymes on long courses.
+Pharmacist notes: Avoid in pregnancy.
+
+HV-RX-6685 Silaclovir (antiviral)
+Formulary status: Non-formulary; available by request.
+Indications: Herpes simplex and varicella zoster infections.
+Adult dosing: 5 mg/kg IV every 8 hours.
+Renal adjustment: CrCl below 25 mL/min: every 24 hours.
+Interactions: Nephrotoxicity with other nephrotoxic drugs.
+Monitoring: Neurological status.
+Pharmacist notes: Infuse over 1 hour.
+
+HV-RX-7281 Elvaclovir (antiviral)
+Formulary status: Non-formulary; available by request.
+Indications: Herpes simplex and varicella zoster infections.
+Adult dosing: 5 mg/kg IV every 8 hours.
+Renal adjustment: CrCl 25 to 50 mL/min: every 12 hours.
+Interactions: Nephrotoxicity with other nephrotoxic drugs.
+Monitoring: Neurological status.
+Pharmacist notes: Dose on ideal body weight in obesity.
+
+HV-RX-7726 Calaclovir (antiviral)
+Formulary status: Tier 1, unrestricted.
+Indications: Herpes simplex and varicella zoster infections.
+Adult dosing: 10 mg/kg IV every 8 hours.
+Renal adjustment: CrCl below 25 mL/min: every 24 hours.
+Interactions: None clinically relevant.
+Monitoring: Neurological status.
+Pharmacist notes: Dose on ideal body weight in obesity.
+
+HV-RX-8343 Garamicin (aminoglycoside)
+Formulary status: Tier 1, unrestricted.
+Indications: Gram-negative sepsis in combination; synergy for endocarditis.
+Adult dosing: 7 mg/kg IV once daily.
+Renal adjustment: Avoid in CrCl below 20 mL/min.
+Interactions: Additive nephrotoxicity.
+Monitoring: Level 6 to 14 hours after the first dose.
+Pharmacist notes: Pharmacy-to-dose.
+
+HV-RX-8930 Zanacycline (tetracycline-class antibiotic)
+Formulary status: Non-formulary; available by request.
+Indications: Community-acquired pneumonia; skin infections; tick-borne illness.
+Adult dosing: 100 mg IV or by mouth every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Photosensitivity.
+Monitoring: Liver enzymes on long courses.
+Pharmacist notes: Avoid in pregnancy.
+
+Section: Endocrine and glucose management
+
+HV-RX-1078 Zanagliptin (DPP-4 inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Type 2 diabetes.
+Adult dosing: 100 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: Hypoglycemia when combined with sulfonylureas.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Usually stopped on admission and replaced with insulin.
+
+HV-RX-1476 Abragliptin (DPP-4 inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Type 2 diabetes.
+Adult dosing: 5 mg by mouth once daily.
+Renal adjustment: CrCl below 45 mL/min: halve the dose.
+Interactions: Hypoglycemia when combined with sulfonylureas.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Usually stopped on admission and replaced with insulin.
+
+HV-RX-1861 Beloglizide (sulfonylurea)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Type 2 diabetes.
+Adult dosing: 2.5 mg by mouth once daily with breakfast; maximum 10 mg daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Prolonged hypoglycemia with fluoroquinolones.
+Monitoring: Glucose before meals and at bedtime.
+Pharmacist notes: Hold on admission; high hypoglycemia risk in hospital.
+
+HV-RX-2628 Estagliflozin (SGLT2 inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Type 2 diabetes; heart failure; chronic kidney disease.
+Adult dosing: 25 mg by mouth once daily.
+Renal adjustment: eGFR below 20: do not start.
+Interactions: Additive hypotension with diuretics.
+Monitoring: Volume status and creatinine.
+Pharmacist notes: Hold 3 days before surgery because of euglycemic ketoacidosis risk.
+
+HV-RX-3150 Lumadex (long-acting basal insulin analog)
+Formulary status: Tier 1. High-alert medication: independent double check by two nurses required.
+Indications: Basal insulin for type 1 and type 2 diabetes.
+Adult dosing: Insulin-naive adults: 0.2 units/kg subcutaneously once daily at bedtime.
+Renal adjustment: eGFR below 30: reduce the starting dose to 0.1 units/kg.
+Interactions: Never mix in the same syringe as Glyvanta.
+Monitoring: Point-of-care glucose before meals and at bedtime.
+Pharmacist notes: Do not hold basal insulin completely for patients who are NPO; give 80 percent of the usual dose instead.
+
+HV-RX-3160 Glyvanta (rapid-acting insulin analog)
+Formulary status: Tier 1. High-alert medication: independent double check by two nurses required.
+Indications: Mealtime and correction insulin.
+Adult dosing: Give 0 to 15 minutes before meals. Correction scale: glucose 151 to 200 mg/dL, 2 units; 201 to 250, 4 units; 251 to 300, 6 units; 301 to 350, 8 units; above 350, 10 units and notify the provider.
+Renal adjustment: No adjustment; titrate to glucose.
+Interactions: Beta blockers such as Metavol can mask the warning signs of low glucose.
+Monitoring: Point-of-care glucose before meals and at bedtime.
+Pharmacist notes: If the patient is not eating, give the correction dose only, never the mealtime dose.
+
+HV-RX-3190 Dextriva (dextrose 50% injection)
+Formulary status: Tier 1, floor stock.
+Indications: Hypoglycemia (blood glucose below 70 mg/dL) in patients unable to take oral carbohydrate who have IV access.
+Adult dosing: 25 g (50 mL) IV push over 2 to 5 minutes. May repeat once after 15 minutes if glucose remains below 70 mg/dL.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Confirm IV patency before administration: extravasation causes tissue necrosis.
+Pharmacist notes: Part of the hypoglycemia protocol (CP-03).
+
+HV-RX-3195 Glucarin (intranasal glucagon)
+Formulary status: Tier 1, floor stock.
+Indications: Severe hypoglycemia in a patient without IV access.
+Adult dosing: 3 mg into one nostril. May repeat after 15 minutes using a new device.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Recheck glucose 15 minutes after the dose.
+Pharmacist notes: Ineffective when glycogen stores are depleted, as in chronic alcohol use or starvation. Vomiting is common: place the patient on their side.
+
+HV-RX-3413 Iloglizide (sulfonylurea)
+Formulary status: Non-formulary; available by request.
+Indications: Type 2 diabetes.
+Adult dosing: 1 mg by mouth once daily with breakfast; maximum 20 mg daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Hypoglycemia masked by beta blockers.
+Monitoring: Glucose before meals and at bedtime.
+Pharmacist notes: Hold on admission; high hypoglycemia risk in hospital.
+
+HV-RX-3833 Estaglizide (sulfonylurea)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Type 2 diabetes.
+Adult dosing: 5 mg by mouth once daily with breakfast; maximum 10 mg daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Prolonged hypoglycemia with fluoroquinolones.
+Monitoring: Glucose before meals and at bedtime.
+Pharmacist notes: Hold on admission; high hypoglycemia risk in hospital.
+
+HV-RX-4514 Novagliflozin (SGLT2 inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Type 2 diabetes; heart failure; chronic kidney disease.
+Adult dosing: 100 mg by mouth once daily.
+Renal adjustment: eGFR below 30: not for glucose lowering.
+Interactions: Additive hypotension with diuretics.
+Monitoring: Volume status and creatinine.
+Pharmacist notes: Hold while NPO.
+
+HV-RX-4953 Tovagliflozin (SGLT2 inhibitor)
+Formulary status: Non-formulary; available by request.
+Indications: Type 2 diabetes; heart failure; chronic kidney disease.
+Adult dosing: 100 mg by mouth once daily.
+Renal adjustment: eGFR below 30: not for glucose lowering.
+Interactions: Raises ketoacidosis risk when insulin is reduced.
+Monitoring: Volume status and creatinine.
+Pharmacist notes: Hold 3 days before surgery because of euglycemic ketoacidosis risk.
+
+HV-RX-5000 Quinagliflozin (SGLT2 inhibitor)
+Formulary status: Non-formulary; available by request.
+Indications: Type 2 diabetes; heart failure; chronic kidney disease.
+Adult dosing: 25 mg by mouth once daily.
+Renal adjustment: eGFR below 20: do not start.
+Interactions: Additive hypotension with diuretics.
+Monitoring: Volume status and creatinine.
+Pharmacist notes: Hold while NPO.
+
+HV-RX-5211 Pelaglizide (sulfonylurea)
+Formulary status: Non-formulary; available by request.
+Indications: Type 2 diabetes.
+Adult dosing: 2.5 mg by mouth once daily with breakfast; maximum 20 mg daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Prolonged hypoglycemia with fluoroquinolones.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Hold on admission; high hypoglycemia risk in hospital.
+
+HV-RX-5363 Zanagliflozin (SGLT2 inhibitor)
+Formulary status: Tier 2.
+Indications: Type 2 diabetes; heart failure; chronic kidney disease.
+Adult dosing: 100 mg by mouth once daily.
+Renal adjustment: eGFR below 20: do not start.
+Interactions: Additive hypotension with diuretics.
+Monitoring: Ketones if the patient is unwell.
+Pharmacist notes: Hold 3 days before surgery because of euglycemic ketoacidosis risk.
+
+HV-RX-5389 Koragliptin (DPP-4 inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Type 2 diabetes.
+Adult dosing: 100 mg by mouth once daily.
+Renal adjustment: CrCl below 45 mL/min: halve the dose.
+Interactions: None clinically relevant.
+Monitoring: Glucose before meals.
+Pharmacist notes: Report severe joint pain.
+
+HV-RX-5604 Elvagliflozin (SGLT2 inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Type 2 diabetes; heart failure; chronic kidney disease.
+Adult dosing: 10 mg by mouth once daily.
+Renal adjustment: eGFR below 20: do not start.
+Interactions: Additive hypotension with diuretics.
+Monitoring: Volume status and creatinine.
+Pharmacist notes: Hold 3 days before surgery because of euglycemic ketoacidosis risk.
+
+HV-RX-5623 Duraglizide (sulfonylurea)
+Formulary status: Non-formulary; available by request.
+Indications: Type 2 diabetes.
+Adult dosing: 1 mg by mouth once daily with breakfast; maximum 20 mg daily.
+Renal adjustment: CrCl below 30 mL/min: avoid.
+Interactions: Prolonged hypoglycemia with fluoroquinolones.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Hold on admission; high hypoglycemia risk in hospital.
+
+HV-RX-5819 Hexaglizide (sulfonylurea)
+Formulary status: Tier 1, unrestricted.
+Indications: Type 2 diabetes.
+Adult dosing: 2.5 mg by mouth once daily with breakfast; maximum 20 mg daily.
+Renal adjustment: Start at the lowest dose in older adults.
+Interactions: Prolonged hypoglycemia with fluoroquinolones.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Hold on admission; high hypoglycemia risk in hospital.
+
+HV-RX-6251 Novagliptin (DPP-4 inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Type 2 diabetes.
+Adult dosing: 100 mg by mouth once daily.
+Renal adjustment: CrCl below 45 mL/min: halve the dose.
+Interactions: None clinically relevant.
+Monitoring: Glucose before meals.
+Pharmacist notes: Report severe joint pain.
+
+HV-RX-6434 Calagliptin (DPP-4 inhibitor)
+Formulary status: Tier 2.
+Indications: Type 2 diabetes.
+Adult dosing: 100 mg by mouth once daily.
+Renal adjustment: CrCl below 45 mL/min: halve the dose.
+Interactions: None clinically relevant.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Report severe joint pain.
+
+HV-RX-6676 Levigliflozin (SGLT2 inhibitor)
+Formulary status: Non-formulary; available by request.
+Indications: Type 2 diabetes; heart failure; chronic kidney disease.
+Adult dosing: 10 mg by mouth once daily.
+Renal adjustment: eGFR below 30: not for glucose lowering.
+Interactions: Additive hypotension with diuretics.
+Monitoring: Volume status and creatinine.
+Pharmacist notes: Hold 3 days before surgery because of euglycemic ketoacidosis risk.
+
+HV-RX-6875 Velaglizide (sulfonylurea)
+Formulary status: Tier 2.
+Indications: Type 2 diabetes.
+Adult dosing: 1 mg by mouth once daily with breakfast; maximum 20 mg daily.
+Renal adjustment: Start at the lowest dose in older adults.
+Interactions: Hypoglycemia masked by beta blockers.
+Monitoring: Glucose before meals and at bedtime.
+Pharmacist notes: Hold when not eating.
+
+HV-RX-7050 Thyrolex (synthetic thyroid hormone)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypothyroidism.
+Adult dosing: 1.6 mcg/kg by mouth daily on an empty stomach. Older adults or patients with heart disease: start at 25 mcg daily.
+Renal adjustment: No adjustment.
+Interactions: Separate from iron and calcium supplements by 4 hours; Pantorex reduces absorption.
+Monitoring: TSH (LC-0870) 6 to 8 weeks after any dose change.
+Pharmacist notes: Doses are not interchangeable between brands without TSH follow-up.
+
+HV-RX-7065 Prednavex (intravenous corticosteroid)
+Formulary status: Tier 1, unrestricted.
+Indications: Septic shock with an ongoing vasopressor requirement; adrenal insufficiency.
+Adult dosing: Septic shock: 50 mg IV every 6 hours when the Norvessa dose has been 0.25 mcg/kg/min or higher for at least 4 hours. Taper once off vasopressors.
+Renal adjustment: No adjustment.
+Interactions: Raises tendon rupture risk with Tarnaflox.
+Monitoring: Glucose every 6 hours because of steroid-induced hyperglycemia.
+Pharmacist notes: Stress-dose steroids for adrenal insufficiency are ordered separately.
+
+HV-RX-7467 Rovagliflozin (SGLT2 inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Type 2 diabetes; heart failure; chronic kidney disease.
+Adult dosing: 25 mg by mouth once daily.
+Renal adjustment: eGFR below 30: not for glucose lowering.
+Interactions: Additive hypotension with diuretics.
+Monitoring: Volume status and creatinine.
+Pharmacist notes: Hold 3 days before surgery because of euglycemic ketoacidosis risk.
+
+HV-RX-7601 Xalaglizide (sulfonylurea)
+Formulary status: Non-formulary; available by request.
+Indications: Type 2 diabetes.
+Adult dosing: 1 mg by mouth once daily with breakfast; maximum 10 mg daily.
+Renal adjustment: Start at the lowest dose in older adults.
+Interactions: Prolonged hypoglycemia with fluoroquinolones.
+Monitoring: Glucose before meals and at bedtime.
+Pharmacist notes: Hold when not eating.
+
+HV-RX-8198 Fenogliptin (DPP-4 inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Type 2 diabetes.
+Adult dosing: 25 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: Hypoglycemia when combined with sulfonylureas.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Usually stopped on admission and replaced with insulin.
+
+HV-RX-8274 Xalagliptin (DPP-4 inhibitor)
+Formulary status: Tier 2.
+Indications: Type 2 diabetes.
+Adult dosing: 5 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: Hypoglycemia when combined with sulfonylureas.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Report severe joint pain.
+
+HV-RX-8943 Opragliptin (DPP-4 inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Type 2 diabetes.
+Adult dosing: 50 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: HbA1c every 3 months.
+Pharmacist notes: Report severe joint pain.
+
+Section: Antiemetics and gastrointestinal
+
+HV-RX-1083 Garalax (osmotic laxative)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Constipation; bowel preparation.
+Adult dosing: 17 g by mouth once daily dissolved in water.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Stool frequency.
+Pharmacist notes: Takes 1 to 3 days to work.
+
+HV-RX-1342 Estatidine (H2 receptor antagonist)
+Formulary status: Tier 2.
+Indications: Dyspepsia; alternative stress ulcer prophylaxis.
+Adult dosing: 20 mg IV every 12 hours.
+Renal adjustment: CrCl below 50 mL/min: once daily.
+Interactions: None clinically relevant.
+Monitoring: Platelets on long courses.
+Pharmacist notes: Second-line to Pantorex.
+
+HV-RX-1594 Firatidine (H2 receptor antagonist)
+Formulary status: Tier 2.
+Indications: Dyspepsia; alternative stress ulcer prophylaxis.
+Adult dosing: 20 mg IV every 12 hours.
+Renal adjustment: CrCl below 50 mL/min: halve the dose.
+Interactions: None clinically relevant.
+Monitoring: Mental status in older adults.
+Pharmacist notes: Convert to oral when eating.
+
+HV-RX-1624 Yoratidine (H2 receptor antagonist)
+Formulary status: Tier 2.
+Indications: Dyspepsia; alternative stress ulcer prophylaxis.
+Adult dosing: 20 mg IV every 12 hours.
+Renal adjustment: CrCl below 50 mL/min: halve the dose.
+Interactions: None clinically relevant.
+Monitoring: Mental status in older adults.
+Pharmacist notes: Second-line to Pantorex.
+
+HV-RX-2442 Belolax (osmotic laxative)
+Formulary status: Non-formulary; available by request.
+Indications: Constipation; bowel preparation.
+Adult dosing: 17 g by mouth once daily dissolved in water.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Electrolytes with prolonged use.
+Pharmacist notes: Takes 1 to 3 days to work.
+
+HV-RX-2462 Estalax (osmotic laxative)
+Formulary status: Tier 2.
+Indications: Constipation; bowel preparation.
+Adult dosing: 17 g by mouth once daily dissolved in water.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Electrolytes with prolonged use.
+Pharmacist notes: Takes 1 to 3 days to work.
+
+HV-RX-2526 Tovalax (osmotic laxative)
+Formulary status: Non-formulary; available by request.
+Indications: Constipation; bowel preparation.
+Adult dosing: 17 g by mouth once daily dissolved in water.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Electrolytes with prolonged use.
+Pharmacist notes: Takes 1 to 3 days to work.
+
+HV-RX-2814 Quinatidine (H2 receptor antagonist)
+Formulary status: Non-formulary; available by request.
+Indications: Dyspepsia; alternative stress ulcer prophylaxis.
+Adult dosing: 20 mg IV every 12 hours.
+Renal adjustment: CrCl below 50 mL/min: once daily.
+Interactions: None clinically relevant.
+Monitoring: Mental status in older adults.
+Pharmacist notes: Second-line to Pantorex.
+
+HV-RX-3105 Lumidex (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Postoperative and chemotherapy-induced nausea and vomiting.
+Adult dosing: 4 mg IV every 8 hours as needed. Maximum 16 mg per day.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with Azithrel, Tarnaflox and Halopran; serotonin syndrome risk with serotonergic agents.
+Monitoring: ECG in patients with electrolyte abnormalities; correct potassium and magnesium first.
+Pharmacist notes: Constipation is common.
+
+HV-RX-3110 Ondelix (dopamine antagonist antiemetic and prokinetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Nausea, diabetic gastroparesis.
+Adult dosing: 10 mg IV every 6 hours. Do not exceed 5 days of therapy.
+Renal adjustment: CrCl below 40 mL/min: 5 mg every 6 hours.
+Interactions: Additive extrapyramidal effects with Halopran; avoid in Parkinson disease.
+Monitoring: Watch for extrapyramidal symptoms such as acute dystonia and restlessness.
+Pharmacist notes: Contraindicated in bowel obstruction.
+
+HV-RX-3260 Cirasetron (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 2.
+Indications: Chemotherapy-induced nausea.
+Adult dosing: 8 mg IV every 12 hours as needed; do not exceed 24 mg in 24 hours.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with other QT-prolonging drugs.
+Monitoring: Bowel function.
+Pharmacist notes: Oncology use only.
+
+HV-RX-3331 Belosetron (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Chemotherapy-induced nausea.
+Adult dosing: 8 mg IV every 24 hours as needed; do not exceed 32 mg in 24 hours.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with other QT-prolonging drugs.
+Monitoring: Bowel function.
+Pharmacist notes: Oncology use only.
+
+HV-RX-3344 Korasetron (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 2.
+Indications: Chemotherapy-induced nausea.
+Adult dosing: 8 mg IV every 24 hours as needed; do not exceed 32 mg in 24 hours.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with other QT-prolonging drugs.
+Monitoring: Bowel function.
+Pharmacist notes: Oncology use only.
+
+HV-RX-3777 Firalax (osmotic laxative)
+Formulary status: Tier 1, unrestricted.
+Indications: Constipation; bowel preparation.
+Adult dosing: 17 g by mouth once daily dissolved in water.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Stool frequency.
+Pharmacist notes: Hold for diarrhea.
+
+HV-RX-3903 Garasetron (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Chemotherapy-induced nausea.
+Adult dosing: 1 mg IV every 24 hours as needed; do not exceed 24 mg in 24 hours.
+Renal adjustment: No adjustment.
+Interactions: Serotonin syndrome with serotonergic drugs.
+Monitoring: ECG if other QT-prolonging drugs are given.
+Pharmacist notes: Oncology use only.
+
+HV-RX-4071 Oprasetron (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 2.
+Indications: Chemotherapy-induced nausea.
+Adult dosing: 1 mg IV every 12 hours as needed; do not exceed 24 mg in 24 hours.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with other QT-prolonging drugs.
+Monitoring: Bowel function.
+Pharmacist notes: Restricted to oncology; second-line to Lumidex.
+
+HV-RX-5010 Pantorex (intravenous proton pump inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Upper gastrointestinal bleeding; stress ulcer prophylaxis in selected ICU patients.
+Adult dosing: 40 mg IV once daily. Upper GI bleed: 80 mg IV bolus, then 40 mg IV every 12 hours.
+Renal adjustment: No adjustment.
+Interactions: Reduces absorption of Thyrolex.
+Monitoring: Magnesium level with courses longer than 2 weeks.
+Pharmacist notes: Stress ulcer prophylaxis is indicated only for ICU patients on mechanical ventilation for more than 48 hours or with coagulopathy (platelets below 50 or INR above 1.5). Discontinue at transfer out of the ICU.
+
+HV-RX-5030 Senolax (stimulant laxative)
+Formulary status: Tier 1, floor stock.
+Indications: Prevention of opioid-induced constipation.
+Adult dosing: 8.6 mg tablets: 2 tablets by mouth at bedtime, up to 4 tablets twice daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Document bowel movements every shift.
+Pharmacist notes: Started automatically with any scheduled opioid order under the HVMC bowel regimen. Hold for loose stools.
+
+HV-RX-5537 Velatidine (H2 receptor antagonist)
+Formulary status: Tier 1, unrestricted.
+Indications: Dyspepsia; alternative stress ulcer prophylaxis.
+Adult dosing: 40 mg IV every 12 hours.
+Renal adjustment: CrCl below 50 mL/min: halve the dose.
+Interactions: None clinically relevant.
+Monitoring: Platelets on long courses.
+Pharmacist notes: Second-line to Pantorex.
+
+HV-RX-6418 Levilax (osmotic laxative)
+Formulary status: Tier 2.
+Indications: Constipation; bowel preparation.
+Adult dosing: 17 g by mouth once daily dissolved in water.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Electrolytes with prolonged use.
+Pharmacist notes: Hold for diarrhea.
+
+HV-RX-6638 Garatidine (H2 receptor antagonist)
+Formulary status: Tier 1, unrestricted.
+Indications: Dyspepsia; alternative stress ulcer prophylaxis.
+Adult dosing: 40 mg IV every 12 hours.
+Renal adjustment: CrCl below 50 mL/min: halve the dose.
+Interactions: None clinically relevant.
+Monitoring: Platelets on long courses.
+Pharmacist notes: Second-line to Pantorex.
+
+HV-RX-6701 Quinalax (osmotic laxative)
+Formulary status: Non-formulary; available by request.
+Indications: Constipation; bowel preparation.
+Adult dosing: 17 g by mouth once daily dissolved in water.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Electrolytes with prolonged use.
+Pharmacist notes: Hold for diarrhea.
+
+HV-RX-6947 Pelalax (osmotic laxative)
+Formulary status: Tier 1, unrestricted.
+Indications: Constipation; bowel preparation.
+Adult dosing: 17 g by mouth once daily dissolved in water.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Electrolytes with prolonged use.
+Pharmacist notes: Takes 1 to 3 days to work.
+
+HV-RX-7496 Galosetron (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Chemotherapy-induced nausea.
+Adult dosing: 8 mg IV every 24 hours as needed; do not exceed 32 mg in 24 hours.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with other QT-prolonging drugs.
+Monitoring: Bowel function.
+Pharmacist notes: Oncology use only.
+
+HV-RX-7616 Hexasetron (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Chemotherapy-induced nausea.
+Adult dosing: 1 mg IV every 12 hours as needed; do not exceed 32 mg in 24 hours.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with other QT-prolonging drugs.
+Monitoring: Bowel function.
+Pharmacist notes: Restricted to oncology; second-line to Lumidex.
+
+HV-RX-7836 Rovasetron (5-HT3 receptor antagonist antiemetic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Chemotherapy-induced nausea.
+Adult dosing: 1 mg IV every 24 hours as needed; do not exceed 24 mg in 24 hours.
+Renal adjustment: No adjustment.
+Interactions: Serotonin syndrome with serotonergic drugs.
+Monitoring: Bowel function.
+Pharmacist notes: Oncology use only.
+
+HV-RX-8119 Miratidine (H2 receptor antagonist)
+Formulary status: Tier 1, unrestricted.
+Indications: Dyspepsia; alternative stress ulcer prophylaxis.
+Adult dosing: 40 mg IV every 12 hours.
+Renal adjustment: CrCl below 50 mL/min: once daily.
+Interactions: Confusion in older adults.
+Monitoring: Platelets on long courses.
+Pharmacist notes: Second-line to Pantorex.
+
+HV-RX-8280 Xalatidine (H2 receptor antagonist)
+Formulary status: Tier 2.
+Indications: Dyspepsia; alternative stress ulcer prophylaxis.
+Adult dosing: 40 mg IV every 12 hours.
+Renal adjustment: CrCl below 50 mL/min: once daily.
+Interactions: None clinically relevant.
+Monitoring: Mental status in older adults.
+Pharmacist notes: Second-line to Pantorex.
+
+Section: Analgesia and sedation
+
+HV-RX-1516 Levicodone (oral opioid agonist)
+Formulary status: Tier 2.
+Indications: Moderate to severe pain.
+Adult dosing: 5 mg by mouth every 4 hours as needed.
+Renal adjustment: Use with caution in renal impairment; extend the dosing interval.
+Interactions: Respiratory depression with benzodiazepines.
+Monitoring: Bowel function.
+Pharmacist notes: Do not crush extended-release forms.
+
+HV-RX-1576 Abracaine (local anesthetic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Local infiltration; nerve blocks.
+Adult dosing: Maximum 2 mg/kg per procedure without epinephrine; 7 mg/kg with epinephrine.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Cardiac rhythm with large doses.
+Pharmacist notes: Lipid emulsion is stocked for local anesthetic toxicity.
+
+HV-RX-1835 Xalacaine (local anesthetic)
+Formulary status: Tier 2.
+Indications: Local infiltration; nerve blocks.
+Adult dosing: Maximum 3 mg/kg per procedure without epinephrine; 7 mg/kg with epinephrine.
+Renal adjustment: No adjustment.
+Interactions: Toxicity is additive with other local anesthetics.
+Monitoring: Watch for perioral numbness, tinnitus and seizures.
+Pharmacist notes: Lipid emulsion is stocked for local anesthetic toxicity.
+
+HV-RX-1925 Novacodone (oral opioid agonist)
+Formulary status: Non-formulary; available by request.
+Indications: Moderate to severe pain.
+Adult dosing: 10 mg by mouth every 6 hours as needed.
+Renal adjustment: Use with caution in renal impairment; extend the dosing interval.
+Interactions: Respiratory depression with benzodiazepines.
+Monitoring: Bowel function.
+Pharmacist notes: Start a bowel regimen.
+
+HV-RX-3112 Ciracaine (local anesthetic)
+Formulary status: Non-formulary; available by request.
+Indications: Local infiltration; nerve blocks.
+Adult dosing: Maximum 4.5 mg/kg per procedure without epinephrine; 7 mg/kg with epinephrine.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Cardiac rhythm with large doses.
+Pharmacist notes: Lipid emulsion is stocked for local anesthetic toxicity.
+
+HV-RX-3143 Novabenzaprine (skeletal muscle relaxant)
+Formulary status: Tier 1, unrestricted.
+Indications: Acute muscle spasm.
+Adult dosing: 5 mg by mouth three times daily; maximum 3 weeks.
+Renal adjustment: No adjustment.
+Interactions: Anticholinergic effects with antihistamines.
+Monitoring: Urinary retention.
+Pharmacist notes: High fall risk.
+
+HV-RX-3381 Wexacaine (local anesthetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Local infiltration; nerve blocks.
+Adult dosing: Maximum 4.5 mg/kg per procedure without epinephrine; 7 mg/kg with epinephrine.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Cardiac rhythm with large doses.
+Pharmacist notes: Lipid emulsion is stocked for local anesthetic toxicity.
+
+HV-RX-3576 Quinacaine (local anesthetic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Local infiltration; nerve blocks.
+Adult dosing: Maximum 2 mg/kg per procedure without epinephrine; 7 mg/kg with epinephrine.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Cardiac rhythm with large doses.
+Pharmacist notes: Lipid emulsion is stocked for local anesthetic toxicity.
+
+HV-RX-4010 Morphalin (opioid agonist)
+Formulary status: High-alert medication; Schedule II.
+Indications: Severe acute pain.
+Adult dosing: 2 to 4 mg IV every 3 hours as needed. Opioid-naive older adults: 1 mg.
+Renal adjustment: CrCl below 30 mL/min: avoid, because an active metabolite accumulates; use Hydrovane instead.
+Interactions: Additive respiratory depression with Calmazine, Pregavel and Sedoflux.
+Monitoring: Sedation score (POSS) and respiratory rate 30 minutes after each IV dose. Naloxar must be available on the unit.
+Pharmacist notes: Start Senolax with any scheduled order.
+
+HV-RX-4022 Hydrovane (opioid agonist)
+Formulary status: High-alert medication; Schedule II.
+Indications: Severe acute pain.
+Adult dosing: 0.2 to 0.6 mg IV every 2 hours as needed.
+Renal adjustment: Preferred opioid in renal impairment. CrCl below 30 mL/min: reduce the dose by 50 percent.
+Interactions: Additive respiratory depression with benzodiazepines and gabapentinoids.
+Monitoring: Sedation score (POSS) and respiratory rate 30 minutes after each IV dose.
+Pharmacist notes: Hydrovane is about 5 times more potent than Morphalin per mg; confusing the two is the most common opioid conversion error at HVMC.
+
+HV-RX-4090 Naloxar (opioid antagonist)
+Formulary status: Tier 1, floor stock.
+Indications: Opioid-induced respiratory depression.
+Adult dosing: 0.04 mg IV every 2 minutes, titrated to a respiratory rate of at least 10 breaths per minute. The full 0.4 mg dose is reserved for cardiopulmonary arrest.
+Renal adjustment: No adjustment.
+Interactions: Reverses analgesia as well as respiratory depression.
+Monitoring: Monitor for at least 2 hours after the last dose, because Naloxar wears off before most opioids.
+Pharmacist notes: See protocol CP-15.
+
+HV-RX-4100 Acetavol (intravenous acetaminophen)
+Formulary status: Restricted to patients unable to take oral medication; convert to oral within 24 hours.
+Indications: Mild to moderate pain and fever.
+Adult dosing: 1 g IV every 6 hours. Maximum 4 g per day from all sources. Reduce the maximum to 3 g per day in patients weighing under 50 kg, with chronic alcohol use, or with hepatic impairment.
+Renal adjustment: No adjustment.
+Interactions: Count acetaminophen in combination products toward the daily maximum.
+Monitoring: Liver enzymes if therapy exceeds 5 days.
+Pharmacist notes: Opioid-sparing first step in the HVMC pain ladder.
+
+HV-RX-4115 Ketrolin (intravenous NSAID)
+Formulary status: Tier 1, unrestricted.
+Indications: Moderate to severe acute pain.
+Adult dosing: 15 mg IV every 6 hours. Maximum 5 days of total therapy.
+Renal adjustment: CrCl below 30 mL/min or acute kidney injury: avoid.
+Interactions: Bleeding risk with Heparivex, Corvatrel and Corvetrol; nephrotoxicity with Vancorin.
+Monitoring: Serum creatinine every 48 hours.
+Pharmacist notes: Contraindicated with a history of gastrointestinal bleeding or after coronary artery bypass surgery.
+
+HV-RX-4130 Pregavel (gabapentinoid)
+Formulary status: Tier 1, unrestricted.
+Indications: Neuropathic pain.
+Adult dosing: 75 mg by mouth twice daily; maximum 300 mg twice daily.
+Renal adjustment: CrCl 30 to 60 mL/min: halve the dose. CrCl below 30 mL/min: 25 to 75 mg once daily.
+Interactions: Respiratory depression when combined with opioids.
+Monitoring: Dizziness and sedation.
+Pharmacist notes: Dizziness raises fall risk: apply fall precautions (CP-11).
+
+HV-RX-4161 Durabenzaprine (skeletal muscle relaxant)
+Formulary status: Tier 1, unrestricted.
+Indications: Acute muscle spasm.
+Adult dosing: 5 mg by mouth three times daily; maximum 3 weeks.
+Renal adjustment: Avoid in hepatic impairment.
+Interactions: Anticholinergic effects with antihistamines.
+Monitoring: Sedation and falls.
+Pharmacist notes: High fall risk.
+
+HV-RX-4205 Sedoflux (alpha-2 agonist sedative)
+Formulary status: Restricted to the ICU.
+Indications: Light sedation of mechanically ventilated patients.
+Adult dosing: 0.2 to 1.4 mcg/kg/h continuous infusion. No loading dose.
+Renal adjustment: No adjustment.
+Interactions: Additive bradycardia with Metavol.
+Monitoring: Continuous cardiac monitoring for bradycardia and hypotension.
+Pharmacist notes: Target a RASS of 0 to -2.
+
+HV-RX-4220 Halopran (antipsychotic)
+Formulary status: Tier 1, for agitation from delirium after non-drug measures have failed.
+Indications: Agitation in delirium.
+Adult dosing: 0.5 to 1 mg IV every 30 minutes as needed; maximum 5 mg in 24 hours in older adults.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with Lumidex and Azithrel; avoid in Parkinson disease and Lewy body dementia.
+Monitoring: Baseline QTc; hold if the QTc is above 500 ms.
+Pharmacist notes: Not for sleep or for routine agitation without delirium.
+
+HV-RX-4235 Calmazine (benzodiazepine)
+Formulary status: Tier 1; Schedule IV.
+Indications: Alcohol withdrawal; acute seizures.
+Adult dosing: Alcohol withdrawal: symptom-triggered dosing, 1 to 2 mg IV every hour while the CIWA-Ar score is 10 or more.
+Renal adjustment: No adjustment.
+Interactions: Respiratory depression with opioids.
+Monitoring: CIWA-Ar score every hour during active withdrawal.
+Pharmacist notes: Paradoxical agitation can occur in older adults. See protocol CP-17.
+
+HV-RX-4360 Belobenzaprine (skeletal muscle relaxant)
+Formulary status: Non-formulary; available by request.
+Indications: Acute muscle spasm.
+Adult dosing: 10 mg by mouth three times daily; maximum 3 weeks.
+Renal adjustment: No adjustment.
+Interactions: Anticholinergic effects with antihistamines.
+Monitoring: Sedation and falls.
+Pharmacist notes: On the HVMC list of drugs to avoid in older adults.
+
+HV-RX-4819 Elvabenzaprine (skeletal muscle relaxant)
+Formulary status: Tier 1, unrestricted.
+Indications: Acute muscle spasm.
+Adult dosing: 5 mg by mouth three times daily; maximum 3 weeks.
+Renal adjustment: Avoid in hepatic impairment.
+Interactions: Anticholinergic effects with antihistamines.
+Monitoring: Urinary retention.
+Pharmacist notes: High fall risk.
+
+HV-RX-4993 Garacodone (oral opioid agonist)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Moderate to severe pain.
+Adult dosing: 10 mg by mouth every 6 hours as needed.
+Renal adjustment: Use with caution in renal impairment; extend the dosing interval.
+Interactions: Additive sedation with gabapentinoids.
+Monitoring: Sedation score and respiratory rate after the first dose.
+Pharmacist notes: Do not crush extended-release forms.
+
+HV-RX-5021 Dalocodone (oral opioid agonist)
+Formulary status: Non-formulary; available by request.
+Indications: Moderate to severe pain.
+Adult dosing: 10 mg by mouth every 6 hours as needed.
+Renal adjustment: CrCl below 30 mL/min: start at the lowest dose.
+Interactions: Additive sedation with gabapentinoids.
+Monitoring: Sedation score and respiratory rate after the first dose.
+Pharmacist notes: Do not crush extended-release forms.
+
+HV-RX-6335 Oprabenzaprine (skeletal muscle relaxant)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Acute muscle spasm.
+Adult dosing: 10 mg by mouth three times daily; maximum 3 weeks.
+Renal adjustment: Avoid in hepatic impairment.
+Interactions: Additive sedation with opioids.
+Monitoring: Sedation and falls.
+Pharmacist notes: High fall risk.
+
+HV-RX-7089 Rovacodone (oral opioid agonist)
+Formulary status: Tier 1, unrestricted.
+Indications: Moderate to severe pain.
+Adult dosing: 10 mg by mouth every 6 hours as needed.
+Renal adjustment: Use with caution in renal impairment; extend the dosing interval.
+Interactions: Additive sedation with gabapentinoids.
+Monitoring: Sedation score and respiratory rate after the first dose.
+Pharmacist notes: Start a bowel regimen.
+
+HV-RX-7137 Calabenzaprine (skeletal muscle relaxant)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Acute muscle spasm.
+Adult dosing: 5 mg by mouth three times daily; maximum 3 weeks.
+Renal adjustment: Avoid in hepatic impairment.
+Interactions: Anticholinergic effects with antihistamines.
+Monitoring: Sedation and falls.
+Pharmacist notes: High fall risk.
+
+HV-RX-7471 Elvacaine (local anesthetic)
+Formulary status: Non-formulary; available by request.
+Indications: Local infiltration; nerve blocks.
+Adult dosing: Maximum 3 mg/kg per procedure without epinephrine; 7 mg/kg with epinephrine.
+Renal adjustment: No adjustment.
+Interactions: Toxicity is additive with other local anesthetics.
+Monitoring: Cardiac rhythm with large doses.
+Pharmacist notes: Aspirate before injecting.
+
+HV-RX-7835 Xalacodone (oral opioid agonist)
+Formulary status: Non-formulary; available by request.
+Indications: Moderate to severe pain.
+Adult dosing: 5 mg by mouth every 6 hours as needed.
+Renal adjustment: CrCl below 30 mL/min: start at the lowest dose.
+Interactions: Additive sedation with gabapentinoids.
+Monitoring: Sedation score and respiratory rate after the first dose.
+Pharmacist notes: Do not crush extended-release forms.
+
+HV-RX-7943 Elvacodone (oral opioid agonist)
+Formulary status: Non-formulary; available by request.
+Indications: Moderate to severe pain.
+Adult dosing: 10 mg by mouth every 6 hours as needed.
+Renal adjustment: CrCl below 30 mL/min: start at the lowest dose.
+Interactions: Additive sedation with gabapentinoids.
+Monitoring: Sedation score and respiratory rate after the first dose.
+Pharmacist notes: Start a bowel regimen.
+
+HV-RX-7997 Ulvabenzaprine (skeletal muscle relaxant)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Acute muscle spasm.
+Adult dosing: 5 mg by mouth three times daily; maximum 3 weeks.
+Renal adjustment: No adjustment.
+Interactions: Anticholinergic effects with antihistamines.
+Monitoring: Urinary retention.
+Pharmacist notes: High fall risk.
+
+HV-RX-8379 Quinabenzaprine (skeletal muscle relaxant)
+Formulary status: Tier 1, unrestricted.
+Indications: Acute muscle spasm.
+Adult dosing: 5 mg by mouth three times daily; maximum 3 weeks.
+Renal adjustment: Avoid in hepatic impairment.
+Interactions: Anticholinergic effects with antihistamines.
+Monitoring: Urinary retention.
+Pharmacist notes: High fall risk.
+
+HV-RX-8413 Hexacaine (local anesthetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Local infiltration; nerve blocks.
+Adult dosing: Maximum 3 mg/kg per procedure without epinephrine; 7 mg/kg with epinephrine.
+Renal adjustment: No adjustment.
+Interactions: Toxicity is additive with other local anesthetics.
+Monitoring: Watch for perioral numbness, tinnitus and seizures.
+Pharmacist notes: Aspirate before injecting.
+
+HV-RX-8741 Briocodone (oral opioid agonist)
+Formulary status: Tier 1, unrestricted.
+Indications: Moderate to severe pain.
+Adult dosing: 5 mg by mouth every 6 hours as needed.
+Renal adjustment: Use with caution in renal impairment; extend the dosing interval.
+Interactions: Respiratory depression with benzodiazepines.
+Monitoring: Sedation score and respiratory rate after the first dose.
+Pharmacist notes: Start a bowel regimen.
+
+HV-RX-8855 Calacaine (local anesthetic)
+Formulary status: Tier 1, unrestricted.
+Indications: Local infiltration; nerve blocks.
+Adult dosing: Maximum 3 mg/kg per procedure without epinephrine; 7 mg/kg with epinephrine.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Cardiac rhythm with large doses.
+Pharmacist notes: Aspirate before injecting.
+
+Section: Cardiovascular and vasopressors
+
+HV-RX-1001 Fenosartan (angiotensin receptor blocker)
+Formulary status: Tier 2.
+Indications: Hypertension; heart failure.
+Adult dosing: 40 mg by mouth once daily; maximum 320 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Do not combine with an ACE inhibitor.
+Monitoring: Potassium within 2 weeks of a dose change.
+Pharmacist notes: Hold for systolic pressure below 100 mmHg.
+
+HV-RX-1340 Tovabutrex (positive inotrope)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Low cardiac output; cardiogenic shock.
+Adult dosing: Start at 5 mcg/kg/min and titrate to cardiac output; maximum 15 mcg/kg/min.
+Renal adjustment: No adjustment; titrate to effect.
+Interactions: Effect reduced by beta blockers.
+Monitoring: Urine output every hour.
+Pharmacist notes: ICU only.
+
+HV-RX-1907 Fenopril (ACE inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypertension; heart failure; proteinuric kidney disease.
+Adult dosing: 5 mg by mouth once daily; may increase to 20 mg once daily.
+Renal adjustment: No adjustment; monitor potassium.
+Interactions: Never combine with a neprilysin inhibitor within 36 hours.
+Monitoring: Potassium and creatinine 1 to 2 weeks after starting.
+Pharmacist notes: Hold the morning of surgery.
+
+HV-RX-1968 Hexaolol (cardioselective beta blocker)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hypertension; angina; heart rate control.
+Adult dosing: 12.5 mg by mouth twice daily; maximum 100 mg twice daily.
+Renal adjustment: No adjustment.
+Interactions: May mask hypoglycemia.
+Monitoring: Heart rate and blood pressure before each dose.
+Pharmacist notes: Taper over 1 to 2 weeks when stopping.
+
+HV-RX-2135 Ulvabutrex (positive inotrope)
+Formulary status: Tier 1, unrestricted.
+Indications: Low cardiac output; cardiogenic shock.
+Adult dosing: Start at 5 mcg/kg/min and titrate to cardiac output; maximum 15 mcg/kg/min.
+Renal adjustment: No adjustment; titrate to effect.
+Interactions: Effect reduced by beta blockers.
+Monitoring: Urine output every hour.
+Pharmacist notes: ICU only.
+
+HV-RX-2267 Wexasartan (angiotensin receptor blocker)
+Formulary status: Tier 2.
+Indications: Hypertension; heart failure.
+Adult dosing: 25 mg by mouth once daily; maximum 160 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Hyperkalemia with potassium supplements.
+Monitoring: Potassium within 2 weeks of a dose change.
+Pharmacist notes: Hold for systolic pressure below 100 mmHg.
+
+HV-RX-2601 Ciravastin (statin)
+Formulary status: Tier 1, unrestricted.
+Indications: Hyperlipidemia; secondary prevention of cardiovascular disease.
+Adult dosing: 40 mg by mouth once daily in the evening.
+Renal adjustment: CrCl below 30 mL/min: maximum 10 mg daily.
+Interactions: Myopathy risk rises with strong CYP3A4 inhibitors.
+Monitoring: Creatine kinase only if muscle symptoms occur.
+Pharmacist notes: Report unexplained muscle pain.
+
+HV-RX-2659 Calapril (ACE inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypertension; heart failure; proteinuric kidney disease.
+Adult dosing: 5 mg by mouth once daily; may increase to 40 mg once daily.
+Renal adjustment: CrCl below 30 mL/min: start at half the usual dose.
+Interactions: Never combine with a neprilysin inhibitor within 36 hours.
+Monitoring: Blood pressure daily during titration.
+Pharmacist notes: Hold the morning of surgery.
+
+HV-RX-2926 Garaolol (cardioselective beta blocker)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypertension; angina; heart rate control.
+Adult dosing: 12.5 mg by mouth twice daily; maximum 200 mg twice daily.
+Renal adjustment: CrCl below 35 mL/min: maximum 50 mg daily.
+Interactions: May mask hypoglycemia.
+Monitoring: ECG if heart rate is below 50.
+Pharmacist notes: Hold if heart rate is below 50 beats per minute.
+
+HV-RX-3130 Mirasartan (angiotensin receptor blocker)
+Formulary status: Non-formulary; available by request.
+Indications: Hypertension; heart failure.
+Adult dosing: 50 mg by mouth once daily; maximum 160 mg daily.
+Renal adjustment: Volume-depleted patients: start at the lowest dose.
+Interactions: Do not combine with an ACE inhibitor.
+Monitoring: Blood pressure and creatinine.
+Pharmacist notes: Hold for systolic pressure below 100 mmHg.
+
+HV-RX-3136 Koraolol (cardioselective beta blocker)
+Formulary status: Non-formulary; available by request.
+Indications: Hypertension; angina; heart rate control.
+Adult dosing: 25 mg by mouth twice daily; maximum 100 mg twice daily.
+Renal adjustment: CrCl below 35 mL/min: maximum 50 mg daily.
+Interactions: May mask hypoglycemia.
+Monitoring: Heart rate and blood pressure before each dose.
+Pharmacist notes: Hold if heart rate is below 50 beats per minute.
+
+HV-RX-3449 Fenobutrex (positive inotrope)
+Formulary status: Tier 1, unrestricted.
+Indications: Low cardiac output; cardiogenic shock.
+Adult dosing: Start at 2.5 mcg/kg/min and titrate to cardiac output; maximum 20 mcg/kg/min.
+Renal adjustment: No adjustment.
+Interactions: Arrhythmia risk with other catecholamines.
+Monitoring: Urine output every hour.
+Pharmacist notes: ICU only.
+
+HV-RX-3589 Zanaolol (cardioselective beta blocker)
+Formulary status: Non-formulary; available by request.
+Indications: Hypertension; angina; heart rate control.
+Adult dosing: 50 mg by mouth twice daily; maximum 100 mg twice daily.
+Renal adjustment: No adjustment.
+Interactions: May mask hypoglycemia.
+Monitoring: ECG if heart rate is below 50.
+Pharmacist notes: Taper over 1 to 2 weeks when stopping.
+
+HV-RX-3617 Hexapril (ACE inhibitor)
+Formulary status: Non-formulary; available by request.
+Indications: Hypertension; heart failure; proteinuric kidney disease.
+Adult dosing: 10 mg by mouth once daily; may increase to 20 mg once daily.
+Renal adjustment: No adjustment; monitor potassium.
+Interactions: Never combine with a neprilysin inhibitor within 36 hours.
+Monitoring: Potassium and creatinine 1 to 2 weeks after starting.
+Pharmacist notes: Dry cough may require a switch to an angiotensin receptor blocker.
+
+HV-RX-3685 Firasartan (angiotensin receptor blocker)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hypertension; heart failure.
+Adult dosing: 50 mg by mouth once daily; maximum 160 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Hyperkalemia with potassium supplements.
+Monitoring: Blood pressure and creatinine.
+Pharmacist notes: Preferred alternative when an ACE inhibitor causes cough.
+
+HV-RX-3815 Rovabutrex (positive inotrope)
+Formulary status: Non-formulary; available by request.
+Indications: Low cardiac output; cardiogenic shock.
+Adult dosing: Start at 2 mcg/kg/min and titrate to cardiac output; maximum 20 mcg/kg/min.
+Renal adjustment: No adjustment; titrate to effect.
+Interactions: Effect reduced by beta blockers.
+Monitoring: Urine output every hour.
+Pharmacist notes: ICU only.
+
+HV-RX-3848 Quinapril (ACE inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hypertension; heart failure; proteinuric kidney disease.
+Adult dosing: 5 mg by mouth once daily; may increase to 40 mg once daily.
+Renal adjustment: CrCl below 30 mL/min: start at half the usual dose.
+Interactions: Never combine with a neprilysin inhibitor within 36 hours.
+Monitoring: Blood pressure daily during titration.
+Pharmacist notes: Hold the morning of surgery.
+
+HV-RX-4117 Zanabutrex (positive inotrope)
+Formulary status: Tier 1, unrestricted.
+Indications: Low cardiac output; cardiogenic shock.
+Adult dosing: Start at 5 mcg/kg/min and titrate to cardiac output; maximum 15 mcg/kg/min.
+Renal adjustment: No adjustment.
+Interactions: Effect reduced by beta blockers.
+Monitoring: Urine output every hour.
+Pharmacist notes: Not a substitute for a vasopressor in septic shock.
+
+HV-RX-4146 Brioolol (cardioselective beta blocker)
+Formulary status: Tier 2.
+Indications: Hypertension; angina; heart rate control.
+Adult dosing: 25 mg by mouth twice daily; maximum 100 mg twice daily.
+Renal adjustment: No adjustment.
+Interactions: Additive bradycardia with non-dihydropyridine calcium channel blockers.
+Monitoring: Heart rate and blood pressure before each dose.
+Pharmacist notes: Taper over 1 to 2 weeks when stopping.
+
+HV-RX-5202 Firapril (ACE inhibitor)
+Formulary status: Tier 2.
+Indications: Hypertension; heart failure; proteinuric kidney disease.
+Adult dosing: 10 mg by mouth once daily; may increase to 20 mg once daily.
+Renal adjustment: CrCl below 30 mL/min: start at half the usual dose.
+Interactions: Hyperkalemia with Spirolan and Kaliveen.
+Monitoring: Blood pressure daily during titration.
+Pharmacist notes: Hold the morning of surgery.
+
+HV-RX-5610 Silavastin (statin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hyperlipidemia; secondary prevention of cardiovascular disease.
+Adult dosing: 20 mg by mouth once daily in the evening.
+Renal adjustment: No adjustment.
+Interactions: Levels raised by Nephrazole.
+Monitoring: Lipid panel 6 to 12 weeks after starting.
+Pharmacist notes: Report unexplained muscle pain.
+
+HV-RX-5843 Jovavastin (statin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hyperlipidemia; secondary prevention of cardiovascular disease.
+Adult dosing: 40 mg by mouth once daily in the evening.
+Renal adjustment: CrCl below 30 mL/min: maximum 10 mg daily.
+Interactions: Myopathy risk rises with strong CYP3A4 inhibitors.
+Monitoring: Lipid panel 6 to 12 weeks after starting.
+Pharmacist notes: Continue through admission unless liver enzymes exceed 3 times normal.
+
+HV-RX-6010 Furovex (loop diuretic)
+Formulary status: Tier 1, unrestricted.
+Indications: Fluid overload, acute heart failure.
+Adult dosing: 20 to 40 mg IV. Infuse no faster than 4 mg per minute to avoid ototoxicity.
+Renal adjustment: Higher doses may be required in renal impairment.
+Interactions: Hypokalemia increases toxicity of QT-prolonging drugs.
+Monitoring: Potassium and magnesium daily; daily weights; strict intake and output.
+Pharmacist notes: Give early in the day to avoid nighttime diuresis.
+
+HV-RX-6025 Spirolan (aldosterone antagonist)
+Formulary status: Tier 1, unrestricted.
+Indications: Heart failure with reduced ejection fraction; ascites.
+Adult dosing: 25 mg by mouth once daily.
+Renal adjustment: Hold if CrCl is below 30 mL/min.
+Interactions: Hyperkalemia with Kaliveen and potassium supplements.
+Monitoring: Potassium within 3 days of starting.
+Pharmacist notes: Hold if potassium is above 5.0 mmol/L.
+
+HV-RX-6040 Amlotra (dihydropyridine calcium channel blocker)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypertension.
+Adult dosing: 5 mg by mouth once daily; maximum 10 mg once daily.
+Renal adjustment: No adjustment.
+Interactions: Levels increased by strong CYP3A4 inhibitors.
+Monitoring: Blood pressure daily.
+Pharmacist notes: Ankle swelling is the most common side effect.
+
+HV-RX-6055 Metavol (beta blocker)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypertension, rate control in atrial fibrillation, post-myocardial infarction.
+Adult dosing: 25 mg by mouth twice daily.
+Renal adjustment: No adjustment.
+Interactions: Masks low-glucose warning signs in patients on insulin; additive bradycardia with Sedoflux.
+Monitoring: Heart rate and blood pressure before each dose.
+Pharmacist notes: Hold if heart rate is below 55 beats per minute or systolic blood pressure is below 95 mmHg. Do not stop abruptly.
+
+HV-RX-6080 Norvessa (catecholamine vasopressor)
+Formulary status: ICU and emergency department; may be started on a ward by the rapid response team pending transfer.
+Indications: First-line vasopressor for septic shock.
+Adult dosing: Start at 0.05 mcg/kg/min; titrate by 0.02 mcg/kg/min every 5 minutes to a mean arterial pressure of 65 mmHg or higher.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Arterial line recommended; check the infusion site every hour if peripheral.
+Pharmacist notes: Central line preferred. May infuse peripherally for up to 6 hours through a 20-gauge or larger catheter placed above the antecubital fossa. If extravasation occurs, stop the infusion, leave the catheter in place and call pharmacy for the antidote.
+
+HV-RX-6085 Vasoplex (vasopressin analog)
+Formulary status: ICU and emergency department.
+Indications: Second vasopressor in septic shock.
+Adult dosing: Fixed dose of 0.03 units/min, not titrated. Added when Norvessa reaches 0.25 mcg/kg/min.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Watch for digital ischemia.
+Pharmacist notes: Wean Vasoplex last, after Norvessa is below 0.1 mcg/kg/min.
+
+HV-RX-6143 Abrabutrex (positive inotrope)
+Formulary status: Tier 2.
+Indications: Low cardiac output; cardiogenic shock.
+Adult dosing: Start at 2 mcg/kg/min and titrate to cardiac output; maximum 20 mcg/kg/min.
+Renal adjustment: No adjustment.
+Interactions: Effect reduced by beta blockers.
+Monitoring: Urine output every hour.
+Pharmacist notes: ICU only.
+
+HV-RX-6144 Korabutrex (positive inotrope)
+Formulary status: Tier 1, unrestricted.
+Indications: Low cardiac output; cardiogenic shock.
+Adult dosing: Start at 2.5 mcg/kg/min and titrate to cardiac output; maximum 15 mcg/kg/min.
+Renal adjustment: No adjustment; titrate to effect.
+Interactions: Effect reduced by beta blockers.
+Monitoring: Continuous ECG and blood pressure monitoring.
+Pharmacist notes: ICU only.
+
+HV-RX-6289 Ilovastin (statin)
+Formulary status: Tier 2.
+Indications: Hyperlipidemia; secondary prevention of cardiovascular disease.
+Adult dosing: 40 mg by mouth once daily in the evening.
+Renal adjustment: No adjustment.
+Interactions: Levels raised by Nephrazole.
+Monitoring: Creatine kinase only if muscle symptoms occur.
+Pharmacist notes: Continue through admission unless liver enzymes exceed 3 times normal.
+
+HV-RX-6476 Briosartan (angiotensin receptor blocker)
+Formulary status: Non-formulary; available by request.
+Indications: Hypertension; heart failure.
+Adult dosing: 25 mg by mouth once daily; maximum 100 mg daily.
+Renal adjustment: Volume-depleted patients: start at the lowest dose.
+Interactions: Do not combine with an ACE inhibitor.
+Monitoring: Potassium within 2 weeks of a dose change.
+Pharmacist notes: Hold for systolic pressure below 100 mmHg.
+
+HV-RX-7218 Daloolol (cardioselective beta blocker)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hypertension; angina; heart rate control.
+Adult dosing: 25 mg by mouth twice daily; maximum 100 mg twice daily.
+Renal adjustment: CrCl below 35 mL/min: maximum 50 mg daily.
+Interactions: Additive bradycardia with non-dihydropyridine calcium channel blockers.
+Monitoring: ECG if heart rate is below 50.
+Pharmacist notes: Taper over 1 to 2 weeks when stopping.
+
+HV-RX-7290 Tovaolol (cardioselective beta blocker)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hypertension; angina; heart rate control.
+Adult dosing: 25 mg by mouth twice daily; maximum 200 mg twice daily.
+Renal adjustment: No adjustment.
+Interactions: Additive bradycardia with non-dihydropyridine calcium channel blockers.
+Monitoring: Heart rate and blood pressure before each dose.
+Pharmacist notes: Hold if heart rate is below 50 beats per minute.
+
+HV-RX-7391 Galovastin (statin)
+Formulary status: Tier 2.
+Indications: Hyperlipidemia; secondary prevention of cardiovascular disease.
+Adult dosing: 20 mg by mouth once daily in the evening.
+Renal adjustment: CrCl below 30 mL/min: maximum 10 mg daily.
+Interactions: Levels raised by Nephrazole.
+Monitoring: Creatine kinase only if muscle symptoms occur.
+Pharmacist notes: Report unexplained muscle pain.
+
+HV-RX-7443 Quinabutrex (positive inotrope)
+Formulary status: Tier 1, unrestricted.
+Indications: Low cardiac output; cardiogenic shock.
+Adult dosing: Start at 2 mcg/kg/min and titrate to cardiac output; maximum 15 mcg/kg/min.
+Renal adjustment: No adjustment; titrate to effect.
+Interactions: Effect reduced by beta blockers.
+Monitoring: Urine output every hour.
+Pharmacist notes: Not a substitute for a vasopressor in septic shock.
+
+HV-RX-7685 Rovavastin (statin)
+Formulary status: Tier 1, unrestricted.
+Indications: Hyperlipidemia; secondary prevention of cardiovascular disease.
+Adult dosing: 10 mg by mouth once daily in the evening.
+Renal adjustment: No adjustment.
+Interactions: Levels raised by Nephrazole.
+Monitoring: Creatine kinase only if muscle symptoms occur.
+Pharmacist notes: Continue through admission unless liver enzymes exceed 3 times normal.
+
+HV-RX-7960 Oprapril (ACE inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hypertension; heart failure; proteinuric kidney disease.
+Adult dosing: 2.5 mg by mouth once daily; may increase to 40 mg once daily.
+Renal adjustment: No adjustment; monitor potassium.
+Interactions: Never combine with a neprilysin inhibitor within 36 hours.
+Monitoring: Blood pressure daily during titration.
+Pharmacist notes: Hold the morning of surgery.
+
+HV-RX-8111 Briovastin (statin)
+Formulary status: Tier 2.
+Indications: Hyperlipidemia; secondary prevention of cardiovascular disease.
+Adult dosing: 10 mg by mouth once daily in the evening.
+Renal adjustment: CrCl below 30 mL/min: maximum 10 mg daily.
+Interactions: Myopathy risk rises with strong CYP3A4 inhibitors.
+Monitoring: Creatine kinase only if muscle symptoms occur.
+Pharmacist notes: Continue through admission unless liver enzymes exceed 3 times normal.
+
+HV-RX-8180 Jovapril (ACE inhibitor)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hypertension; heart failure; proteinuric kidney disease.
+Adult dosing: 10 mg by mouth once daily; may increase to 40 mg once daily.
+Renal adjustment: No adjustment; monitor potassium.
+Interactions: Never combine with a neprilysin inhibitor within 36 hours.
+Monitoring: Blood pressure daily during titration.
+Pharmacist notes: Dry cough may require a switch to an angiotensin receptor blocker.
+
+HV-RX-8298 Zanapril (ACE inhibitor)
+Formulary status: Non-formulary; available by request.
+Indications: Hypertension; heart failure; proteinuric kidney disease.
+Adult dosing: 10 mg by mouth once daily; may increase to 40 mg once daily.
+Renal adjustment: No adjustment; monitor potassium.
+Interactions: Never combine with a neprilysin inhibitor within 36 hours.
+Monitoring: Blood pressure daily during titration.
+Pharmacist notes: Hold the morning of surgery.
+
+HV-RX-8399 Rovasartan (angiotensin receptor blocker)
+Formulary status: Tier 2.
+Indications: Hypertension; heart failure.
+Adult dosing: 40 mg by mouth once daily; maximum 160 mg daily.
+Renal adjustment: Volume-depleted patients: start at the lowest dose.
+Interactions: Do not combine with an ACE inhibitor.
+Monitoring: Blood pressure and creatinine.
+Pharmacist notes: Preferred alternative when an ACE inhibitor causes cough.
+
+HV-RX-8510 Estasartan (angiotensin receptor blocker)
+Formulary status: Non-formulary; available by request.
+Indications: Hypertension; heart failure.
+Adult dosing: 25 mg by mouth once daily; maximum 160 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Hyperkalemia with potassium supplements.
+Monitoring: Blood pressure and creatinine.
+Pharmacist notes: Preferred alternative when an ACE inhibitor causes cough.
+
+HV-RX-8758 Silaolol (cardioselective beta blocker)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypertension; angina; heart rate control.
+Adult dosing: 25 mg by mouth twice daily; maximum 100 mg twice daily.
+Renal adjustment: CrCl below 35 mL/min: maximum 50 mg daily.
+Interactions: May mask hypoglycemia.
+Monitoring: ECG if heart rate is below 50.
+Pharmacist notes: Hold if heart rate is below 50 beats per minute.
+
+HV-RX-8854 Abrasartan (angiotensin receptor blocker)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypertension; heart failure.
+Adult dosing: 25 mg by mouth once daily; maximum 160 mg daily.
+Renal adjustment: Volume-depleted patients: start at the lowest dose.
+Interactions: Hyperkalemia with potassium supplements.
+Monitoring: Potassium within 2 weeks of a dose change.
+Pharmacist notes: Preferred alternative when an ACE inhibitor causes cough.
+
+HV-RX-8874 Levivastin (statin)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Hyperlipidemia; secondary prevention of cardiovascular disease.
+Adult dosing: 10 mg by mouth once daily in the evening.
+Renal adjustment: No adjustment.
+Interactions: Myopathy risk rises with strong CYP3A4 inhibitors.
+Monitoring: Creatine kinase only if muscle symptoms occur.
+Pharmacist notes: Report unexplained muscle pain.
+
+Section: Electrolytes and miscellaneous
+
+HV-RX-5013 Hexadronate (bisphosphonate)
+Formulary status: Non-formulary; available by request.
+Indications: Osteoporosis; hypercalcemia of malignancy.
+Adult dosing: 5 mg IV once over 15 to 30 minutes.
+Renal adjustment: CrCl below 35 mL/min: contraindicated.
+Interactions: None clinically relevant.
+Monitoring: Calcium 1 week after the dose.
+Pharmacist notes: Correct vitamin deficiencies first.
+
+HV-RX-5353 Duradronate (bisphosphonate)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Osteoporosis; hypercalcemia of malignancy.
+Adult dosing: 4 mg IV once over 15 to 30 minutes.
+Renal adjustment: CrCl below 35 mL/min: contraindicated.
+Interactions: None clinically relevant.
+Monitoring: Calcium 1 week after the dose.
+Pharmacist notes: Correct vitamin deficiencies first.
+
+HV-RX-6188 Briodronate (bisphosphonate)
+Formulary status: Tier 2.
+Indications: Osteoporosis; hypercalcemia of malignancy.
+Adult dosing: 5 mg IV once over 15 to 30 minutes.
+Renal adjustment: CrCl below 35 mL/min: avoid.
+Interactions: Hypocalcemia with loop diuretics.
+Monitoring: Calcium and creatinine before each dose.
+Pharmacist notes: Flu-like symptoms are common after the first infusion.
+
+HV-RX-6252 Siladronate (bisphosphonate)
+Formulary status: Tier 1, unrestricted.
+Indications: Osteoporosis; hypercalcemia of malignancy.
+Adult dosing: 4 mg IV once over 15 to 30 minutes.
+Renal adjustment: CrCl below 35 mL/min: contraindicated.
+Interactions: None clinically relevant.
+Monitoring: Calcium and creatinine before each dose.
+Pharmacist notes: Correct vitamin deficiencies first.
+
+HV-RX-7010 Kaliveen (intravenous potassium chloride)
+Formulary status: High-alert medication.
+Indications: Hypokalemia.
+Adult dosing: Peripheral line: maximum 10 mEq per hour. Central line: maximum 20 mEq per hour with continuous cardiac monitoring. Never give as an IV push.
+Renal adjustment: CrCl below 30 mL/min: replace in 10 mEq steps and recheck.
+Interactions: Hyperkalemia with Spirolan.
+Monitoring: Recheck potassium (LC-0412) 2 hours after every 40 mEq given.
+Pharmacist notes: Oral replacement is preferred when potassium is 3.0 mmol/L or higher and the patient can swallow.
+
+HV-RX-7020 Magnora (magnesium sulfate)
+Formulary status: Tier 1, unrestricted.
+Indications: Hypomagnesemia.
+Adult dosing: Magnesium 1.2 to 1.6 mg/dL: 2 g IV over 1 hour. Below 1.2 mg/dL: 4 g IV over 2 hours.
+Renal adjustment: CrCl below 30 mL/min: halve the dose.
+Interactions: None clinically relevant.
+Monitoring: Deep tendon reflexes with high doses.
+Pharmacist notes: Replace magnesium before potassium in refractory hypokalemia.
+
+HV-RX-7035 Fosferra (intravenous iron)
+Formulary status: Tier 2.
+Indications: Iron deficiency anemia when oral iron fails or is not tolerated.
+Adult dosing: 510 mg IV over 15 minutes; second dose 3 to 8 days later.
+Renal adjustment: No adjustment.
+Interactions: Stop oral iron during IV therapy.
+Monitoring: Observe the patient for 30 minutes after the infusion for hypersensitivity reactions.
+Pharmacist notes: Not given during an active bloodstream infection.
+
+HV-RX-7080 Allopra (xanthine oxidase inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Gout prophylaxis; prevention of tumor lysis syndrome.
+Adult dosing: Start at 100 mg by mouth once daily.
+Renal adjustment: CrCl below 30 mL/min: 50 mg once daily.
+Interactions: None clinically relevant.
+Monitoring: Uric acid every 2 to 4 weeks during titration.
+Pharmacist notes: Do not start during an acute gout flare.
+
+HV-RX-7720 Miradronate (bisphosphonate)
+Formulary status: Tier 1, unrestricted.
+Indications: Osteoporosis; hypercalcemia of malignancy.
+Adult dosing: 5 mg IV once over 15 to 30 minutes.
+Renal adjustment: CrCl below 35 mL/min: avoid.
+Interactions: None clinically relevant.
+Monitoring: Calcium 1 week after the dose.
+Pharmacist notes: Flu-like symptoms are common after the first infusion.
+
+HV-RX-8099 Koradronate (bisphosphonate)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Osteoporosis; hypercalcemia of malignancy.
+Adult dosing: 4 mg IV once over 15 to 30 minutes.
+Renal adjustment: CrCl below 35 mL/min: contraindicated.
+Interactions: Hypocalcemia with loop diuretics.
+Monitoring: Calcium 1 week after the dose.
+Pharmacist notes: Correct vitamin deficiencies first.
+
+HV-RX-8296 Xaladronate (bisphosphonate)
+Formulary status: Non-formulary; available by request.
+Indications: Osteoporosis; hypercalcemia of malignancy.
+Adult dosing: 5 mg IV once over 15 to 30 minutes.
+Renal adjustment: CrCl below 35 mL/min: contraindicated.
+Interactions: None clinically relevant.
+Monitoring: Calcium 1 week after the dose.
+Pharmacist notes: Flu-like symptoms are common after the first infusion.
+
+HV-RX-8312 Zanadronate (bisphosphonate)
+Formulary status: Non-formulary; available by request.
+Indications: Osteoporosis; hypercalcemia of malignancy.
+Adult dosing: 4 mg IV once over 15 to 30 minutes.
+Renal adjustment: CrCl below 35 mL/min: avoid.
+Interactions: None clinically relevant.
+Monitoring: Calcium 1 week after the dose.
+Pharmacist notes: Flu-like symptoms are common after the first infusion.
+
+Section: Psychiatry and neurology
+
+HV-RX-1926 Firatiracetam (antiepileptic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Focal and generalized seizures; status epilepticus after a benzodiazepine.
+Adult dosing: 500 mg IV or by mouth twice daily; loading dose 40 mg/kg IV for status epilepticus.
+Renal adjustment: CrCl 30 to 50 mL/min: maximum 750 mg twice daily.
+Interactions: Additive sedation with opioids.
+Monitoring: Seizure frequency.
+Pharmacist notes: IV and oral doses are equivalent.
+
+HV-RX-2136 Hexatiracetam (antiepileptic)
+Formulary status: Non-formulary; available by request.
+Indications: Focal and generalized seizures; status epilepticus after a benzodiazepine.
+Adult dosing: 500 mg IV or by mouth twice daily; loading dose 60 mg/kg IV for status epilepticus.
+Renal adjustment: CrCl below 30 mL/min: maximum 500 mg twice daily.
+Interactions: Additive sedation with opioids.
+Monitoring: Seizure frequency.
+Pharmacist notes: IV and oral doses are equivalent.
+
+HV-RX-2676 Rovaoxetine (selective serotonin reuptake inhibitor)
+Formulary status: Non-formulary; available by request.
+Indications: Depression; anxiety disorders.
+Adult dosing: 10 mg by mouth once daily; maximum 60 mg daily.
+Renal adjustment: Hepatic impairment: halve the dose.
+Interactions: Serotonin syndrome with Lumidex, tramadol-like opioids and linezolid-like agents.
+Monitoring: Mood and suicidal thoughts in the first weeks.
+Pharmacist notes: Hyponatremia is more common in older adults.
+
+HV-RX-2701 Zanaapine (atypical antipsychotic)
+Formulary status: Non-formulary; available by request.
+Indications: Schizophrenia; bipolar disorder; severe agitation.
+Adult dosing: 25 mg by mouth at bedtime; maximum 800 mg daily.
+Renal adjustment: Start low in hepatic impairment.
+Interactions: Sedation with benzodiazepines.
+Monitoring: Weight weekly.
+Pharmacist notes: Orthostatic hypotension; rise slowly.
+
+HV-RX-2763 Pelaapine (atypical antipsychotic)
+Formulary status: Non-formulary; available by request.
+Indications: Schizophrenia; bipolar disorder; severe agitation.
+Adult dosing: 2.5 mg by mouth at bedtime; maximum 30 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Sedation with benzodiazepines.
+Monitoring: Glucose and lipids at baseline and 12 weeks.
+Pharmacist notes: Avoid in dementia-related psychosis.
+
+HV-RX-2841 Zanatiracetam (antiepileptic)
+Formulary status: Tier 1, unrestricted.
+Indications: Focal and generalized seizures; status epilepticus after a benzodiazepine.
+Adult dosing: 1000 mg IV or by mouth twice daily; loading dose 60 mg/kg IV for status epilepticus.
+Renal adjustment: CrCl 30 to 50 mL/min: maximum 750 mg twice daily.
+Interactions: Additive sedation with opioids.
+Monitoring: Mood changes and irritability.
+Pharmacist notes: Do not stop abruptly.
+
+HV-RX-3091 Fenooxetine (selective serotonin reuptake inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Depression; anxiety disorders.
+Adult dosing: 10 mg by mouth once daily; maximum 40 mg daily.
+Renal adjustment: Hepatic impairment: halve the dose.
+Interactions: Serotonin syndrome with Lumidex, tramadol-like opioids and linezolid-like agents.
+Monitoring: Sodium in older adults.
+Pharmacist notes: Taper to avoid discontinuation symptoms.
+
+HV-RX-4387 Abraoxetine (selective serotonin reuptake inhibitor)
+Formulary status: Non-formulary; available by request.
+Indications: Depression; anxiety disorders.
+Adult dosing: 20 mg by mouth once daily; maximum 200 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Serotonin syndrome with Lumidex, tramadol-like opioids and linezolid-like agents.
+Monitoring: Mood and suicidal thoughts in the first weeks.
+Pharmacist notes: Hyponatremia is more common in older adults.
+
+HV-RX-4410 Garaapine (atypical antipsychotic)
+Formulary status: Tier 1, unrestricted.
+Indications: Schizophrenia; bipolar disorder; severe agitation.
+Adult dosing: 2.5 mg by mouth at bedtime; maximum 30 mg daily.
+Renal adjustment: No adjustment.
+Interactions: QT prolongation with other QT-prolonging drugs.
+Monitoring: Weight weekly.
+Pharmacist notes: Orthostatic hypotension; rise slowly.
+
+HV-RX-4635 Ulvatiracetam (antiepileptic)
+Formulary status: Non-formulary; available by request.
+Indications: Focal and generalized seizures; status epilepticus after a benzodiazepine.
+Adult dosing: 500 mg IV or by mouth twice daily; loading dose 60 mg/kg IV for status epilepticus.
+Renal adjustment: CrCl below 30 mL/min: maximum 500 mg twice daily.
+Interactions: Additive sedation with opioids.
+Monitoring: Seizure frequency.
+Pharmacist notes: Do not stop abruptly.
+
+HV-RX-4846 Briotiracetam (antiepileptic)
+Formulary status: Tier 1, unrestricted.
+Indications: Focal and generalized seizures; status epilepticus after a benzodiazepine.
+Adult dosing: 750 mg IV or by mouth twice daily; loading dose 60 mg/kg IV for status epilepticus.
+Renal adjustment: CrCl 30 to 50 mL/min: maximum 750 mg twice daily.
+Interactions: None clinically relevant.
+Monitoring: Mood changes and irritability.
+Pharmacist notes: Do not stop abruptly.
+
+HV-RX-5135 Miraoxetine (selective serotonin reuptake inhibitor)
+Formulary status: Tier 2.
+Indications: Depression; anxiety disorders.
+Adult dosing: 20 mg by mouth once daily; maximum 60 mg daily.
+Renal adjustment: Hepatic impairment: halve the dose.
+Interactions: Serotonin syndrome with Lumidex, tramadol-like opioids and linezolid-like agents.
+Monitoring: Mood and suicidal thoughts in the first weeks.
+Pharmacist notes: Taper to avoid discontinuation symptoms.
+
+HV-RX-5167 Leviapine (atypical antipsychotic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Schizophrenia; bipolar disorder; severe agitation.
+Adult dosing: 5 mg by mouth at bedtime; maximum 20 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Sedation with benzodiazepines.
+Monitoring: Glucose and lipids at baseline and 12 weeks.
+Pharmacist notes: Avoid in dementia-related psychosis.
+
+HV-RX-5306 Brioapine (atypical antipsychotic)
+Formulary status: Tier 2.
+Indications: Schizophrenia; bipolar disorder; severe agitation.
+Adult dosing: 5 mg by mouth at bedtime; maximum 30 mg daily.
+Renal adjustment: Start low in hepatic impairment.
+Interactions: Sedation with benzodiazepines.
+Monitoring: Glucose and lipids at baseline and 12 weeks.
+Pharmacist notes: Orthostatic hypotension; rise slowly.
+
+HV-RX-5467 Beloapine (atypical antipsychotic)
+Formulary status: Tier 2.
+Indications: Schizophrenia; bipolar disorder; severe agitation.
+Adult dosing: 2.5 mg by mouth at bedtime; maximum 20 mg daily.
+Renal adjustment: Start low in hepatic impairment.
+Interactions: QT prolongation with other QT-prolonging drugs.
+Monitoring: Weight weekly.
+Pharmacist notes: Avoid in dementia-related psychosis.
+
+HV-RX-5984 Duratiracetam (antiepileptic)
+Formulary status: Tier 1, unrestricted.
+Indications: Focal and generalized seizures; status epilepticus after a benzodiazepine.
+Adult dosing: 750 mg IV or by mouth twice daily; loading dose 40 mg/kg IV for status epilepticus.
+Renal adjustment: CrCl below 30 mL/min: maximum 500 mg twice daily.
+Interactions: None clinically relevant.
+Monitoring: Mood changes and irritability.
+Pharmacist notes: IV and oral doses are equivalent.
+
+HV-RX-6213 Yoraapine (atypical antipsychotic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Schizophrenia; bipolar disorder; severe agitation.
+Adult dosing: 5 mg by mouth at bedtime; maximum 800 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Sedation with benzodiazepines.
+Monitoring: Weight weekly.
+Pharmacist notes: Avoid in dementia-related psychosis.
+
+HV-RX-6327 Belotiracetam (antiepileptic)
+Formulary status: Non-formulary; available by request.
+Indications: Focal and generalized seizures; status epilepticus after a benzodiazepine.
+Adult dosing: 750 mg IV or by mouth twice daily; loading dose 40 mg/kg IV for status epilepticus.
+Renal adjustment: CrCl 30 to 50 mL/min: maximum 750 mg twice daily.
+Interactions: Additive sedation with opioids.
+Monitoring: Mood changes and irritability.
+Pharmacist notes: Do not stop abruptly.
+
+HV-RX-6662 Opraapine (atypical antipsychotic)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Schizophrenia; bipolar disorder; severe agitation.
+Adult dosing: 25 mg by mouth at bedtime; maximum 800 mg daily.
+Renal adjustment: Start low in hepatic impairment.
+Interactions: Sedation with benzodiazepines.
+Monitoring: Glucose and lipids at baseline and 12 weeks.
+Pharmacist notes: Orthostatic hypotension; rise slowly.
+
+HV-RX-7126 Elvaoxetine (selective serotonin reuptake inhibitor)
+Formulary status: Non-formulary; available by request.
+Indications: Depression; anxiety disorders.
+Adult dosing: 10 mg by mouth once daily; maximum 200 mg daily.
+Renal adjustment: No adjustment.
+Interactions: Bleeding risk with antiplatelets.
+Monitoring: Mood and suicidal thoughts in the first weeks.
+Pharmacist notes: Taper to avoid discontinuation symptoms.
+
+HV-RX-7719 Galooxetine (selective serotonin reuptake inhibitor)
+Formulary status: Tier 2.
+Indications: Depression; anxiety disorders.
+Adult dosing: 10 mg by mouth once daily; maximum 200 mg daily.
+Renal adjustment: Hepatic impairment: halve the dose.
+Interactions: Bleeding risk with antiplatelets.
+Monitoring: Mood and suicidal thoughts in the first weeks.
+Pharmacist notes: Hyponatremia is more common in older adults.
+
+HV-RX-8839 Ciraoxetine (selective serotonin reuptake inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Depression; anxiety disorders.
+Adult dosing: 10 mg by mouth once daily; maximum 200 mg daily.
+Renal adjustment: Hepatic impairment: halve the dose.
+Interactions: Serotonin syndrome with Lumidex, tramadol-like opioids and linezolid-like agents.
+Monitoring: Mood and suicidal thoughts in the first weeks.
+Pharmacist notes: Hyponatremia is more common in older adults.
+
+HV-RX-8966 Abratiracetam (antiepileptic)
+Formulary status: Non-formulary; available by request.
+Indications: Focal and generalized seizures; status epilepticus after a benzodiazepine.
+Adult dosing: 500 mg IV or by mouth twice daily; loading dose 60 mg/kg IV for status epilepticus.
+Renal adjustment: CrCl 30 to 50 mL/min: maximum 750 mg twice daily.
+Interactions: None clinically relevant.
+Monitoring: Seizure frequency.
+Pharmacist notes: IV and oral doses are equivalent.
+
+HV-RX-8998 Zanaoxetine (selective serotonin reuptake inhibitor)
+Formulary status: Tier 1, unrestricted.
+Indications: Depression; anxiety disorders.
+Adult dosing: 10 mg by mouth once daily; maximum 40 mg daily.
+Renal adjustment: Hepatic impairment: halve the dose.
+Interactions: Serotonin syndrome with Lumidex, tramadol-like opioids and linezolid-like agents.
+Monitoring: Sodium in older adults.
+Pharmacist notes: Taper to avoid discontinuation symptoms.
+
+Section: Allergy and respiratory
+
+HV-RX-1015 Pelaterol (inhaled beta-2 agonist bronchodilator)
+Formulary status: Tier 1, unrestricted.
+Indications: Asthma; chronic obstructive pulmonary disease.
+Adult dosing: 1 puffs inhaled every 6 hours as needed.
+Renal adjustment: No adjustment.
+Interactions: Effect blocked by non-selective beta blockers.
+Monitoring: Respiratory rate and oxygen saturation.
+Pharmacist notes: Rinse mouth after use.
+
+HV-RX-1018 Quinaterol (inhaled beta-2 agonist bronchodilator)
+Formulary status: Tier 1, unrestricted.
+Indications: Asthma; chronic obstructive pulmonary disease.
+Adult dosing: 1 puffs inhaled every 4 hours as needed.
+Renal adjustment: No adjustment.
+Interactions: Hypokalemia with high doses and diuretics.
+Monitoring: Heart rate and peak flow.
+Pharmacist notes: Rinse mouth after use.
+
+HV-RX-1760 Quinasonide (inhaled corticosteroid)
+Formulary status: Tier 2.
+Indications: Maintenance therapy for asthma and COPD.
+Adult dosing: 200 mcg inhaled twice daily; maximum 400 mcg twice daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Oral thrush.
+Pharmacist notes: Rinse mouth after each use to prevent thrush.
+
+HV-RX-1844 Estaterol (inhaled beta-2 agonist bronchodilator)
+Formulary status: Tier 1, unrestricted.
+Indications: Asthma; chronic obstructive pulmonary disease.
+Adult dosing: 1 puffs inhaled every 4 hours as needed.
+Renal adjustment: No adjustment.
+Interactions: Hypokalemia with high doses and diuretics.
+Monitoring: Heart rate and peak flow.
+Pharmacist notes: Use a spacer for metered-dose inhalers.
+
+HV-RX-1892 Calatadine (second-generation antihistamine)
+Formulary status: Tier 2.
+Indications: Allergic rhinitis; urticaria.
+Adult dosing: 10 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Symptom relief.
+Pharmacist notes: Preferred over sedating antihistamines in older adults.
+
+HV-RX-2304 Ulvasonide (inhaled corticosteroid)
+Formulary status: Tier 1, unrestricted.
+Indications: Maintenance therapy for asthma and COPD.
+Adult dosing: 250 mcg inhaled twice daily; maximum 500 mcg twice daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Symptom control.
+Pharmacist notes: Rinse mouth after each use to prevent thrush.
+
+HV-RX-2590 Jovasonide (inhaled corticosteroid)
+Formulary status: Non-formulary; available by request.
+Indications: Maintenance therapy for asthma and COPD.
+Adult dosing: 250 mcg inhaled twice daily; maximum 500 mcg twice daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Symptom control.
+Pharmacist notes: Rinse mouth after each use to prevent thrush.
+
+HV-RX-3837 Fenotadine (second-generation antihistamine)
+Formulary status: Non-formulary; available by request.
+Indications: Allergic rhinitis; urticaria.
+Adult dosing: 5 mg by mouth once daily.
+Renal adjustment: CrCl below 30 mL/min: every other day.
+Interactions: None clinically relevant.
+Monitoring: Sedation in older adults.
+Pharmacist notes: Preferred over sedating antihistamines in older adults.
+
+HV-RX-3989 Opratadine (second-generation antihistamine)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Allergic rhinitis; urticaria.
+Adult dosing: 5 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Symptom relief.
+Pharmacist notes: Preferred over sedating antihistamines in older adults.
+
+HV-RX-4164 Wexaterol (inhaled beta-2 agonist bronchodilator)
+Formulary status: Tier 1, unrestricted.
+Indications: Asthma; chronic obstructive pulmonary disease.
+Adult dosing: 2 puffs inhaled every 6 hours as needed.
+Renal adjustment: No adjustment.
+Interactions: Effect blocked by non-selective beta blockers.
+Monitoring: Respiratory rate and oxygen saturation.
+Pharmacist notes: Use a spacer for metered-dose inhalers.
+
+HV-RX-4202 Xalasonide (inhaled corticosteroid)
+Formulary status: Tier 1, unrestricted.
+Indications: Maintenance therapy for asthma and COPD.
+Adult dosing: 100 mcg inhaled twice daily; maximum 400 mcg twice daily.
+Renal adjustment: No adjustment.
+Interactions: Levels raised by strong CYP3A4 inhibitors.
+Monitoring: Oral thrush.
+Pharmacist notes: Not for acute bronchospasm.
+
+HV-RX-5321 Levitadine (second-generation antihistamine)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Allergic rhinitis; urticaria.
+Adult dosing: 10 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Symptom relief.
+Pharmacist notes: Stop 5 days before allergy skin testing.
+
+HV-RX-5560 Xalaterol (inhaled beta-2 agonist bronchodilator)
+Formulary status: Non-formulary; available by request.
+Indications: Asthma; chronic obstructive pulmonary disease.
+Adult dosing: 2 puffs inhaled every 4 hours as needed.
+Renal adjustment: No adjustment.
+Interactions: Hypokalemia with high doses and diuretics.
+Monitoring: Respiratory rate and oxygen saturation.
+Pharmacist notes: Use a spacer for metered-dose inhalers.
+
+HV-RX-6139 Estatadine (second-generation antihistamine)
+Formulary status: Tier 2.
+Indications: Allergic rhinitis; urticaria.
+Adult dosing: 10 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Sedation in older adults.
+Pharmacist notes: Preferred over sedating antihistamines in older adults.
+
+HV-RX-6534 Yoraterol (inhaled beta-2 agonist bronchodilator)
+Formulary status: Non-formulary; available by request.
+Indications: Asthma; chronic obstructive pulmonary disease.
+Adult dosing: 1 puffs inhaled every 6 hours as needed.
+Renal adjustment: No adjustment.
+Interactions: Effect blocked by non-selective beta blockers.
+Monitoring: Respiratory rate and oxygen saturation.
+Pharmacist notes: Use a spacer for metered-dose inhalers.
+
+HV-RX-6617 Belotadine (second-generation antihistamine)
+Formulary status: Non-formulary; available by request.
+Indications: Allergic rhinitis; urticaria.
+Adult dosing: 10 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: Absorption reduced by fruit juice.
+Monitoring: Symptom relief.
+Pharmacist notes: Stop 5 days before allergy skin testing.
+
+HV-RX-6797 Novatadine (second-generation antihistamine)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Allergic rhinitis; urticaria.
+Adult dosing: 180 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Symptom relief.
+Pharmacist notes: Preferred over sedating antihistamines in older adults.
+
+HV-RX-6864 Zanasonide (inhaled corticosteroid)
+Formulary status: Non-formulary; available by request.
+Indications: Maintenance therapy for asthma and COPD.
+Adult dosing: 100 mcg inhaled twice daily; maximum 400 mcg twice daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Oral thrush.
+Pharmacist notes: Rinse mouth after each use to prevent thrush.
+
+HV-RX-6888 Oprasonide (inhaled corticosteroid)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Maintenance therapy for asthma and COPD.
+Adult dosing: 200 mcg inhaled twice daily; maximum 500 mcg twice daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Symptom control.
+Pharmacist notes: Not for acute bronchospasm.
+
+HV-RX-7120 Wexatadine (second-generation antihistamine)
+Formulary status: Tier 2.
+Indications: Allergic rhinitis; urticaria.
+Adult dosing: 5 mg by mouth once daily.
+Renal adjustment: No adjustment.
+Interactions: Absorption reduced by fruit juice.
+Monitoring: Symptom relief.
+Pharmacist notes: Preferred over sedating antihistamines in older adults.
+
+HV-RX-7226 Mirasonide (inhaled corticosteroid)
+Formulary status: Tier 1, unrestricted.
+Indications: Maintenance therapy for asthma and COPD.
+Adult dosing: 100 mcg inhaled twice daily; maximum 500 mcg twice daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Oral thrush.
+Pharmacist notes: Not for acute bronchospasm.
+
+HV-RX-7375 Silasonide (inhaled corticosteroid)
+Formulary status: Tier 2.
+Indications: Maintenance therapy for asthma and COPD.
+Adult dosing: 100 mcg inhaled twice daily; maximum 400 mcg twice daily.
+Renal adjustment: No adjustment.
+Interactions: None clinically relevant.
+Monitoring: Oral thrush.
+Pharmacist notes: Rinse mouth after each use to prevent thrush.
+
+HV-RX-7506 Garaterol (inhaled beta-2 agonist bronchodilator)
+Formulary status: Tier 2.
+Indications: Asthma; chronic obstructive pulmonary disease.
+Adult dosing: 1 puffs inhaled every 4 hours as needed.
+Renal adjustment: No adjustment.
+Interactions: Hypokalemia with high doses and diuretics.
+Monitoring: Respiratory rate and oxygen saturation.
+Pharmacist notes: Rinse mouth after use.
+
+HV-RX-8075 Beloterol (inhaled beta-2 agonist bronchodilator)
+Formulary status: Tier 2, pharmacist verification required.
+Indications: Asthma; chronic obstructive pulmonary disease.
+Adult dosing: 2 puffs inhaled every 4 hours as needed.
+Renal adjustment: No adjustment.
+Interactions: Effect blocked by non-selective beta blockers.
+Monitoring: Respiratory rate and oxygen saturation.
+Pharmacist notes: Rinse mouth after use.

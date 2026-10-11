@@ -1,0 +1,107 @@
+Halverd Valley Medical Center (HVMC)
+Clinical Unit and Service Directory, 2026
+SYNTHETIC DOCUMENT: fictional facility, drugs and devices, created for retrieval testing. Not medical guidance.
+
+Internal extensions are four digits; dial 9 for an outside line. Pagers are reached by dialing 7 followed by the pager number's last three digits, then entering a callback extension.
+
+Section: Inpatient and procedural units
+
+2 North: general medicine. Location: Main Building, floor 2. Charge nurse: extension 3201.
+
+2 South: general medicine and geriatrics. Location: Main Building, floor 2. Charge nurse: extension 3205.
+
+3 North: cardiology and telemetry. Location: Main Building, floor 3. Charge nurse: extension 3301.
+
+3 South: nephrology and dialysis. Location: Main Building, floor 3. Charge nurse: extension 3305.
+
+4 North: general surgery. Location: Main Building, floor 4. Charge nurse: extension 3401.
+
+4 South: orthopedics. Location: Main Building, floor 4. Charge nurse: extension 3405.
+
+5 North: oncology and hematology. Location: Main Building, floor 5. Charge nurse: extension 3501.
+
+5 South: neurology and stroke unit. Location: Main Building, floor 5. Charge nurse: extension 3505.
+
+Medical ICU: critical care. Location: Tower A, floor 3. Charge nurse: extension 3610.
+
+Surgical ICU: critical care. Location: Tower A, floor 4. Charge nurse: extension 3620.
+
+Cardiac ICU: critical care. Location: Tower A, floor 5. Charge nurse: extension 3630.
+
+Step-down unit: intermediate care. Location: Tower A, floor 2. Charge nurse: extension 3640.
+
+Emergency department: emergency medicine. Location: Ground floor, east entrance. Charge nurse: extension 3000.
+
+Post-anesthesia care unit: recovery. Location: Tower B, floor 2. Charge nurse: extension 3710.
+
+Operating rooms: surgery. Location: Tower B, floor 2. Charge nurse: extension 3700.
+
+Labor and delivery: obstetrics. Location: Tower B, floor 3. Charge nurse: extension 3800.
+
+Behavioral health unit: psychiatry. Location: West Wing, floor 1. Charge nurse: extension 3900.
+
+Rehabilitation unit: physical rehabilitation. Location: West Wing, floor 2. Charge nurse: extension 3910.
+
+Endoscopy suite: gastroenterology. Location: Main Building, floor 1. Charge nurse: extension 3110.
+
+Cardiac catheterization lab: interventional cardiology. Location: Tower A, floor 1. Charge nurse: extension 3120.
+
+Infusion center: outpatient infusions. Location: Outpatient Pavilion, floor 1. Charge nurse: extension 3130.
+
+Dialysis unit: hemodialysis. Location: Main Building, floor 3. Charge nurse: extension 3310.
+
+Section: Hospital services
+
+Rapid response team, stroke alert and massive transfusion activation: dial 5555.
+
+Cardiac catheterization team (STEMI): pager 7700.
+
+Biomedical engineering, 24 hours: extension 4417.
+
+Central pharmacy: extension 4200.
+
+Clinical pharmacist on call (evenings and nights): pager 7210.
+
+Blood bank: extension 4310.
+
+Core laboratory: extension 4350.
+
+Microbiology: extension 4360.
+
+Radiology reading room: extension 4500.
+
+Infection prevention: extension 4620.
+
+Wound care nurse: pager 7340.
+
+Speech-language pathology: extension 4710.
+
+Respiratory therapy: pager 7400.
+
+Security: extension 4911.
+
+Interpreter services: extension 4720.
+
+Patient safety event line: extension 4800.
+
+Information technology help desk: extension 4100.
+
+Environmental services (spills and terminal cleans): extension 4150.
+
+Section: Physician on-call services
+
+Infectious diseases on call: pager 7150. ID approval for restricted antimicrobials such as Meronex is requested through this pager.
+
+Hematology on call: pager 7160. Approves Revexa and advises on bleeding in anticoagulated patients.
+
+Nephrology on call: pager 7170. Urgent dialysis decisions, including refractory hyperkalemia.
+
+Neurology (stroke) on call: pager 7180. Joins every stroke alert.
+
+General surgery on call: pager 7190. Surgical consults and acute abdomen.
+
+Psychiatry on call: pager 7200. Capacity assessments and behavioral emergencies.
+
+Anesthesia (pain service) on call: pager 7220. Epidurals, nerve block catheters and PCA problems.
+
+Endocrinology on call: pager 7230. Insulin infusions outside the ICU and difficult glucose control.
