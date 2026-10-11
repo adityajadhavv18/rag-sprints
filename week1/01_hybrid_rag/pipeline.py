@@ -90,9 +90,10 @@ def rrf_fuse(ranked_lists: dict[str, list[Hit]], k: int = RRF_K, weights: dict[s
     """Reciprocal Rank Fusion: each list gives a chunk weight / (k + rank) points; add them up, sort.
 
     Only RANKS are used, never the raw scores, because cosine (0..1) and BM25 (0..30ish) live on different
-    scales. A chunk ranked well by both lists beats one ranked #1 by a single list:
-        #2 in both: 1/62 + 1/62 = 0.0323     #1 in one only: 1/61 = 0.0164
-    Smaller k widens the gap between rank 1 and rank 20; weights let one path count for more (default 1 each).
+    scales. A chunk ranked well by both lists beats one ranked #1 by a single list (k=10):
+        #2 in both: 1/12 + 1/12 = 0.167     #1 in one only: 1/11 = 0.091
+    Smaller k widens the gap between rank 1 and rank 10 (k=10: 1.8x, k=60: 1.15x), so a confident single-list #1
+    survives more often. Weights let one path count for more (default 1 each).
     """
     weights = weights or {}
     points: dict[str, float] = defaultdict(float)
