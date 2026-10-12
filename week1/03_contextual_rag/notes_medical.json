@@ -1,0 +1,722 @@
+{
+ "hvmc_formulary::0002": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" this chunk covers monitoring and pharmacist notes for HV-RX-2010 Heparivex (low molecular weight heparin), HV-RX-2047 Corvatrel (oral factor Xa inhibitor), and HV-RX-2074 Corvetrol (oral direct thrombin inhibitor), detailing dosing and safety information.",
+  "chunk_start": ": Platelet count every 2 to 3 days for the first 14 days to detect heparin-induc"
+ },
+ "kestrel_iv220_manual::0001": {
+  "note": "The chunk is from the \"Kestrel IV-220 Volumetric Infusion Pump Operator and Troubleshooting Manual\" and covers sections 2. Specifications, 3. Drug library and dose error reduction, 4. Loading the set and priming, and 5. Alarm priorities. It contains operational details about flow rates, drug programming, and alarm types.",
+  "chunk_start": "25 mL/h when fully charged. A full recharge takes 6 hours while plugged in, and "
+ },
+ "hvmc_clinical_protocols::0003": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center Nursing and Medical Clinical Protocols, 2026,\" covering CP-07 Sepsis recognition and the one-hour bundle, CP-09 Suspected transfusion reaction, and CP-11 Fall prevention. It contains critical actions and assessments for managing sepsis, transfusion reactions, and fall risks in patients.",
+  "chunk_start": "hours. Fifth, if mean arterial pressure stays below 65 mmHg during or after flui"
+ },
+ "hvmc_formulary::0071": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary and covers dosing, renal adjustments, interactions, monitoring, and pharmacist notes for the following entries: HV-RX-6188 Briodronate, HV-RX-6252 Siladronate, and HV-RX-7010 Kaliveen.",
+  "chunk_start": ".\nAdult dosing: 4 mg IV once over 15 to 30 minutes.\nRenal adjustment: CrCl below"
+ },
+ "hvmc_antibiogram::0000": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Cumulative Antibiogram, January to December 2025\" document, covering susceptibility data for Escherichia coli (HV-ORG-001), Klebsiella pneumoniae (HV-ORG-002), and Pseudomonas aeruginosa (HV-ORG-003), providing essential information for selecting antibiotics.",
+  "chunk_start": "Halverd Valley Medical Center (HVMC)\nCumulative Antibiogram, January to December"
+ },
+ "hvmc_antibiogram::0001": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center (HVMC) Cumulative Antibiogram, January to December 2025,\" covering susceptibility data for Klebsiella pneumoniae (HV-AB-228), Pseudomonas aeruginosa (HV-AB-224), Enterobacter cloacae (HV-AB-585), and Proteus mirabilis (HV-AB-497), detailing antibiotic effectiveness percentages.",
+  "chunk_start": "ox: 95 percent.\nKlebsiella pneumoniae susceptibility to Azithrel: 94 percent.\n\nO"
+ },
+ "hvmc_antibiogram::0002": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center Cumulative Antibiogram, January to December 2025\" and covers susceptibility data for Proteus mirabilis (HV-AB-497), Staphylococcus aureus (MSSA) (HV-AB-49), and Staphylococcus aureus (MRSA) (HV-AB-64), providing antibiotic effectiveness percentages.",
+  "chunk_start": "us mirabilis susceptibility to Tarnaflox: 65 percent.\nProteus mirabilis suscepti"
+ },
+ "hvmc_antibiogram::0003": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center Cumulative Antibiogram, January to December 2025,\" covering susceptibility data for Staphylococcus aureus (MRSA), Enterococcus faecalis, Streptococcus pneumoniae, and Acinetobacter baumannii. It provides antibiotic susceptibility percentages to guide empiric therapy choices.",
+  "chunk_start": "flox: 67 percent.\nStaphylococcus aureus (MRSA) susceptibility to Azithrel: 88 pe"
+ },
+ "hvmc_antibiogram::0004": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center (HVMC) Cumulative Antibiogram, January to December 2025\" document, covering the susceptibility of Acinetobacter baumannii (AB-294) to various antibiotics, including Cefalyn, Meronex, Tarnaflox, and Azithrel, along with trends in antibiotic resistance.",
+  "chunk_start": ".\nAcinetobacter baumannii susceptibility to Cefalyn: 68 percent.\nAcinetobacter b"
+ },
+ "hvmc_clinical_protocols::0000": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Nursing and Medical Clinical Protocols, 2026\" includes protocols CP-02 Rapid response team activation and CP-03 Hypoglycemia management. This chunk provides critical information on how to activate the rapid response team and manage low blood sugar levels in patients.",
+  "chunk_start": "Halverd Valley Medical Center (HVMC)\nNursing and Medical Clinical Protocols, 202"
+ },
+ "hvmc_clinical_protocols::0001": {
+  "note": "This chunk is from the Halverd Valley Medical Center Nursing and Medical Clinical Protocols, specifically covering CP-03 Hypoglycemia management and CP-05 Venous thromboembolism prophylaxis. It contains treatment guidelines for hypoglycemia, including dosing for glucose administration and follow-up actions.",
+  "chunk_start": "120 mL of juice or 4 glucose tablets. If the patient cannot safely swallow and h"
+ },
+ "hvmc_clinical_protocols::0002": {
+  "note": "This chunk is from the Halverd Valley Medical Center Nursing and Medical Clinical Protocols, covering CP-05 Venous thromboembolism prophylaxis and CP-07 Sepsis recognition and the one-hour bundle. It contains information on VTE prophylaxis measures and sepsis screening criteria and actions.",
+  "chunk_start": "12 hours. Patients with contraindications receive intermittent pneumatic compres"
+ },
+ "hvmc_clinical_protocols::0004": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center Nursing and Medical Clinical Protocols, 2026\" document, covering CP-11 Fall prevention, CP-13 Pressure injury prevention, and CP-15 Opioid-induced respiratory depression. It contains guidelines for assessing fall risk, preventing pressure injuries, and managing opioid-related issues.",
+  "chunk_start": "if symptoms resolve.\n\nCP-11 Fall prevention\nAssess fall risk with the Morse Fall"
+ },
+ "hvmc_clinical_protocols::0005": {
+  "note": "This chunk is from the Halverd Valley Medical Center Nursing and Medical Clinical Protocols, covering CP-13 Pressure injury prevention, CP-15 Opioid-induced respiratory depression, CP-17 Alcohol withdrawal, and CP-19 Discharge medication reconciliation. It contains guidelines for managing pressure injuries, opioid monitoring, alcohol withdrawal assessment, and discharge medication processes.",
+  "chunk_start": "as oxygen tubing and splints at least twice each shift. Manage moisture with bar"
+ },
+ "hvmc_clinical_protocols::0006": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center Nursing and Medical Clinical Protocols, 2026,\" covering CP-17 Alcohol withdrawal, CP-19 Discharge medication reconciliation, CP-21 Stroke alert, and CP-23 Acute chest pain. It contains information on treatment protocols, medication administration, and emergency response actions.",
+  "chunk_start": "rapid response team call and ICU evaluation. Give thiamine 100 mg IV before any "
+ },
+ "hvmc_clinical_protocols::0007": {
+  "note": "The document \"Halverd Valley Medical Center Nursing and Medical Clinical Protocols, 2026\" includes protocols CP-23 Acute chest pain, CP-25 Anaphylaxis, and CP-27 Diabetic ketoacidosis. This chunk provides critical information on emergency responses for chest pain, severe allergic reactions, and the management of diabetic ketoacidosis.",
+  "chunk_start": "CP-23 Acute chest pain\nObtain a 12-lead ECG within 10 minutes of any report of n"
+ },
+ "hvmc_clinical_protocols::0008": {
+  "note": "This chunk is from the Halverd Valley Medical Center Nursing and Medical Clinical Protocols, covering CP-27 Diabetic ketoacidosis and CP-29 Hyperkalemia. It contains critical information on diagnosis, treatment protocols, and monitoring for managing high blood sugar and potassium levels in patients.",
+  "chunk_start": "the health record before the end of the shift.\n\nCP-27 Diabetic ketoacidosis\nDiab"
+ },
+ "hvmc_clinical_protocols::0009": {
+  "note": "This chunk is from the Halverd Valley Medical Center Nursing and Medical Clinical Protocols, covering CP-29 Hyperkalemia, CP-31 Delirium prevention and management, and CP-33 Central venous catheter care. It contains treatment guidelines for hyperkalemia, including insulin and dextrose dosing, and management protocols for delirium and central line care.",
+  "chunk_start": "regular insulin IV together with 25 g of dextrose, then check glucose every hour"
+ },
+ "hvmc_clinical_protocols::0010": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center Nursing and Medical Clinical Protocols, 2026,\" covering CP-33 Central venous catheter care, CP-35 Indwelling urinary catheter management, and CP-37 Isolation precautions. It contains guidelines for catheter management, infection control measures, and precautions for handling patients with specific infections.",
+  "chunk_start": "uze dressings every 48 hours, or sooner if damp, loose or soiled. Administration"
+ },
+ "hvmc_clinical_protocols::0011": {
+  "note": "This chunk is from the Halverd Valley Medical Center (HVMC) Nursing and Medical Clinical Protocols, covering CP-37 Isolation precautions, CP-39 Restraint and seclusion, and CP-41 Pain assessment. It contains guidelines on infection control measures, the use of restraints, and pain evaluation methods for patients.",
+  "chunk_start": "are used for influenza and pertussis. Airborne precautions require a fit-tested "
+ },
+ "hvmc_clinical_protocols::0012": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center Nursing and Medical Clinical Protocols, 2026\" document, covering CP-41 Pain assessment, CP-43 Preoperative fasting and medication management, CP-45 Dysphagia screening, and CP-47 Massive transfusion protocol. It contains guidelines for pain management, pre-surgery dietary instructions, swallowing assessments, and massive transfusion procedures.",
+  "chunk_start": "l or oral acetaminophen and adding opioids only when needed.\n\nCP-43 Preoperative"
+ },
+ "hvmc_clinical_protocols::0013": {
+  "note": "In the Halverd Valley Medical Center Nursing and Medical Clinical Protocols, the chunk is part of CP-47 Massive transfusion protocol, detailing the components and management of blood products during massive transfusions, including monitoring and corrective actions for fibrinogen and calcium levels.",
+  "chunk_start": "coolers containing 6 units of red cells, 6 units of plasma and 1 pool of platele"
+ },
+ "hvmc_directory::0000": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center (HVMC) Clinical Unit and Service Directory, 2026,\" covering inpatient units such as 2 North (general medicine) and 3 South (nephrology and dialysis), providing location and charge nurse contact information for each unit.",
+  "chunk_start": "Halverd Valley Medical Center (HVMC)\nClinical Unit and Service Directory, 2026\nS"
+ },
+ "hvmc_directory::0001": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center Clinical Unit and Service Directory, 2026,\" covering critical care and recovery units, including the Cardiac ICU (3630) and Emergency Department (3000), along with various hospital services and their contact information. It provides essential location and charge nurse details for these medical units.",
+  "chunk_start": "Cardiac ICU: critical care. Location: Tower A, floor 5. Charge nurse: extension "
+ },
+ "hvmc_directory::0002": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center (HVMC) Clinical Unit and Service Directory, 2026\" and covers hospital services such as \"Biomedical engineering\" (4417), \"Central pharmacy\" (4200), and various on-call physician services including \"Infectious diseases\" (7150) and \"Hematology\" (7160). It provides contact information for essential medical services and specialists.",
+  "chunk_start": "4417.\n\nCentral pharmacy: extension 4200.\n\nClinical pharmacist on call (evenings "
+ },
+ "hvmc_formulary::0000": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries related to anticoagulants and reversal agents, specifically starting with HV-RX-1364 Brioparin and ending in the middle of HV-RX-1491 Velaparin. It contains information on dosing, renal adjustments, interactions, and monitoring for these medications.",
+  "chunk_start": "Halverd Valley Medical Center (HVMC)\nAdult Inpatient Formulary, 2026 edition\nSYN"
+ },
+ "hvmc_formulary::0001": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-1491 Velaparin, HV-RX-1990 Galogrel, and HV-RX-2010 Heparivex. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for anticoagulants and antiplatelet agents.",
+  "chunk_start": "units subcutaneously once daily.\nRenal adjustment: CrCl below 30 mL/min: avoid.\n"
+ },
+ "hvmc_formulary::0003": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers dosing, renal adjustments, interactions, monitoring, and pharmacist notes for HV-RX-2074 Corvetrol (oral direct thrombin inhibitor) and HV-RX-2081 Revexa (monoclonal antibody fragment reversal agent), along with information on HV-RX-2545 Yoragrel (P2Y12 antiplatelet agent).",
+  "chunk_start": "be opened or crushed.\nRenal adjustment: CrCl 30 to 50 mL/min: 75 mg twice daily."
+ },
+ "hvmc_formulary::0004": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-1990 Galogrel, HV-RX-2919 Rovaparin, HV-RX-3479 Xalagrel, and HV-RX-3577 Levigrel. It contains information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes for anticoagulants and antiplatelet agents.",
+  "chunk_start": "in dialysis patients.\nInteractions: Proton pump inhibitors may reduce effect.\nMo"
+ },
+ "hvmc_formulary::0005": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-3479 Xalagrel, HV-RX-4533 Iloparin, HV-RX-5503 Beloparin, and HV-RX-7477 Novaparin. It contains information on dosing, interactions, monitoring, and pharmacist notes related to anticoagulants.",
+  "chunk_start": ".\nInteractions: Bleeding risk with anticoagulants and NSAIDs.\nMonitoring: Watch "
+ },
+ "hvmc_formulary::0006": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-7622 Fenogrel, HV-RX-7974 Firaparin, and HV-RX-8089 Opragrel. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes related to anticoagulants and antiplatelet agents.",
+  "chunk_start": ": use unfractionated heparin instead.\nInteractions: Bleeding risk with antiplate"
+ },
+ "hvmc_formulary::0007": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-3577 Levigrel, HV-RX-8159 Garagrel, HV-RX-8431 Ulvagrel, and HV-RX-8725 Opraparin. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for antiplatelet agents and low molecular weight heparin.",
+  "chunk_start": ", then 10 mg once daily.\nRenal adjustment: No adjustment; avoid in dialysis pati"
+ },
+ "hvmc_formulary::0008": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers the entry HV-RX-4533 Iloparin (low molecular weight heparin) and continues into HV-RX-1102 Zephacillin (extended-spectrum penicillin). It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "2, pharmacist verification required.\nIndications: VTE prophylaxis in selected su"
+ },
+ "hvmc_formulary::0009": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-1108 Cefalyn (third-generation cephalosporin), HV-RX-1120 Meronex (carbapenem), and HV-RX-1135 Vancorin (glycopeptide antibiotic). It contains information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "cephalosporin)\nFormulary status: Tier 1, unrestricted.\nIndications: Community-ac"
+ },
+ "hvmc_formulary::0010": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers the entries HV-RX-1135 Vancorin (glycopeptide antibiotic), HV-RX-1150 Azithrel (macrolide antibiotic), and HV-RX-1172 Tarnaflox (fluoroquinolone). It contains information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": ")\nFormulary status: Tier 1; dosed by pharmacy under the pharmacy-to-dose protoco"
+ },
+ "hvmc_formulary::0011": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-1172 Tarnaflox, HV-RX-1190 Nephrazole, and HV-RX-1317 Opramicin. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for these medications.",
+  "chunk_start": "ergy or to susceptibility-guided therapy.\nIndications: Pneumonia and complicated"
+ },
+ "hvmc_formulary::0012": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-1350 Opralexin, HV-RX-1361 Xalacycline, and HV-RX-1420 Belomicin. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for these medications.",
+  "chunk_start": "adjustment: Pharmacy adjusts the interval using levels.\nInteractions: Additive n"
+ },
+ "hvmc_formulary::0013": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-1656 Fenomicin, HV-RX-2072 Tovalexin, and HV-RX-2193 Firalexin. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for these antibiotics.",
+  "chunk_start": ".\nRenal adjustment: Pharmacy adjusts the interval using levels.\nInteractions: Ne"
+ },
+ "hvmc_formulary::0014": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-2414 Wexalexin, HV-RX-2264 Tovacycline, and the incomplete HV-RX-2440 Estaclovir. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for antibiotics and antivirals.",
+  "chunk_start": ": Tier 2, pharmacist verification required.\nIndications: Skin and soft tissue in"
+ },
+ "hvmc_formulary::0015": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-2440 Estaclovir (antiviral), HV-RX-2605 Estacycline (tetracycline-class antibiotic), HV-RX-2702 Garalexin (first-generation cephalosporin), and part of HV-RX-2836 Quinacycline (tetracycline-class antibiotic), providing details",
+  "chunk_start": "patients without anaphylaxis history.\n\nHV-RX-2440 Estaclovir (antiviral)\nFormula"
+ },
+ "hvmc_formulary::0016": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and includes entries HV-RX-2836 Quinacycline, HV-RX-2847 Calalexin, and HV-RX-3144 Galoclovir. It provides information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes for these medications.",
+  "chunk_start": "armacist notes: Safe in most penicillin-allergic patients without anaphylaxis hi"
+ },
+ "hvmc_formulary::0017": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-3173 Opraclovir (antiviral), HV-RX-3581 Belolexin (first-generation cephalosporin), and HV-RX-4308 Xalaclovir (antiviral). It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "mL/min: every 12 hours.\nInteractions: None clinically relevant.\nMonitoring: Crea"
+ },
+ "hvmc_formulary::0018": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering renal adjustments, interactions, monitoring, and pharmacist notes for the following entries: HV-RX-4431 Ulvaclovir (antiviral), HV-RX-4607 Briomicin (aminoglycoside), and HV-RX-4789 Hexacycline (tetracycline-class antibiotic).",
+  "chunk_start": "adjustment: CrCl 25 to 50 mL/min: every 12 hours.\nInteractions: Nephrotoxicity w"
+ },
+ "hvmc_formulary::0019": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-5034 Calamicin, HV-RX-5545 Quinalexin, and HV-RX-5788 Levimicin. It contains information on indications, adult dosing, renal adjustments, interactions, monitoring, and pharmacist notes for these antibiotics.",
+  "chunk_start": "Indications: Community-acquired pneumonia; skin infections; tick-borne illness.\n"
+ },
+ "hvmc_formulary::0020": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-6159 Abramicin and HV-RX-6449 Belocycline, providing essential information on dosing, renal adjustments, interactions, and monitoring for antibiotics used in treating infections.",
+  "chunk_start": "ry status: Tier 2.\nIndications: Gram-negative sepsis in combination; synergy for"
+ },
+ "hvmc_formulary::0021": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary and covers the entries HV-RX-2605 Estacycline, HV-RX-6685 Silaclovir, HV-RX-7281 Elvaclovir, and HV-RX-7726 Calaclovir. It contains information on drug indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "armacist verification required.\nIndications: Community-acquired pneumonia; skin "
+ },
+ "hvmc_formulary::0022": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers dosing and renal adjustments for HV-RX-3173 Opraclovir (antiviral), HV-RX-8343 Garamicin (aminoglycoside), and HV-RX-8930 Zanacycline (tetracycline-class antibiotic). It provides essential information for managing infections and treatment protocols.",
+  "chunk_start": ": Herpes simplex and varicella zoster infections.\nAdult dosing: 10 mg/kg IV ever"
+ },
+ "hvmc_formulary::0023": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-1078 Zanagliptin, HV-RX-1476 Abragliptin, HV-RX-1861 Beloglizide, and HV-RX-2628 Estagliflozin. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes medications.",
+  "chunk_start": "ing: 100 mg by mouth once daily.\nRenal adjustment: No adjustment.\nInteractions: "
+ },
+ "hvmc_formulary::0024": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-2628 Estagliflozin, HV-RX-3150 Lumadex, and HV-RX-3160 Glyvanta, providing essential information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes management.",
+  "chunk_start": "Indications: Type 2 diabetes; heart failure; chronic kidney disease.\nAdult dosin"
+ },
+ "hvmc_formulary::0025": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers dosing and administration details for HV-RX-3160 Glyvanta (rapid-acting insulin analog), HV-RX-3190 Dextriva (dextrose 50% injection), and HV-RX-3195 Glucarin (intranasal glucagon), focusing on hypoglycemia management.",
+  "chunk_start": "251 to 300, 6 units; 301 to 350, 8 units; above 350, 10 units and notify the pro"
+ },
+ "hvmc_formulary::0026": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-3195 Glucarin, HV-RX-3413 Iloglizide, HV-RX-3833 Estaglizide, and HV-RX-4514 Novagliflozin. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes management.",
+  "chunk_start": "None clinically relevant.\nMonitoring: Recheck glucose 15 minutes after the dose."
+ },
+ "hvmc_formulary::0027": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-2628 Estagliflozin, HV-RX-4953 Tovagliflozin, HV-RX-5000 Quinagliflozin, and HV-RX-5211 Pelaglizide, providing information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes management.",
+  "chunk_start": "Type 2 diabetes; heart failure; chronic kidney disease.\nAdult dosing: 100 mg by "
+ },
+ "hvmc_formulary::0028": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-3413 Iloglizide, HV-RX-5363 Zanagliflozin, HV-RX-5389 Koragliptin, and HV-RX-5604 Elvagliflozin. It contains information on indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes medications.",
+  "chunk_start": "; available by request.\nIndications: Type 2 diabetes.\nAdult dosing: 2.5 mg by mo"
+ },
+ "hvmc_formulary::0029": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-5604 Elvagliflozin, HV-RX-5623 Duraglizide, HV-RX-5819 Hexaglizide, and HV-RX-6251 Novagliptin. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes management.",
+  "chunk_start": "1, unrestricted.\nIndications: Type 2 diabetes; heart failure; chronic kidney dis"
+ },
+ "hvmc_formulary::0030": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-6251 Novagliptin, HV-RX-6434 Calagliptin, HV-RX-6676 Levigliflozin, and HV-RX-6875 Velaglizide. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes medications.",
+  "chunk_start": ".\n\nHV-RX-6251 Novagliptin (DPP-4 inhibitor)\nFormulary status: Tier 1, unrestrict"
+ },
+ "hvmc_formulary::0031": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-3413 Iloglizide, HV-RX-7050 Thyrolex, and HV-RX-7065 Prednavex. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes and thyroid medications.",
+  "chunk_start": ": Type 2 diabetes.\nAdult dosing: 1 mg by mouth once daily with breakfast; maximu"
+ },
+ "hvmc_formulary::0032": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-1172 Tarnaflox, HV-RX-7467 Rovagliflozin, HV-RX-7601 Xalaglizide, and HV-RX-8198 Fenogliptin, providing information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "Tarnaflox.\nMonitoring: Glucose every 6 hours because of steroid-induced hypergly"
+ },
+ "hvmc_formulary::0033": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers the DPP-4 inhibitors HV-RX-1078 Zanagliptin, HV-RX-8274 Xalagliptin, and HV-RX-8943 Opragliptin. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for diabetes management.",
+  "chunk_start": ": No adjustment.\nInteractions: Hypoglycemia when combined with sulfonylureas.\nMo"
+ },
+ "hvmc_formulary::0034": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-1342 Estatidine, HV-RX-1594 Firatidine, HV-RX-1624 Yoratidine, and ends in the middle of HV-RX-2442 Belolax. It provides information on dosing, renal adjustments, and monitoring for medications used in treating dyspepsia and constipation.",
+  "chunk_start": "X-1342 Estatidine (H2 receptor antagonist)\nFormulary status: Tier 2.\nIndications"
+ },
+ "hvmc_formulary::0035": {
+  "note": "In the \"Halverd Valley Medical Center Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-2462 Estalax, HV-RX-2526 Tovalax, and HV-RX-2814 Quinatidine, providing information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for laxatives and an H2 receptor antagonist.",
+  "chunk_start": "; bowel preparation.\nAdult dosing: 17 g by mouth once daily dissolved in water.\n"
+ },
+ "hvmc_formulary::0036": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-3105 Lumidex, HV-RX-3110 Ondelix, and HV-RX-3260 Cirasetron, providing information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes for antiemetic medications.",
+  "chunk_start": ".\nPharmacist notes: Second-line to Pantorex.\n\nHV-RX-3105 Lumidex (5-HT3 receptor"
+ },
+ "hvmc_formulary::0037": {
+  "note": "In the \"Halverd Valley Medical Center Adult Inpatient Formulary, 2026 edition,\" the chunk covers dosing, renal adjustments, interactions, monitoring, and pharmacist notes for the following entries: HV-RX-3331 Belosetron, HV-RX-3344 Korasetron, and HV-RX-3903 Garasetron, along with HV-RX-3777 Firalax.",
+  "chunk_start": "Adult dosing: 8 mg IV every 12 hours as needed; do not exceed 24 mg in 24 hours."
+ },
+ "hvmc_formulary::0038": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-1083 Garalax (osmotic laxative), HV-RX-3903 Garasetron (5-HT3 receptor antagonist antiemetic), HV-RX-4071 Oprasetron (5-HT3 receptor antagonist antiemetic), and HV-RX-5010 Pantorex (intravenous proton pump",
+  "chunk_start": "No adjustment.\nInteractions: None clinically relevant.\nMonitoring: Stool frequen"
+ },
+ "hvmc_formulary::0039": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-5010 Pantorex (intravenous proton pump inhibitor), HV-RX-5030 Senolax (stimulant laxative), HV-RX-5537 Velatidine (H2 receptor antagonist), and HV-RX-6418 Levilax (osmotic laxative), providing information on dosing, renal adjustments,",
+  "chunk_start": ".\nRenal adjustment: No adjustment.\nInteractions: Reduces absorption of Thyrolex."
+ },
+ "hvmc_formulary::0040": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries for osmotic laxatives (HV-RX-1083 Garalax, HV-RX-6701 Quinalax, HV-RX-6947 Pelalax) and H2 receptor antagonist (HV-RX-6638 Garatidine), providing information on indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "(osmotic laxative)\nFormulary status: Tier 2.\nIndications: Constipation; bowel pr"
+ },
+ "hvmc_formulary::0041": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-7496 Galosetron, HV-RX-7616 Hexasetron, HV-RX-7836 Rovasetron, and HV-RX-8119 Miratidine. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for antiemetics and gastrointestinal medications.",
+  "chunk_start": "No adjustment.\nInteractions: None clinically relevant.\nMonitoring: Electrolytes "
+ },
+ "hvmc_formulary::0042": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and includes entries HV-RX-3903 Garasetron, HV-RX-8119 Miratidine, and HV-RX-8280 Xalatidine. It contains information on drug interactions, monitoring requirements, and pharmacist notes for antiemetics and H2 receptor antagonists.",
+  "chunk_start": "Interactions: Serotonin syndrome with serotonergic drugs.\nMonitoring: Bowel func"
+ },
+ "hvmc_formulary::0043": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-1576 Abracaine, HV-RX-1835 Xalacaine, HV-RX-1925 Novacodone, and HV-RX-3112 Ciracaine, providing information on dosing, indications, and monitoring for local anesthetics and an oral opioid.",
+  "chunk_start": "Do not crush extended-release forms.\n\nHV-RX-1576 Abracaine (local anesthetic)\nFo"
+ },
+ "hvmc_formulary::0044": {
+  "note": "In the \"Halverd Valley Medical Center Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-3112 Ciracaine (local anesthetic), HV-RX-3143 Novabenzaprine (skeletal muscle relaxant), HV-RX-3381 Wexacaine (local anesthetic), and HV-RX-3576 Quinacaine (local anesthetic). It contains information on dosing, indications, and monitoring for these medications.",
+  "chunk_start": "notes: Start a bowel regimen.\n\nHV-RX-3112 Ciracaine (local anesthetic)\nFormulary"
+ },
+ "hvmc_formulary::0045": {
+  "note": "In the Halverd Valley Medical Center Adult Inpatient Formulary, the chunk covers entries HV-RX-1835 Xalacaine (local anesthetic), HV-RX-4010 Morphalin (opioid agonist), and HV-RX-4022 Hydrovane (opioid agonist), providing information on dosing, renal adjustments, interactions, and monitoring for pain management medications.",
+  "chunk_start": "nacaine (local anesthetic)\nFormulary status: Tier 2, pharmacist verification req"
+ },
+ "hvmc_formulary::0046": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers dosing, interactions, monitoring, and pharmacist notes for HV-RX-4022 Hydrovane (opioid agonist), HV-RX-4090 Naloxar (opioid antagonist), and HV-RX-4100 Acetavol (intravenous acetaminophen).",
+  "chunk_start": "below 30 mL/min: reduce the dose by 50 percent.\nInteractions: Additive respirato"
+ },
+ "hvmc_formulary::0047": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-4100 Acetavol (intravenous acetaminophen), HV-RX-4115 Ketrolin (intravenous NSAID), HV-RX-4130 Pregavel (gabapentinoid), and HV-RX-4161 Durabenzaprine (skeletal muscle relaxant), providing information on dosing,",
+  "chunk_start": "use, or with hepatic impairment.\nRenal adjustment: No adjustment.\nInteractions: "
+ },
+ "hvmc_formulary::0048": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary and covers entries HV-RX-4161 Durabenzaprine, HV-RX-4205 Sedoflux, HV-RX-4220 Halopran, and HV-RX-4235 Calmazine. It contains information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes for medications used in sedation and muscle relaxation.",
+  "chunk_start": "(CP-11).\n\nHV-RX-4161 Durabenzaprine (skeletal muscle relaxant)\nFormulary status:"
+ },
+ "hvmc_formulary::0049": {
+  "note": "In the \"Halverd Valley Medical Center Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-4235 Calmazine (benzodiazepine), HV-RX-4360 Belobenzaprine (skeletal muscle relaxant), and HV-RX-4819 Elvabenzaprine (skeletal muscle relaxant), providing information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "body dementia.\nMonitoring: Baseline QTc; hold if the QTc is above 500 ms.\nPharma"
+ },
+ "hvmc_formulary::0050": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary and includes entries HV-RX-4993 Garacodone, HV-RX-5021 Dalocodone, HV-RX-6335 Oprabenzaprine, and part of HV-RX-7089 Rovacodone. It contains information on dosing, interactions, monitoring, and pharmacist notes related to pain management and muscle relaxation.",
+  "chunk_start": "Interactions: Anticholinergic effects with antihistamines.\nMonitoring: Urinary r"
+ },
+ "hvmc_formulary::0051": {
+  "note": "In the \"Halverd Valley Medical Center Adult Inpatient Formulary, 2026 edition,\" the chunk covers information on sedation risks and monitoring for the following entries: HV-RX-7089 Rovacodone (oral opioid agonist), HV-RX-7137 Calabenzaprine (skeletal muscle relaxant), and HV-RX-7835 Xalacodone (oral opioid agonist). It includes details on dosing, interactions, and safety precautions.",
+  "chunk_start": "Additive sedation with opioids.\nMonitoring: Sedation and falls.\nPharmacist notes"
+ },
+ "hvmc_formulary::0052": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-7835 Xalacodone, HV-RX-7943 Elvacodone, HV-RX-7997 Ulvabenzaprine, and HV-RX-8379 Quinabenzaprine, providing information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes for pain management and muscle spas",
+  "chunk_start": "Pharmacist notes: Aspirate before injecting.\n\nHV-RX-7835 Xalacodone (oral opioid"
+ },
+ "hvmc_formulary::0053": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-8379 Quinabenzaprine, HV-RX-8413 Hexacaine, HV-RX-8741 Briocodone, and HV-RX-8855 Calacaine. It contains information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes related to pain management and muscle relaxation.",
+  "chunk_start": "acist notes: High fall risk.\n\nHV-RX-8379 Quinabenzaprine (skeletal muscle relaxa"
+ },
+ "hvmc_formulary::0054": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers the entry HV-RX-8855 Calacaine (local anesthetic) and continues into the section on cardiovascular medications, including HV-RX-1001 Fenosartan (angiotensin receptor blocker) and HV-RX-1340 Tovabutrex (positive inotrope). It provides information on dosing, indications, and monitoring for these medications.",
+  "chunk_start": ".\n\nHV-RX-8855 Calacaine (local anesthetic)\nFormulary status: Tier 1, unrestricte"
+ },
+ "hvmc_formulary::0055": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-1907 Fenopril, HV-RX-1968 Hexaolol, HV-RX-2135 Ulvabutrex, and HV-RX-2267 Wexasartan. It contains information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes for managing hypertension and heart conditions.",
+  "chunk_start": "X-1907 Fenopril (ACE inhibitor)\nFormulary status: Tier 1, unrestricted.\nIndicati"
+ },
+ "hvmc_formulary::0056": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers the entries HV-RX-2267 Wexasartan, HV-RX-2601 Ciravastin, HV-RX-2659 Calapril, and HV-RX-2926 Garaolol. It contains information on drug indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "only.\n\nHV-RX-2267 Wexasartan (angiotensin receptor blocker)\nFormulary status: Ti"
+ },
+ "hvmc_formulary::0057": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-2926 Garaolol (cardioselective beta blocker), HV-RX-3130 Mirasartan (angiotensin receptor blocker), and HV-RX-3136 Koraolol (cardioselective beta blocker), providing information on dosing, renal adjustments, interactions, and monitoring for hypertension and heart rate control.",
+  "chunk_start": "surgery.\n\nHV-RX-2926 Garaolol (cardioselective beta blocker)\nFormulary status: T"
+ },
+ "hvmc_formulary::0058": {
+  "note": "In the \"Halverd Valley Medical Center Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-3449 Fenobutrex, HV-RX-3589 Zanaolol, and HV-RX-3617 Hexapril, providing information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes related to heart and blood pressure management.",
+  "chunk_start": "rate and blood pressure before each dose.\nPharmacist notes: Hold if heart rate i"
+ },
+ "hvmc_formulary::0059": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-3848 Quinapril (ACE inhibitor), HV-RX-3685 Firasartan (angiotensin receptor blocker), and HV-RX-3815 Rovabutrex (positive inotrope). It contains information on dosing, interactions, monitoring, and pharmacist notes related to these medications.",
+  "chunk_start": "with a neprilysin inhibitor within 36 hours.\nMonitoring: Potassium and creatinin"
+ },
+ "hvmc_formulary::0060": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-4117 Zanabutrex (positive inotrope), HV-RX-4146 Brioolol (cardioselective beta blocker), and HV-RX-5202 Firapril (ACE inhibitor). It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "daily.\nRenal adjustment: CrCl below 30 mL/min: start at half the usual dose.\nInt"
+ },
+ "hvmc_formulary::0061": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers dosing, renal adjustments, interactions, monitoring, and pharmacist notes for HV-RX-1907 Fenopril (ACE inhibitor), HV-RX-5610 Silavastin (statin), HV-RX-5843 Jovavastin (statin), and HV-RX-6010 Furovex (loop diuretic).",
+  "chunk_start": "10 mg by mouth once daily; may increase to 20 mg once daily.\nRenal adjustment: C"
+ },
+ "hvmc_formulary::0062": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers dosing, renal adjustments, interactions, monitoring, and pharmacist notes for HV-RX-6010 Furovex (loop diuretic), HV-RX-6025 Spirolan (aldosterone antagonist), HV-RX-6040 Amlotra (calcium channel blocker), and HV-RX-6055 Metavol (beta blocker).",
+  "chunk_start": "acute heart failure.\nAdult dosing: 20 to 40 mg IV. Infuse no faster than 4 mg pe"
+ },
+ "hvmc_formulary::0063": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-6055 Metavol (beta blocker), HV-RX-6080 Norvessa (catecholamine vasopressor), and HV-RX-6085 Vasoplex (vasopressin analog). It contains information on indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "unrestricted.\nIndications: Hypertension, rate control in atrial fibrillation, po"
+ },
+ "hvmc_formulary::0064": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-6085 Vasoplex (vasopressin analog), HV-RX-6143 Abrabutrex (positive inotrope), HV-RX-6144 Korabutrex (positive inotrope), and HV-RX-6289 Ilovastin (statin). It contains information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "x (vasopressin analog)\nFormulary status: ICU and emergency department.\nIndicatio"
+ },
+ "hvmc_formulary::0065": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers the entries HV-RX-6289 Ilovastin (statin), HV-RX-6476 Briosartan (angiotensin receptor blocker), and HV-RX-7218 Daloolol (cardioselective beta blocker). It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": ".\nPharmacist notes: ICU only.\n\nHV-RX-6289 Ilovastin (statin)\nFormulary status: T"
+ },
+ "hvmc_formulary::0066": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and includes entries HV-RX-7290 Tovaolol (cardioselective beta blocker), HV-RX-7391 Galovastin (statin), and HV-RX-7443 Quinabutrex (positive inotrope). It provides dosing, monitoring, and pharmacist notes related to these medications.",
+  "chunk_start": "G if heart rate is below 50.\nPharmacist notes: Taper over 1 to 2 weeks when stop"
+ },
+ "hvmc_formulary::0067": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary and includes information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for the following entries: HV-RX-6144 Korabutrex (positive inotrope), HV-RX-7685 Rovavastin (statin), HV-RX-7960 Oprapril (ACE inhibitor), and HV-RX-8111 Briovastin (statin).",
+  "chunk_start": "No adjustment; titrate to effect.\nInteractions: Effect reduced by beta blockers."
+ },
+ "hvmc_formulary::0068": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers interactions, monitoring, and pharmacist notes for the following entries: HV-RX-8180 Jovapril (ACE inhibitor), HV-RX-8298 Zanapril (ACE inhibitor), and HV-RX-8399 Rovasartan (angiotensin receptor blocker). It provides important information on drug interactions and monitoring requirements.",
+  "chunk_start": "Interactions: Myopathy risk rises with strong CYP3A4 inhibitors.\nMonitoring: Cre"
+ },
+ "hvmc_formulary::0069": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers the entries HV-RX-8758 Silaolol (cardioselective beta blocker) and HV-RX-8510 Estasartan (angiotensin receptor blocker). It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes related to hypertension and heart conditions.",
+  "chunk_start": "; maximum 160 mg daily.\nRenal adjustment: Volume-depleted patients: start at the"
+ },
+ "hvmc_formulary::0070": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers the entries HV-RX-1907 Fenopril (ACE inhibitor) and HV-RX-8874 Levivastin (statin). It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "mg daily.\nRenal adjustment: Volume-depleted patients: start at the lowest dose.\n"
+ },
+ "hvmc_formulary::0072": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers dosing, renal adjustments, interactions, monitoring, and pharmacist notes for HV-RX-7010 Magnora (magnesium sulfate), HV-RX-7020 Kaliveen (intravenous potassium chloride), and HV-RX-7035 Fosferra (intravenous iron).",
+  "chunk_start": "maximum 10 mEq per hour. Central line: maximum 20 mEq per hour with continuous c"
+ },
+ "hvmc_formulary::0073": {
+  "note": "This excerpt from the Halverd Valley Medical Center Adult Inpatient Formulary includes entries HV-RX-7080 Allopra (xanthine oxidase inhibitor), HV-RX-7720 Miradronate (bisphosphonate), HV-RX-8099 Koradronate (bisphosphonate), and HV-RX-8296 Xaladronate (bisphosphonate), detailing their indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "fusion for hypersensitivity reactions.\nPharmacist notes: Not given during an act"
+ },
+ "hvmc_formulary::0074": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-8296 Xaladronate and HV-RX-8312 Zanadronate, detailing their indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes related to bisphosphonates for osteoporosis and hypercalcemia.",
+  "chunk_start": "icated.\nInteractions: Hypocalcemia with loop diuretics.\nMonitoring: Calcium 1 we"
+ },
+ "hvmc_formulary::0075": {
+  "note": "In the Halverd Valley Medical Center Adult Inpatient Formulary, the chunk covers entries HV-RX-1926 Firatiracetam, HV-RX-2136 Hexatiracetam, HV-RX-2676 Rovaoxetine, and HV-RX-2701 Zanaapine, providing information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for antiepileptic and psychiatric medications.",
+  "chunk_start": ": 500 mg IV or by mouth twice daily; loading dose 40 mg/kg IV for status epilept"
+ },
+ "hvmc_formulary::0076": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-2701 Zanaapine, HV-RX-2763 Pelaapine, HV-RX-2841 Zanatiracetam, and HV-RX-3091 Fenooxetine, providing information on indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes for psychiatric and neurological medications.",
+  "chunk_start": "adults.\n\nHV-RX-2701 Zanaapine (atypical antipsychotic)\nFormulary status: Non-for"
+ },
+ "hvmc_formulary::0077": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-2841 Zanatiracetam, HV-RX-3091 Fenooxetine, HV-RX-4387 Abraoxetine, and HV-RX-4410 Garaapine. It contains information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes for these medications.",
+  "chunk_start": ".\nMonitoring: Mood changes and irritability.\nPharmacist notes: Do not stop abrup"
+ },
+ "hvmc_formulary::0078": {
+  "note": "This chunk is from the Halverd Valley Medical Center Adult Inpatient Formulary, covering entries HV-RX-4635 Ulvatiracetam, HV-RX-4846 Briotiracetam, and HV-RX-5135 Miraoxetine. It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes for these medications.",
+  "chunk_start": "daily.\nRenal adjustment: No adjustment.\nInteractions: QT prolongation with other"
+ },
+ "hvmc_formulary::0079": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-2676 Rovaoxetine, HV-RX-2701 Zanaapine, HV-RX-2763 Pelaapine, and HV-RX-5467 Beloapine, providing information on indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes for psychiatric medications.",
+  "chunk_start": "Indications: Depression; anxiety disorders.\nAdult dosing: 20 mg by mouth once da"
+ },
+ "hvmc_formulary::0080": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-2701 Zanaapine, HV-RX-5984 Duratiracetam, HV-RX-6213 Yoraapine, and HV-RX-6327 Belotiracetam, providing information on indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes for antipsychotics and antiepilept",
+  "chunk_start": "ical antipsychotic)\nFormulary status: Tier 2.\nIndications: Schizophrenia; bipola"
+ },
+ "hvmc_formulary::0081": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-8966 Abratiracetam (antiepileptic), HV-RX-6662 Opraapine (atypical antipsychotic), and HV-RX-7126 Elvaoxetine (selective serotonin reuptake inhibitor). It holds information on dosing, indications, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "otiracetam (antiepileptic)\nFormulary status: Non-formulary; available by request"
+ },
+ "hvmc_formulary::0082": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers the entries HV-RX-7719 Galooxetine, HV-RX-8839 Ciraoxetine, and HV-RX-8966 Abratiracetam. It contains pharmacist notes regarding dosing, interactions, and monitoring for these medications.",
+  "chunk_start": "Pharmacist notes: Taper to avoid discontinuation symptoms.\n\nHV-RX-7719 Galooxeti"
+ },
+ "hvmc_formulary::0083": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers the entries HV-RX-2841 Zanatiracetam (antiepileptic) and HV-RX-8998 Zanaoxetine (selective serotonin reuptake inhibitor). It contains information on dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "ilepticus.\nRenal adjustment: CrCl 30 to 50 mL/min: maximum 750 mg twice daily.\nI"
+ },
+ "hvmc_formulary::0084": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and includes entries HV-RX-1015 Pelaterol, HV-RX-1760 Quinasonide, HV-RX-1844 Estaterol, HV-RX-1892 Calatadine, and HV-RX-2304 Ulvasonide. It provides dosing, renal adjustments, interactions, monitoring, and pharmacist notes for inhaled medications",
+  "chunk_start": "ing: 1 puffs inhaled every 4 hours as needed.\nRenal adjustment: No adjustment.\nI"
+ },
+ "hvmc_formulary::0085": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and includes entries HV-RX-2304 Ulvasonide (inhaled corticosteroid), HV-RX-2590 Jovasonide (inhaled corticosteroid), HV-RX-3837 Fenotadine (second-generation antihistamine), and HV-RX-3989 Opratadine (second-generation antihistamine). It provides information",
+  "chunk_start": "ist notes: Preferred over sedating antihistamines in older adults.\n\nHV-RX-2304 U"
+ },
+ "hvmc_formulary::0086": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-1892 Opratadine, HV-RX-4164 Wexaterol, HV-RX-4202 Xalasonide, and HV-RX-5321 Levitadine. It contains information on drug indications, dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "Opratadine (second-generation antihistamine)\nFormulary status: Tier 2, pharmacis"
+ },
+ "hvmc_formulary::0087": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-1892 Calatadine (second-generation antihistamine), HV-RX-5560 Xalaterol (inhaled beta-2 agonist bronchodilator), HV-RX-6139 Estatadine (second-generation antihistamine), and HV-RX-6534 Yoraterol (inhaled beta-2 agon",
+  "chunk_start": "ist verification required.\nIndications: Allergic rhinitis; urticaria.\nAdult dosi"
+ },
+ "hvmc_formulary::0088": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition\" and covers entries HV-RX-1015 Pelaterol, HV-RX-1018 Quinaterol, HV-RX-1760 Quinasonide, HV-RX-1892 Calatadine, HV-RX-2304 Ulvasonide, HV-RX-2590 Jovasonide, HV-RX-3837 Fenotadine",
+  "chunk_start": "hours as needed.\nRenal adjustment: No adjustment.\nInteractions: Effect blocked b"
+ },
+ "hvmc_formulary::0089": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers entries HV-RX-6888 Oprasonide (inhaled corticosteroid), HV-RX-7120 Wexatadine (second-generation antihistamine), HV-RX-7226 Mirasonide (inhaled corticosteroid), and HV-RX-7375 Silasonide (inhaled corticosteroid), providing dosing, indications,",
+  "chunk_start": "notes: Rinse mouth after each use to prevent thrush.\n\nHV-RX-6888 Oprasonide (inh"
+ },
+ "hvmc_formulary::0090": {
+  "note": "In the \"Halverd Valley Medical Center (HVMC) Adult Inpatient Formulary, 2026 edition,\" the chunk covers inhaled medications for asthma and COPD, specifically HV-RX-1760 Quinasonide, HV-RX-7506 Garaterol, and HV-RX-8075 Beloterol, detailing their dosing, renal adjustments, interactions, monitoring, and pharmacist notes.",
+  "chunk_start": "therapy for asthma and COPD.\nAdult dosing: 100 mcg inhaled twice daily; maximum "
+ },
+ "hvmc_iv_compatibility::0000": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" contains compatibility information for IV drugs. The chunk covers entries including \"HV-RX-1234 Zephacillin,\" detailing compatibility with various drugs like Cefalyn, Meronex, and others, focusing on their safe co-administration in IV lines.",
+  "chunk_start": "Halverd Valley Medical Center (HVMC)\nY-Site IV Compatibility Chart, 2026\nSYNTHET"
+ },
+ "hvmc_iv_compatibility::0001": {
+  "note": "The \"Y-Site IV Compatibility Chart, 2026\" from Halverd Valley Medical Center includes compatibility information for various drugs. The chunk specifically covers Zephacillin (HV-RX-1001) interactions with Hydrovane (HV-RX-1002), Acetavol (HV-RX-1003), Ketrolin (HV-RX-1004), and others, detailing their compatibility and necessary precautions.",
+  "chunk_start": ".\nZephacillin with Hydrovane: Incompatible: loss of potency of the first drug. U"
+ },
+ "hvmc_iv_compatibility::0002": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs. The chunk covers the compatibility of Cefalyn (HV-RX-5678) with other drugs, detailing specific actions like flushing the line with saline between doses.",
+  "chunk_start": "ferra: Compatible; flush the line with 10 mL saline between doses when running i"
+ },
+ "hvmc_iv_compatibility::0003": {
+  "note": "The \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs, specifically detailing Cefalyn (HV-RX-5678) interactions with Halopran, Calmazine, Furovex, Norvessa, Vasoplex, Kaliveen, Magnora, Prednavex, Heparivex, Dextriva, and Fosferra. This section provides crucial guidance for safe IV drug administration",
+  "chunk_start": "doflux: Compatible at the HVMC standard concentrations in the drug library.\nCefa"
+ },
+ "hvmc_iv_compatibility::0004": {
+  "note": "The \"Y-Site IV Compatibility Chart, 2026\" document includes the chunk detailing compatibility information for Meronex (HV-RX-5678) with various drugs, such as Tarnaflox (HV-RX-2345) and Nephrazole (HV-RX-3456), focusing on how they can safely be administered together through IV lines.",
+  "chunk_start": "Meronex with Tarnaflox: Compatible at standard concentrations for at least 4 hou"
+ },
+ "hvmc_iv_compatibility::0005": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs. The chunk covers Meronex (HV-RX-1234), Vancorin (HV-RX-5678), and others, detailing their compatibility when mixed in IV lines, including flushing protocols and incompatibilities.",
+  "chunk_start": "when running intermittently.\nMeronex with Kaliveen: Compatible; flush the line w"
+ },
+ "hvmc_iv_compatibility::0006": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes the chunk covering Vancorin (HV-RX-5678) compatibility with various drugs, detailing their interactions, compatibility durations, and necessary precautions for safe intravenous administration.",
+  "chunk_start": "least 4 hours.\nVancorin with Acetavol: Compatible at the HVMC standard concentra"
+ },
+ "hvmc_iv_compatibility::0007": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes the chunk covering Azithrel Y-site compatibility (HV-RX-1234 Azithrel) and its interactions with various drugs, detailing compatibility, incompatibility, and specific handling instructions for intravenous administration.",
+  "chunk_start": ": Azithrel Y-site compatibility\n\nAzithrel with Tarnaflox: Compatible at the HVMC"
+ },
+ "hvmc_iv_compatibility::0008": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs. The chunk covers Azithrel (AZ-1234), Tarnaflox (TF-5678), and their interactions, detailing compatibility, incompatibility, and specific handling instructions for intravenous administration.",
+  "chunk_start": "lex: Compatible at standard concentrations for at least 4 hours.\nAzithrel with K"
+ },
+ "hvmc_iv_compatibility::0009": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes the chunk covering compatibility information for \"Tarnaflox\" (HV-RX-1234) with various drugs, detailing their interactions, including compatibility and incompatibility notes for safe IV administration.",
+  "chunk_start": "t; compatible in saline but not in dextrose.\nTarnaflox with Sedoflux: Incompatib"
+ },
+ "hvmc_iv_compatibility::0010": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes the chunk detailing Y-site compatibility for \"Nephrazole\" (HV-RX-1234) with various drugs, such as \"Lumidex\" (HV-RX-5678) and \"Ondelix\" (HV-RX-9101), providing critical information on drug interactions and compatibility in IV lines.",
+  "chunk_start": "Y-site compatibility\n\nNephrazole with Lumidex: Variable: compatible only below t"
+ },
+ "hvmc_iv_compatibility::0011": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes the chunk covering compatibility information for Nephrazole (HV-RX-1234), Lumidex (HV-RX-5678), and related drugs. It provides details on how these medications can be safely administered together through IV lines.",
+  "chunk_start": "trose.\nNephrazole with Magnora: Compatible at the HVMC standard concentrations i"
+ },
+ "hvmc_iv_compatibility::0012": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes the chunk covering compatibility information for Lumidex (HV-RX-1234) with various drugs, detailing their compatibility status and necessary actions for safe administration.",
+  "chunk_start": "at standard concentrations for at least 4 hours.\nLumidex with Furovex: Compatibl"
+ },
+ "hvmc_iv_compatibility::0013": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs. The chunk covers Ondelix (HV-RX-1234) and Pantorex (HV-RX-5678), detailing their compatibility with other medications and necessary precautions for IV administration.",
+  "chunk_start": "run through the same Y-site.\nOndelix with Sedoflux: Compatible at the HVMC stand"
+ },
+ "hvmc_iv_compatibility::0014": {
+  "note": "The \"Y-Site IV Compatibility Chart, 2026\" from Halverd Valley Medical Center includes compatibility information for various drugs. The chunk covers Pantorex (HV-RX-1234) and Morphalin (HV-RX-5678), detailing their compatibility with other medications and the need for saline flushing between doses.",
+  "chunk_start": "with Hydrovane: Compatible; flush the line with 10 mL saline between doses when "
+ },
+ "hvmc_iv_compatibility::0015": {
+  "note": "The document \"Halverd Valley Medical Center Y-Site IV Compatibility Chart, 2026\" includes the section on Morphalin (HV-RX-1234) and its compatibility with various drugs, detailing how they can be safely administered together in IV lines. This section provides critical information on drug interactions and compatibility for safe medication administration.",
+  "chunk_start": "the drug library.\n\nSection: Morphalin Y-site compatibility\n\nMorphalin with Hydro"
+ },
+ "hvmc_iv_compatibility::0016": {
+  "note": "The \"Y-Site IV Compatibility Chart, 2026\" document includes the chunk covering compatibility information for \"Fosferra\" (HV-RX-5678) and \"Hydrovane\" (HV-RX-1234), detailing their interactions and compatibility in IV lines, including specific flushing requirements.",
+  "chunk_start": "Fosferra: Variable: compatible only below the standard concentration; check with"
+ },
+ "hvmc_iv_compatibility::0017": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs. The chunk covers \"Hydrovane\" and \"Fosferra,\" detailing their compatibility and necessary actions when administered together, along with \"Acetavol\" compatibility entries.",
+  "chunk_start": "doses when running intermittently.\nHydrovane with Fosferra: Compatible; flush th"
+ },
+ "hvmc_iv_compatibility::0018": {
+  "note": "The \"Halverd Valley Medical Center Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs. The chunk covers \"Acetavol,\" \"Ketrolin,\" and \"Fosferra,\" detailing their compatibility based on diluents and flushing requirements for IV administration.",
+  "chunk_start": "depends on the diluent; compatible in saline but not in dextrose.\nAcetavol with "
+ },
+ "hvmc_iv_compatibility::0019": {
+  "note": "The \"Y-Site IV Compatibility Chart, 2026\" from Halverd Valley Medical Center includes compatibility information for Sedoflux (HV-RX-1234) with various drugs, detailing which combinations are safe, which are not, and specific actions to take for each pairing.",
+  "chunk_start": "with Halopran: Compatible at the HVMC standard concentrations in the drug librar"
+ },
+ "hvmc_iv_compatibility::0020": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes the chunk covering Y-site compatibility for Halopran (HV-RX-XXXX) and Calmazine (HV-RX-XXXX), detailing their interactions with various drugs, including compatibility and incompatibility information for safe IV administration.",
+  "chunk_start": "with Norvessa: Compatible at the HVMC standard concentrations in the drug librar"
+ },
+ "hvmc_iv_compatibility::0021": {
+  "note": "The \"Halverd Valley Medical Center Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs. The chunk covers entries for Calmazine, Furovex, and Norvessa, detailing their compatibility status with other medications, including potential issues like loss of potency and visible haze.",
+  "chunk_start": "x: Incompatible: visible haze within 1 hour. Never run through the same Y-site.\n"
+ },
+ "hvmc_iv_compatibility::0022": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Y-Site IV Compatibility Chart, 2026\" includes compatibility information for various drugs. The chunk covers compatibility details for Norvessa (HV-RX-1234), Vasoplex (HV-RX-5678), and Kaliveen (HV-RX-9101), focusing on their interactions and necessary precautions.",
+  "chunk_start": "concentrations for at least 4 hours.\nNorvessa with Magnora: Incompatible: loss o"
+ },
+ "hvmc_iv_compatibility::0023": {
+  "note": "The \"Y-Site IV Compatibility Chart, 2026\" document includes compatibility information for various drugs. The chunk covers compatibility details for Kaliveen (HV-RX-5678), Magnora (HV-RX-6789), Prednavex (HV-RX-7890), Heparivex (HV-RX-8901), Dextriva (HV-RX-9012), and Fosferra (HV-RX-0123).",
+  "chunk_start": "Variable: depends on the diluent; compatible in saline but not in dextrose.\nKali"
+ },
+ "hvmc_lab_catalog::0000": {
+  "note": "The document \"Halverd Valley Medical Center (HVMC) Laboratory Test Catalog and Reference Ranges, 2026\" includes entries LC-0410 Sodium, serum, LC-0412 Potassium, serum, and LC-0414 Potassium, whole blood (blood gas analyzer). It provides critical values, reference ranges, specimen requirements, and turnaround times for laboratory tests.",
+  "chunk_start": "Halverd Valley Medical Center (HVMC)\nLaboratory Test Catalog and Reference Range"
+ },
+ "hvmc_lab_catalog::0001": {
+  "note": "In the \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026,\" the chunk covers entries LC-0412 Potassium, serum, LC-0414 Potassium, whole blood, and LC-0416 Sodium, whole blood, providing critical values, reference ranges, turnaround times, and notes on specimen handling and test interactions.",
+  "chunk_start": "45 minutes; routine 4 hours.\nNotes: Hemolysis falsely raises potassium. A hemoly"
+ },
+ "hvmc_lab_catalog::0002": {
+  "note": "In the \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026,\" the chunk covers critical values, turnaround times, and notes for tests including LC-0430 Bicarbonate, LC-0432 Anion gap, LC-0440 Blood urea nitrogen (BUN), LC-0445 Creatinine, and LC-0447 Cystatin C. It provides essential information for interpreting lab results related to metabolic and kidney function.",
+  "chunk_start": "Critical values: below 10 or above 40 mmol/L.\nTurnaround time: STAT 45 minutes; "
+ },
+ "hvmc_lab_catalog::0003": {
+  "note": "In the \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026,\" the chunk covers entries LC-0447 Cystatin C, LC-0450 Glucose, plasma, LC-0452 Beta-hydroxybutyrate (ketones), LC-0455 Osmolality, serum, LC-0460 Calcium, total, and LC-0462 Calcium, ionized, providing reference ranges, critical values, turnaround times, and notes for various laboratory",
+  "chunk_start": ": none defined.\nTurnaround time: routine 24 hours.\nNotes: Used with creatinine w"
+ },
+ "hvmc_lab_catalog::0004": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes entries LC-0460 Calcium, total; LC-0462 Calcium, ionized; LC-0465 Magnesium, serum; LC-0470 Phosphate, serum; LC-0475 Uric acid; and LC-0510 Alanine aminotransferase (ALT), providing reference ranges, critical values, and turnaround times for these laboratory tests.",
+  "chunk_start": "or above 13.0 mg/dL.\nTurnaround time: routine 4 hours.\nNotes: Interpret with alb"
+ },
+ "hvmc_lab_catalog::0005": {
+  "note": "The document \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes the chunk covering liver function tests: LC-0510 Alanine aminotransferase (ALT), LC-0512 Aspartate aminotransferase (AST), LC-0515 Alkaline phosphatase, LC-0517 Gamma-glutamyl transferase (GGT), and LC-0520 Bilirubin, total. It provides reference ranges, critical values,",
+  "chunk_start": "titration.\n\nLC-0510 Alanine aminotransferase (ALT)\nSpecimen: lithium heparin (mi"
+ },
+ "hvmc_lab_catalog::0006": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes entries LC-0520 Total Bilirubin, LC-0522 Direct Bilirubin, LC-0530 Albumin, LC-0540 Lipase, LC-0545 Amylase, and LC-0550 Creatine Kinase (CK), providing reference ranges, critical values, turnaround times, and notes for these laboratory tests.",
+  "chunk_start": ": none defined.\nTurnaround time: routine 6 hours.\nNotes: Light exposure falsely "
+ },
+ "hvmc_lab_catalog::0007": {
+  "note": "In the \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026,\" the chunk covers LC-0550 Creatine kinase (CK), LC-0560 Triglycerides, and LC-0565 Lipid panel, providing reference ranges, critical values, turnaround times, and notes related to these blood tests.",
+  "chunk_start": "39 to 308 U/L.\nCritical values: above 5,000 U/L.\nTurnaround time: routine 4 hour"
+ },
+ "hvmc_lab_catalog::0008": {
+  "note": "In the \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026,\" the chunk covers entries LC-0610 Hemoglobin, LC-0612 White blood cell count (WBC), LC-0613 Absolute neutrophil count, LC-0615 Platelet count, and LC-0616 Reticulocyte count, providing turnaround times and critical values for blood tests.",
+  "chunk_start": "time: STAT 30 minutes; routine 2 hours.\nNotes: Reported with the complete blood "
+ },
+ "hvmc_lab_catalog::0009": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes the chunk covering LC-0616 Reticulocyte count, LC-0618 Peripheral blood smear, LC-0620 Prothrombin time with INR, LC-0622 Thrombin time, and LC-0625 Activated partial thromboplastin time (aPTT). It holds information on blood tests related to red blood cell production and coagulation.",
+  "chunk_start": ".\nNotes: Distinguishes reduced red cell production from blood loss or destructio"
+ },
+ "hvmc_lab_catalog::0010": {
+  "note": "The document \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes the chunk covering entries LC-0627 Heparin-induced thrombocytopenia (HIT) antibody, LC-0630 Fibrinogen, LC-0632 Factor Xa inhibitor level, LC-0640 D-dimer, LC-0650 Type and screen, and LC-0652 Crossmatch, providing details on specimen requirements, reference ranges, critical values, and turnaround times",
+  "chunk_start": "in-induced thrombocytopenia (HIT) antibody\nSpecimen: serum separator (gold top) "
+ },
+ "hvmc_lab_catalog::0011": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes entries LC-0650 Type and screen, LC-0652 Crossmatch, and LC-0655 Direct antiglobulin test (DAT), providing critical information on blood transfusion requirements and testing procedures.",
+  "chunk_start": "mL, hand-labeled at the bedside.\nReference range: not applicable.\nCritical value"
+ },
+ "hvmc_lab_catalog::0012": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes entries LC-0720 Procalcitonin, LC-0730 Blood culture set, LC-0732 Urine culture, LC-0734 Sputum culture, and LC-0736 MRSA nasal screen (PCR). This chunk provides critical information on specimen requirements, reference ranges, and turnaround times for infection-related tests.",
+  "chunk_start": "/L or above.\nTurnaround time: STAT 15 minutes.\nNotes: Run on the blood gas analy"
+ },
+ "hvmc_lab_catalog::0013": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes entries LC-0734 Sputum culture, LC-0736 MRSA nasal screen (PCR), LC-0738 Clostridioides difficile toxin PCR, LC-0740 C-reactive protein (CRP), LC-0742 Erythrocyte sedimentation rate (ESR), and LC-0744 Respiratory viral panel (PCR), providing details on specimen collection,",
+  "chunk_start": ".\nNotes: Rejected if more than 10 squamous cells per field.\n\nLC-0736 MRSA nasal "
+ },
+ "hvmc_lab_catalog::0014": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes the section on cardiac tests, specifically LC-0815 High-sensitivity troponin, LC-0818 Troponin point-of-care, LC-0851 B-type natriuretic peptide (BNP), and LC-0853 NT-proBNP, detailing specimen requirements, reference ranges, critical values, and turnaround times.",
+  "chunk_start": "SARS-CoV-2.\n\nSection: Cardiac and endocrine\n\nLC-0815 High-sensitivity troponin ("
+ },
+ "hvmc_lab_catalog::0015": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes entries LC-0851 BNP, LC-0853 NT-proBNP, LC-0860 Hemoglobin A1c, LC-0870 TSH, LC-0872 Free T4, and LC-0875 Cortisol. This chunk provides reference ranges, critical values, turnaround times, and notes for these tests related to heart and hormone health.",
+  "chunk_start": "heparin (mint green top) tube, minimum 3 mL.\nReference range: below 125 pg/mL un"
+ },
+ "hvmc_lab_catalog::0016": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes the section on drug levels and special handling, covering entries LC-0910 Vancorin levels for AUC dosing, LC-0912 Aminoglycoside level, LC-0915 Valproic acid level, and LC-0918 Digoxin-class glycoside level, detailing specimen requirements, reference ranges, and turnaround times.",
+  "chunk_start": "Prednavex when adrenal insufficiency is suspected.\n\nSection: Drug levels and spe"
+ },
+ "hvmc_lab_catalog::0017": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes entries LC-0920 Anti-Xa level (Heparivex), LC-0922 Anti-Xa level (unfractionated heparin), LC-0930 Ammonia, plasma, and LC-0935 Carboxyhemoglobin. This chunk provides critical information on specimen requirements, reference ranges, and turnaround times for these tests.",
+  "chunk_start": "least 6 hours after the last dose.\n\nLC-0920 Anti-Xa level (Heparivex)\nSpecimen: "
+ },
+ "hvmc_lab_catalog::0018": {
+  "note": "The \"Halverd Valley Medical Center Laboratory Test Catalog and Reference Ranges, 2026\" includes the entries LC-0940 Arterial blood gas and LC-0945 Venous blood gas, providing critical information on blood gas analysis, including reference ranges, critical values, and specimen handling instructions.",
+  "chunk_start": "poisoning.\n\nLC-0940 Arterial blood gas\nSpecimen: pre-heparinized arterial syring"
+ },
+ "hvmc_patient_leaflets::0000": {
+  "note": "The chunk is from the \"Halverd Valley Medical Center (HVMC) Patient and Family Information Leaflets\" document, covering entries HV-LOW-001 Low blood sugar in hospital, HV-FALL-002 Preventing falls during your stay, and HV-PAIN-003 Your pain control pump (PCA). It provides guidance on managing low blood sugar, fall prevention, and using a PCA pump for pain control.",
+  "chunk_start": "Halverd Valley Medical Center (HVMC)\nPatient and Family Information Leaflets\nSYN"
+ },
+ "hvmc_patient_leaflets::0001": {
+  "note": "The chunk is from the \"HVMC Patient and Family Information Leaflets,\" specifically from the leaflet \"Your pain control pump (PCA)\" and continues into \"Blood clots and how we prevent them.\" It provides information on using a pain medicine pump safely and recognizing potential complications.",
+  "chunk_start": "pain medicine by pressing a button. The pump is set so you cannot give yourself "
+ },
+ "hvmc_patient_leaflets::0002": {
+  "note": "This chunk is from the Halverd Valley Medical Center (HVMC) document, specifically covering the leaflet \"Having a blood transfusion\" (HV-TR-5678) and continuing into \"Your drip (IV) and the pump\" (HV-IV-9101) and \"Going home with new medicines\" (HV-MED-1121). It provides essential information about blood transfusions, including procedures, potential reactions, and related IV care.",
+  "chunk_start": "transfusion\nA blood transfusion replaces blood you have lost or cannot make. Bef"
+ },
+ "hvmc_policies::0000": {
+  "note": "This chunk is from the \"Halverd Valley Medical Center (HVMC) Selected Hospital-Wide Clinical Policies\" document, covering policies HP-04 Patient identification, HP-07 Verbal and telephone orders, and HP-11 High-alert medications. It contains guidelines for patient identification, handling verbal orders, and managing high-risk medications to ensure safety in patient care.",
+  "chunk_start": "Halverd Valley Medical Center (HVMC)\nSelected Hospital-Wide Clinical Policies\nSY"
+ },
+ "hvmc_policies::0001": {
+  "note": "The chunk is from the Halverd Valley Medical Center (HVMC) document, covering Policy HP-11 High-alert medications, Policy HP-15 Hand hygiene, Policy HP-19 Sharps safety, and Policy HP-23 Handover between shifts. It contains safety procedures and protocols related to medication handling, hand hygiene, sharps disposal, and nurse handover practices.",
+  "chunk_start": "vasopressors, neuromuscular blockers and chemotherapy. These drugs are stored se"
+ },
+ "hvmc_policies::0002": {
+  "note": "This chunk is from the Halverd Valley Medical Center (HVMC) document, specifically from Policy HP-23 Handover between shifts and Policy HP-27 Do-not-resuscitate orders. It contains information on the handover process for patient care, including identity verification and involvement of patients and families.",
+  "chunk_start": "together the patient's identity, infusions and pump settings, drains, and any hi"
+ },
+ "kestrel_iv220_manual::0000": {
+  "note": "The chunk is from the \"Kestrel IV-220 Volumetric Infusion Pump Operator and Troubleshooting Manual, HVMC edition, revision 7.\" It covers specifications (2), drug library and dose error reduction (3), and begins the discussion on the drug library, which helps ensure safe medication delivery.",
+  "chunk_start": "Kestrel IV-220 Volumetric Infusion Pump\nOperator and Troubleshooting Manual, HVM"
+ },
+ "kestrel_iv220_manual::0002": {
+  "note": "The Kestrel IV-220 Volumetric Infusion Pump Operator and Troubleshooting Manual includes information on alarm priorities (section 5), cleaning procedures (section 6), battery care (section 7), and fault codes (section 8), detailing actions for various alarms and maintenance protocols.",
+  "chunk_start": ", air in line and door open. Medium-priority alarms show a yellow light and a tw"
+ },
+ "kestrel_iv220_manual::0003": {
+  "note": "In the \"Kestrel IV-220 Volumetric Infusion Pump Operator and Troubleshooting Manual,\" the chunk covers fault codes E-01 to E-08, detailing battery status, door issues, set recognition, and drug library limits, providing essential actions for troubleshooting and maintaining proper infusion operations.",
+  "chunk_start": ".\n\nE-01 Low battery\nType: clinical, medium priority.\nMeaning: Less than 30 minut"
+ },
+ "kestrel_iv220_manual::0004": {
+  "note": "In the \"Kestrel IV-220 Volumetric Infusion Pump Operator and Troubleshooting Manual,\" the chunk covers fault codes E-07 to E-14, detailing actions for drug library limits, rate confirmation, secondary infusion completion, flow sensor issues, free-flow risks, downstream occlusions, pressure rising, and back-pressure after bolus. It provides essential troubleshooting actions for safe pump operation.",
+  "chunk_start": ".\nAction: Check the order and the units entered. A hard limit cannot be overridd"
+ },
+ "kestrel_iv220_manual::0005": {
+  "note": "In the \"Kestrel IV-220 Volumetric Infusion Pump Operator and Troubleshooting Manual,\" the chunk covers fault codes E-14 to E-21, detailing alarm actions related to back-pressure, bolus limits, programming timeouts, air in the line, empty containers, incorrect blood sets, temperature warnings, and upstream occlusions.",
+  "chunk_start": "and IV site before a full occlusion alarm occurs.\n\nE-14 Back-pressure after bolu"
+ },
+ "kestrel_iv220_manual::0006": {
+  "note": "The Kestrel IV-220 Volumetric Infusion Pump Operator and Troubleshooting Manual includes fault codes E-20 to E-35, detailing actions for issues like temperature warnings, occlusions, and technical failures, providing essential troubleshooting guidance for safe pump operation.",
+  "chunk_start": "degrees Celsius.\nAction: Move the pump away from heaters or direct sunlight.\n\nE-"
+ },
+ "kestrel_iv220_manual::0007": {
+  "note": "The Kestrel IV-220 Volumetric Infusion Pump Operator and Troubleshooting Manual includes fault codes E-34 (Memory error), E-35 (Keypad stuck), E-36 (Watchdog reset), and E-71 (Air sensor self-test failure), detailing actions for technical issues that may arise during operation.",
+  "chunk_start": "log is corrupted.\nAction: Technical fault. Remove the pump from service.\n\nE-35 K"
+ },
+ "kestrel_pca90_manual::0000": {
+  "note": "The chunk is from the \"Kestrel PCA-90 Patient-Controlled Analgesia Pump Operator and Troubleshooting Manual, HVMC edition, revision 5,\" covering entries E-01 (Cassette not locked) through E-05 (Cassette low). It contains information on the pump's operation, programming parameters, and monitoring requirements.",
+  "chunk_start": "Kestrel PCA-90 Patient-Controlled Analgesia Pump\nOperator and Troubleshooting Ma"
+ },
+ "kestrel_pca90_manual::0001": {
+  "note": "The Kestrel PCA-90 Patient-Controlled Analgesia Pump Operator and Troubleshooting Manual includes monitoring guidelines and fault codes, specifically covering E-12 Patient line occlusion, E-17 Excess demand presses, and others, detailing actions for various technical and clinical issues.",
+  "chunk_start": "the first 12 hours, then every 2 hours. Continuous pulse oximetry is required. I"
+ },
+ "kestrel_pca90_manual::0002": {
+  "note": "The \"Kestrel PCA-90 Patient-Controlled Analgesia Pump Operator and Troubleshooting Manual\" includes fault codes E-17 (Excess demand presses), E-19 (Programming not verified), E-24 (Security key left in door), E-52 (Pump door forced), E-61 (Handset button stuck), E-62 (Delivery mechanism fault), and E-71 (Event log full), detailing actions for troubleshooting and safety procedures.",
+  "chunk_start": "demand presses\nType: clinical, low priority.\nMeaning: More than 10 button presse"
+ },
+ "kestrel_sp40_manual::0000": {
+  "note": "The chunk is from the \"Kestrel SP-40 Syringe Infusion Pump Operator and Troubleshooting Manual, HVMC edition, revision 3.\" It covers the overview, specifications, and loading instructions for the pump, providing essential information for safe and effective use in critical care settings.",
+  "chunk_start": "Kestrel SP-40 Syringe Infusion Pump\nOperator and Troubleshooting Manual, HVMC ed"
+ },
+ "kestrel_sp40_manual::0001": {
+  "note": "The chunk is from the \"Kestrel SP-40 Syringe Infusion Pump Operator and Troubleshooting Manual\" and covers sections on syringe loading, changing syringes for vasoactive drugs, and fault codes (E-01 to E-06). It provides critical information on operational procedures and actions for troubleshooting.",
+  "chunk_start": "the line using the PURGE key, never by pushing the syringe by hand. Mount the pu"
+ },
+ "kestrel_sp40_manual::0002": {
+  "note": "In the \"Kestrel SP-40 Syringe Infusion Pump Operator and Troubleshooting Manual,\" the chunk covers fault codes E-05 Near end of infusion, E-06 Syringe empty, E-09 Bolus interrupted, E-12 Syringe line occlusion, E-14 Siphoning risk, E-17 Plunger clamp opened during infusion, E-21 Rate above drug library limit, and E-23 Standby time expired, detailing alarm actions and meanings for clinical situations",
+  "chunk_start": "medium priority.\nMeaning: About 15 minutes of drug remain in the syringe.\nAction"
+ },
+ "kestrel_sp40_manual::0003": {
+  "note": "In the \"Kestrel SP-40 Syringe Infusion Pump Operator and Troubleshooting Manual,\" the chunk covers fault codes E-21 (Rate above drug library limit), E-23 (Standby time expired), E-40 (Drive mechanism fault), E-41 (Force sensor calibration error), E-42 (Barrel clamp sensor fault), E-44 (Battery fault), and E-71 (Syringe size sensor drift), detailing actions for technical issues and out-of-service procedures",
+  "chunk_start": "correct the rate or override with a documented reason.\n\nE-23 Standby time expire"
+ },
+ "talon_vm8_monitor_manual::0000": {
+  "note": "The chunk is from the \"Talon VM-8 Bedside Patient Monitor Quick Reference and Alarm Guide, HVMC edition,\" covering alarm messages including \"Alarm VFIB/VTACH\" and starting with \"Alarm ASYSTOLE.\" It provides critical information on alarm priorities, meanings, and actions for patient monitoring.",
+  "chunk_start": "Talon VM-8 Bedside Patient Monitor\nQuick Reference and Alarm Guide, HVMC edition"
+ },
+ "talon_vm8_monitor_manual::0001": {
+  "note": "The \"Talon VM-8 Bedside Patient Monitor Quick Reference and Alarm Guide\" includes alarm messages for critical conditions such as ASYSTOLE (red priority) and VFIB/VTACH (red priority), as well as other alarms like BRADY (yellow priority) and SPO2 LOW (yellow priority), detailing their meanings and required actions.",
+  "chunk_start": "ASYSTOLE\nPriority: red, highest priority.\nMeaning: No QRS complexes detected for"
+ },
+ "talon_vm8_monitor_manual::0002": {
+  "note": "The chunk is from the \"Talon VM-8 Bedside Patient Monitor Quick Reference and Alarm Guide, HVMC edition\" and covers alarm actions for EtCO2, NBP CUFF LEAK, LEADS OFF, ARTIFACT, BATTERY LOW, and NO CENTRAL. It provides critical information on alarm meanings and actions to take for technical issues.",
+  "chunk_start": "priority.\nMeaning: End-tidal carbon dioxide above the high limit.\nAction: Assess"
+ }
+}
