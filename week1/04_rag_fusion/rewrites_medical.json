@@ -1,0 +1,188 @@
+{
+ "What is the renal dose adjustment for HV-RX-2074?": [
+  "Can you provide the renal dose adjustment for HV-RX-2074?",
+  "What adjustments should be made to the renal dosing of HV-RX-2074?",
+  "Could you specify the renal dosage modification for HV-RX-2074?",
+  "What is the recommended renal dose modification for HV-RX-2074 in patients with renal impairment?"
+ ],
+ "A patient's sugar level has crashed and they are too drowsy to eat or drink, but a cannula is in place. What should the nurse give?": [
+  "A patient is experiencing hypoglycemia and is too lethargic to consume food or fluids, but a cannula is already inserted. What should the nurse administer?",
+  "In the case of a patient whose glucose levels have plummeted and who is too drowsy to ingest anything, with a cannula in place, what should the nurse provide?",
+  "What should the nurse give to a patient with a significant drop in blood sugar who is too drowsy to eat or drink, considering that a cannula is present?",
+  "When a patient presents with severe hypoglycemia and is unable to eat or drink due to drowsiness, but has a cannula in situ, what is the appropriate intervention for the nurse?"
+ ],
+ "Which strong painkiller is preferred for a patient whose kidneys are not working well?": [
+  "What is the preferred analgesic for a patient with renal impairment?",
+  "Which potent analgesic is recommended for a patient with compromised kidney function?",
+  "For a patient with poor kidney function, which strong pain medication is typically favored?",
+  "What strong pain relief option is best suited for a patient experiencing renal dysfunction?"
+ ],
+ "How quickly can potassium be dripped in through an ordinary arm vein?": [
+  "What is the infusion rate for potassium administration via a standard peripheral vein?",
+  "How fast can potassium be infused through a typical arm vein?",
+  "What is the recommended speed for potassium drip administration through an ordinary arm vein?",
+  "What is the appropriate rate for potassium infusion through a peripheral venous access site?"
+ ],
+ "What is the pediatric dose of Zephacillin?": [
+  "What is the recommended pediatric dosage for Zephacillin?",
+  "Can you provide the pediatric dosing information for Zephacillin?",
+  "What is the appropriate pediatric dose of Zephacillin according to clinical guidelines?",
+  "What dosage of Zephacillin is indicated for pediatric patients?"
+ ],
+ "What does fault code E-71 mean on the Kestrel IV-220, and what should staff do?": [
+  "Can you explain the meaning of fault code E-71 on the Kestrel IV-220 and the appropriate actions for staff?",
+  "What is the interpretation of fault code E-71 on the Kestrel IV-220, and what steps should personnel take?",
+  "Could you clarify what fault code E-71 signifies on the Kestrel IV-220 and the recommended procedures for staff?",
+  "What does the clinical indication of fault code E-71 refer to on the Kestrel IV-220, and what actions are advised for healthcare providers?"
+ ],
+ "What is the maximum daily dose of Lumidex?": [
+  "What is the highest allowable daily dosage of Lumidex?",
+  "Can you provide the maximum daily administration limit for Lumidex?",
+  "What is the upper limit for the daily dose of Lumidex?",
+  "What is the maximum recommended daily dosage of Lumidex in clinical practice?"
+ ],
+ "How must a specimen for LC-0710 be collected and transported?": [
+  "What are the procedures for collecting and transporting a specimen for LC-0710?",
+  "Can you explain the collection and transportation requirements for a specimen related to LC-0710?",
+  "What is the proper method for specimen collection and transport for LC-0710?",
+  "What protocols should be followed for the collection and transport of a specimen for LC-0710?"
+ ],
+ "What are the critical values for LC-0412?": [
+  "Can you provide the critical values associated with LC-0412?",
+  "What critical values should be noted for LC-0412?",
+  "Please list the critical values for LC-0412.",
+  "What are the significant laboratory results for LC-0412?"
+ ],
+ "Which agent reverses Corvetrol, and how is it dosed?": [
+  "What is the agent that counteracts Corvetrol, and what is the recommended dosing regimen?",
+  "Can you identify the reversal agent for Corvetrol and provide the dosing instructions?",
+  "Which pharmacological agent is used to reverse the effects of Corvetrol, and what are the dosing guidelines?",
+  "What is the antidote for Corvetrol, and how should it be administered in terms of dosage?"
+ ],
+ "Which drug library version is loaded on the Kestrel IV-220 pumps?": [
+  "What version of the drug library is currently installed on the Kestrel IV-220 infusion pumps?",
+  "Can you tell me which version of the drug formulary is loaded onto the Kestrel IV-220 devices?",
+  "Which iteration of the drug library is present on the Kestrel IV-220 infusion pumps?",
+  "What is the current version of the drug library that has been uploaded to the Kestrel IV-220 pumps?"
+ ],
+ "What does fault code E-12 indicate, and when should the IV site be replaced?": [
+  "Can you explain what fault code E-12 signifies and the appropriate timing for replacing the IV site?",
+  "What is the meaning of fault code E-12, and when is it necessary to change the IV site?",
+  "Please clarify the indication of fault code E-12 and the recommended schedule for IV site replacement.",
+  "What does the clinical interpretation of fault code E-12 entail, and when should the intravenous access site be replaced?"
+ ],
+ "What are the first actions required by protocol CP-09?": [
+  "What initial steps are mandated by protocol CP-09?",
+  "What are the required first actions outlined in CP-09?",
+  "According to protocol CP-09, what are the initial actions that need to be taken?",
+  "What are the preliminary actions specified in clinical protocol CP-09?"
+ ],
+ "When should LC-0920 be drawn, and what is its treatment range?": [
+  "At what time should LC-0920 be collected, and what is the therapeutic range for it?",
+  "What is the appropriate timing for drawing LC-0920, and what treatment range should be considered?",
+  "When is the optimal time to obtain LC-0920, and what are the recommended treatment levels?",
+  "What is the correct timing for the collection of LC-0920, and what is its therapeutic range in clinical practice?"
+ ],
+ "How long will the infusion pump keep running once it is unplugged from the wall?": [
+  "What is the duration that the Kestrel IV-220 will operate after being disconnected from the power source?",
+  "Once unplugged from the wall, how much time will the Kestrel IV-220 continue to function?",
+  "After disconnection from the electrical outlet, what is the operational time for the Kestrel IV-220 infusion pump?",
+  "How much time can the Kestrel IV-220 maintain its operation once it has been unplugged from the wall socket?"
+ ],
+ "How fast must the first package of care, including antibiotics, be finished for a patient with a suspected serious blood infection?": [
+  "What is the required time frame for completing the initial package of care, including antibiotics, for a patient with a suspected severe sepsis?",
+  "How quickly should the first care package, which includes antibiotics, be administered to a patient suspected of having a serious bloodstream infection?",
+  "What is the time limit for finishing the first set of care, including antibiotics, for a patient with a suspected serious bacteremia?",
+  "How soon must the initial care package, containing antibiotics, be completed for a patient with a suspected critical blood infection?"
+ ],
+ "At what breathing rates should a nurse summon the emergency ward team?": [
+  "What are the breathing rates that necessitate a nurse to call the emergency ward team?",
+  "At which respiratory rates should a nurse contact the emergency department team?",
+  "Under what conditions of respiratory rate should a nurse alert the emergency ward team?",
+  "What respiratory rates indicate that a nurse should engage the emergency team for assistance?"
+ ],
+ "What should be used to wipe down an infusion pump between patients, and how long must the surface stay wet?": [
+  "What is the recommended method for disinfecting an infusion pump between patients, and what is the required wet contact time for the surface?",
+  "Which cleaning solution should be utilized to sanitize an infusion pump after each patient, and for how long must the surface remain moist?",
+  "What protocol should be followed for wiping down an infusion pump between patients, and what duration is necessary for the surface to remain wet?",
+  "What is the appropriate agent for decontaminating an infusion pump between patient uses, and what is the minimum time the surface should stay wet?"
+ ],
+ "What is the normal upper limit for the blood test that detects heart muscle injury?": [
+  "What is the standard upper threshold for the laboratory test that identifies myocardial injury?",
+  "What is the typical upper limit for the blood test used to detect cardiac muscle damage?",
+  "What is the normal upper limit for the blood test that assesses heart muscle injury?",
+  "What is the established upper limit for the blood test that evaluates myocardial injury?"
+ ],
+ "How often should staff check on patients who are likely to tumble out of bed?": [
+  "What is the recommended frequency for staff to monitor patients at risk of falling out of bed?",
+  "How frequently should healthcare personnel assess patients who are prone to bed falls?",
+  "What is the suggested interval for staff to observe patients susceptible to tumbling out of bed?",
+  "How often should clinical staff conduct checks on patients identified as having a high risk of falls from bed?"
+ ],
+ "For patients who cannot have blood thinners, how many hours a day must the leg squeezing devices be worn?": [
+  "What is the required duration in hours per day for wearing leg compression devices for patients contraindicated for anticoagulants?",
+  "For individuals unable to use blood thinners, what is the daily wear time in hours for the leg squeezing devices?",
+  "How many hours each day should leg compression devices be utilized for patients who are not candidates for anticoagulant therapy?",
+  "In cases where patients cannot receive anticoagulants, what is the recommended number of hours per day for the use of leg squeezing devices?"
+ ],
+ "In septic shock, which vasopressor is first-line, what is its starting dose, and when is a second vasopressor added?": [
+  "In the context of septic shock, which vasopressor is considered first-line, what is the recommended starting dose, and under what circumstances is a second vasopressor introduced?",
+  "For patients experiencing septic shock, which vasopressor is the first-line treatment, what should the initial dosage be, and when should a second vasopressor be administered?",
+  "In cases of septic shock, which vasopressor is prioritized as first-line therapy, what is the initial dosing guideline, and when is it appropriate to add a second vasopressor?",
+  "During septic shock management, which vasopressor is designated as first-line, what is its starting dose, and at what point is the addition of a second vasopressor warranted?"
+ ],
+ "A patient on Corvatrel is prescribed Nephrazole. Is that a problem, and what Corvatrel dose is used for a CrCl of 40 mL/min?": [
+  "Is there an issue with a patient on Corvatrel being prescribed Nephrazole, and what is the appropriate Corvatrel dosage for a creatinine clearance of 40 mL/min?",
+  "For a patient taking Corvatrel who has been prescribed Nephrazole, is this a concern, and what Corvatrel dose should be administered for a CrCl of 40 mL/min?",
+  "In the case of a patient receiving Corvatrel and also prescribed Nephrazole, could this pose a problem, and what is the recommended Corvatrel dosage for a creatinine clearance of 40 mL/min?",
+  "Does the combination of Corvatrel and Nephrazole in a patient present any issues, and what is the appropriate dosing of Corvatrel for a patient with a CrCl of 40 mL/min?"
+ ],
+ "How should blood cultures be collected, and when are the preliminary and final results available?": [
+  "What is the procedure for collecting blood cultures, and when can we expect the preliminary and final results?",
+  "Can you explain the method for blood culture collection and the timeline for receiving preliminary and final results?",
+  "What are the guidelines for the collection of blood cultures, and when will the preliminary and final results be accessible?",
+  "How is the collection of blood cultures performed, and what is the expected availability of preliminary and final results?"
+ ],
+ "What is the maximum daily dose of IV acetaminophen, and in which patients is it lowered?": [
+  "What is the highest allowable daily dosage of IV acetaminophen, and for which patient populations is this dosage reduced?",
+  "Can you provide the maximum daily limit for IV acetaminophen and specify the patient groups for whom this limit is decreased?",
+  "What is the upper threshold for daily administration of IV acetaminophen, and in which clinical scenarios is this threshold adjusted?",
+  "What is the maximum daily dose of IV acetaminophen, and in which cases, such as those involving renal impairment, is this dose modified?"
+ ],
+ "If a patient's glucose is still low after the first treatment, what should the nurse do next, and when is the rapid response team called?": [
+  "What actions should the nurse take if a patient's glucose remains low following the initial treatment, and at what point should the rapid response team be activated?",
+  "In the event that a patient's glucose level is still low after the first intervention, what steps should the nurse follow, and when is it appropriate to summon the rapid response team?",
+  "If a patient's glucose continues to be low after the first treatment, what should the nurse's next steps be, and when should the rapid response team be notified?",
+  "Should a patient's glucose level persistently remain low after the initial treatment, what protocol should the nurse implement, and when is the rapid response team to be engaged?"
+ ],
+ "How does the Kestrel IV-220 signal a high-priority alarm, and for how long does the alarm silence button mute it?": [
+  "What is the process by which the Kestrel IV-220 indicates a high-priority alarm, and what is the duration for which the alarm silence button can mute it?",
+  "Can you explain how the Kestrel IV-220 activates a high-priority alarm and the length of time the alarm silence button is effective?",
+  "In what manner does the Kestrel IV-220 emit a high-priority alarm, and for what period does the alarm silence button suppress it?",
+  "How does the Kestrel IV-220 communicate a high-priority alarm, and what is the time frame during which the alarm silence button can deactivate it?"
+ ],
+ "What does fault code E-50 mean on the Kestrel IV-220?": [
+  "Can you explain the meaning of fault code E-50 on the Kestrel IV-220?",
+  "What is the interpretation of fault code E-50 as it relates to the Kestrel IV-220?",
+  "Could you clarify what fault code E-50 indicates for the Kestrel IV-220?",
+  "What is the clinical significance of fault code E-50 on the Kestrel IV-220?"
+ ],
+ "What is the reference range for serum vitamin D at HVMC?": [
+  "Can you provide the reference range for serum vitamin D levels at HVMC?",
+  "What is the normal range for serum vitamin D at HVMC?",
+  "Could you tell me the reference range for serum vitamin D concentrations at HVMC?",
+  "What is the established reference range for serum vitamin D at HVMC?"
+ ],
+ "What are the visiting hours for the HVMC intensive care unit?": [
+  "What are the visitation hours for the HVMC intensive care unit?",
+  "Can you provide the visiting hours for the HVMC ICU?",
+  "What are the hours for visitation in the HVMC intensive care unit?",
+  "Could you tell me the visitation schedule for the HVMC ICU?"
+ ],
+ "warm up": [
+  "What is the procedure for warming up the Kestrel IV-220 infusion pump?",
+  "Can you provide the guidelines for preheating the Kestrel IV-220 device?",
+  "What steps should be taken to ensure the Kestrel IV-220 is properly warmed up?",
+  "What is the recommended protocol for the warming process of the Kestrel IV-220 infusion pump?"
+ ]
+}
