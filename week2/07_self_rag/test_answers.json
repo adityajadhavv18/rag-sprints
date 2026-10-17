@@ -1,0 +1,106 @@
+{
+  "m01": {
+    "wrong": "HV-RX-2074 is Corvetrol. For CrCl 30 to 50 mL/min the dose is 70 mg twice daily, and it is contraindicated when CrCl is below 30 mL/min.",
+    "vague": "HV-RX-2074 is a medication that requires careful dosing based on kidney function, and there are specific guidelines for its use in patients with reduced renal function."
+  },
+  "m02": {
+    "wrong": "E-71 is an air sensor self-test failure: the ultrasonic air sensor failed its self-test, so air in the line can no longer be detected. It is a technical fault: stop the infusion and remove the pump from service immediately, even if fluid appears to flow abnormally.",
+    "vague": "E-71 indicates a malfunction related to the air detection system. Staff should take immediate action to halt any ongoing processes and ensure the device is not used until the issue is resolved."
+  },
+  "m03": {
+    "wrong": "Lumidex is dosed at 4 mg IV every 8 hours as needed, with a maximum of 20 mg per day.",
+    "vague": "Lumidex is administered intravenously as needed, with specific dosing guidelines to ensure safety and efficacy."
+  },
+  "m04": {
+    "wrong": "LC-0710 is venous lactate. Collect it in a sodium fluoride (gray top) tube, minimum 3 mL, avoid prolonged tourniquet use, transport it on ice and analyze it within 15 minutes of collection.",
+    "vague": "LC-0710 is a type of blood test. The specimen should be collected in a suitable container, handled carefully, and analyzed promptly to ensure accurate results."
+  },
+  "m05": {
+    "wrong": "LC-0412 is serum potassium. Its critical values are below 2.9 or above 6.2 mmol/L.",
+    "vague": "LC-0412 is related to a specific serum electrolyte. Its critical values indicate levels that are significantly outside the normal range."
+  },
+  "m06": {
+    "wrong": "Revexa (HV-RX-2081) reverses Corvetrol. It is given as 4 g IV in two consecutive 2.5 g boluses no more than 15 minutes apart, and requires approval from the hematology or emergency department attending.",
+    "vague": "An agent is used to reverse Corvetrol, and it is administered intravenously in a specific manner that requires approval from the appropriate medical department."
+  },
+  "m07": {
+    "wrong": "The pumps carry the HVMC drug library, version DL-25.3, pushed wirelessly by biomedical engineering.",
+    "vague": "The pumps utilize a specific drug library that is updated and managed by the biomedical engineering team."
+  },
+  "m08": {
+    "wrong": "E-12 is a downstream occlusion: pressure between the pump and the patient exceeded the selected occlusion limit. Check for a closed clamp, kinked tubing or an infiltrated IV site, clear it and press RESUME. If E-12 recurs four times within one hour, assess and replace the IV site.",
+    "vague": "E-12 indicates a blockage in the IV line that requires attention. It is important to check for any obstructions and ensure proper flow. If the issue persists after several occurrences within a certain timeframe, consider replacing the IV site."
+  },
+  "m09": {
+    "wrong": "CP-09 covers suspected transfusion reactions. Stop the transfusion immediately and keep the IV line open with normal saline using new tubing, without flushing the blood left in the old tubing into the patient. Then check vital signs every 20 minutes and notify the provider and the blood bank.",
+    "vague": "CP-09 addresses issues related to transfusion reactions. The initial steps involve halting the transfusion and ensuring the IV line remains functional with appropriate fluids. It is also important to monitor the patient's condition regularly and inform the necessary medical personnel."
+  },
+  "m10": {
+    "wrong": "LC-0920 is the anti-Xa level for Heparivex. Draw it 5 hours after the third or fourth dose; the treatment range is 0.5 to 1.5 IU/mL.",
+    "vague": "LC-0920 is a specific laboratory test related to anticoagulation therapy. It should be drawn after a certain number of doses, and there is an established therapeutic range for its results."
+  },
+  "m11": {
+    "wrong": "Give Dextriva 30 g (50 mL) IV push, then recheck the glucose after 15 minutes.",
+    "vague": "Administer an appropriate glucose solution intravenously and monitor the patient's glucose levels after a short period."
+  },
+  "m12": {
+    "wrong": "On a full charge, the internal battery runs the pump for up to 6 hours at 25 mL/h.",
+    "vague": "The infusion pump will continue to operate for a limited time after being disconnected from a power source."
+  },
+  "m13": {
+    "wrong": "Hydrovane is the preferred opioid in renal impairment, with the dose reduced by 40 percent when CrCl is below 30 mL/min. Morphalin should be avoided because its active metabolite accumulates.",
+    "vague": "In patients with renal impairment, it is important to choose an appropriate painkiller that minimizes the risk of accumulation of harmful metabolites."
+  },
+  "m14": {
+    "wrong": "The one-hour sepsis bundle (CP-07) must be completed within 50 minutes of recognition.",
+    "vague": "The initial care package for a patient with a suspected serious blood infection should be administered promptly after identification of the condition."
+  },
+  "m15": {
+    "wrong": "Call the rapid response team (dial 5555) for a respiratory rate below 7 or above 28 breaths per minute.",
+    "vague": "A nurse should contact the emergency ward team if the patient's breathing rate is significantly outside the normal range."
+  },
+  "m16": {
+    "wrong": "Use a hospital-approved 70 percent isopropyl alcohol or quaternary ammonium wipe and allow 5 minutes of wet contact time.",
+    "vague": "Use an appropriate disinfectant to clean the infusion pump between patients, ensuring the surface remains wet for a sufficient duration."
+  },
+  "m17": {
+    "wrong": "For the high-sensitivity troponin assay (LC-0815), the 99th percentile upper limit is 15 ng/L.",
+    "vague": "The normal upper limit for the blood test that detects heart muscle injury is typically defined as a threshold value that indicates the presence of injury, which is determined through specific testing methods."
+  },
+  "m18": {
+    "wrong": "Patients at high fall risk (Morse score 50 or higher) receive hourly purposeful rounding, plus scheduled toileting every 2 hours while awake.",
+    "vague": "Patients who are at risk of falling should be monitored regularly and provided with assistance as needed to ensure their safety."
+  },
+  "m19": {
+    "wrong": "Intermittent pneumatic compression devices are worn on both legs for at least 16 hours per day; compression stockings alone are not adequate.",
+    "vague": "Intermittent pneumatic compression devices are used on both legs for a significant portion of the day; compression stockings alone are not sufficient."
+  },
+  "m20": {
+    "wrong": "Through a peripheral line, Kaliveen (IV potassium chloride) may be given at a maximum of 12 mEq per hour, and never as an IV push.",
+    "vague": "Potassium can be administered through a vein at a controlled rate, ensuring safety and avoiding rapid infusion."
+  },
+  "m21": {
+    "wrong": "Norvessa is first-line, started at 0.06 mcg/kg/min and titrated by 0.02 mcg/kg/min every 5 minutes to a MAP of 65 mmHg or higher. Vasoplex, a fixed 0.03 units/min, is added when Norvessa reaches 0.25 mcg/kg/min.",
+    "vague": "In septic shock, a vasopressor is typically used as the first-line treatment, initiated at a low dose and adjusted gradually to achieve a target blood pressure. A second vasopressor may be introduced if the first one reaches a certain threshold."
+  },
+  "m22": {
+    "wrong": "Yes, the combination should be avoided: Nephrazole is a strong CYP3A4 inhibitor that roughly triples Corvatrel exposure. For CrCl 15 to 50 mL/min, Corvatrel is 10 mg once daily.",
+    "vague": "Yes, the combination should be avoided due to potential interactions that can increase the exposure of Corvatrel. The dosing for patients with reduced kidney function should be adjusted accordingly."
+  },
+  "m23": {
+    "wrong": "Collect two sets, each an aerobic and an anaerobic bottle with 7 to 10 mL of blood per bottle, from two separate venipuncture sites before antibiotics are given. The preliminary report comes at 24 hours and the final report at 5 days.",
+    "vague": "Blood cultures should be collected using appropriate techniques and equipment, ensuring that samples are taken before any antibiotic treatment. Results will typically be available after a short period for preliminary findings and a longer duration for final analysis."
+  },
+  "m24": {
+    "wrong": "Acetavol's maximum is 4 g per day from all sources. It is lowered to 3 g per day in patients weighing under 60 kg, with chronic alcohol use, or with hepatic impairment.",
+    "vague": "The maximum daily dose of IV acetaminophen is determined based on various factors, and it may be adjusted for certain patient populations with specific health conditions."
+  },
+  "m25": {
+    "wrong": "If glucose is still below 75 mg/dL at the 15-minute recheck, repeat the treatment and recheck again in 15 minutes. Call the rapid response team if glucose remains below 70 mg/dL after two treatments.",
+    "vague": "If a patient's glucose remains low after initial treatment, the nurse should repeat the treatment and monitor the levels again shortly after. The rapid response team should be contacted if the patient's condition does not improve after multiple interventions."
+  },
+  "m26": {
+    "wrong": "A high-priority alarm shows a flashing red light and a repeating four-tone sound, and the infusion stops. The alarm silence button mutes the sound for 2 minutes only.",
+    "vague": "A high-priority alarm indicates a critical situation with visual and auditory signals, and it temporarily silences the alarm for a brief period."
+  }
+}
