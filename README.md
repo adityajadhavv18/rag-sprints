@@ -4,12 +4,12 @@ Hands-on builds of 12 RAG architectures (plus a naive baseline). Each one runs o
 
 | Week 1 | Week 2 |
 |---|---|
-| 00 Naive baseline ✅ | 06 Corrective RAG |
-| 01 Hybrid RAG ✅ | 07 Self-RAG |
-| 02 Parent-Child RAG | 08 Agentic RAG |
-| 03 Contextual RAG | 09 GraphRAG |
-| 04 RAG Fusion | 10 RAPTOR |
-| 05 Adaptive RAG | 11 Multimodal RAG |
+| 00 Naive baseline ✅ | 06 Corrective RAG ✅ |
+| 01 Hybrid RAG ✅ | 07 Self-RAG ✅ |
+| 02 Parent-Child RAG ✅ | 08 Agentic RAG ✅ |
+| 03 Contextual RAG ✅ | 09 GraphRAG |
+| 04 RAG Fusion ✅ | 10 RAPTOR |
+| 05 Adaptive RAG ✅ | 11 Multimodal RAG |
 | | 12 Speculative RAG |
 
 ## Setup
@@ -42,10 +42,19 @@ RAG_CORPUS=medical uv run week1/01_hybrid_rag/run_eval.py
 
 ## Results so far (medical corpus)
 
-| Architecture | Evidence recall | Evidence MRR | Context recall | Answer relevancy | Refused although answerable | Cost / query |
-|---|---|---|---|---|---|---|
-| 00 Naive (baseline) | 0.75 | 0.54 | 0.75 | 0.69 | 6 / 26 | $0.00035 |
-| 01 Hybrid (dense + BM25 + RRF) | **0.88** | **0.69** | **0.90** | **0.78** | **3 / 26** | $0.00036 |
+| Architecture | Evidence recall / MRR | Context recall | Faithfulness | Answer relevancy | Refused although answerable | Latency p50 | Cost / query |
+|---|---|---|---|---|---|---|---|
+| 00 Naive (baseline) | 0.75 / 0.54 | 0.75 | 0.93 | 0.69 | 5 / 26 | **1.0 s** | $0.00035 |
+| 01 Hybrid (dense + BM25 + RRF) | 0.88 / 0.69 | 0.90 | **0.94** | 0.78 | 3 / 26 | **1.0 s** | $0.00036 |
+| 02 Parent-Child (search small, read big) | 0.77 / 0.59 | 0.74 | 0.92 | 0.69 | 6 / 26 | 1.1 s | **$0.00022** |
+| 03 Contextual (LLM note per chunk + hybrid) | 0.92 / 0.75 | 0.92 | 0.92 | 0.85 | 1 / 26 | 1.2 s | $0.00031 |
+| 04 RAG Fusion (4 rephrasings + RRF) | 0.96 / 0.83 | 0.96 | 0.92 | 0.85 | 1 / 26 | 3.1 s | $0.00040 |
+| 05 Adaptive (LLM router + search loop) | 0.92 / 0.75 | 0.91 | 0.92 | 0.85 | 1 / 26 | 3.0 s | $0.00049 |
+| 06 Corrective (chunk grader + refine and retry) | 0.96 / **0.86** | 0.95 | 0.91 | **0.90** | **0 / 26** | 2.6 s | $0.00056 |
+| 07 Self-RAG (answer checker + wider search / rewrite) | 0.96 / **0.86** | 0.96 | 0.90 | 0.87 | 1 / 26 | 2.7 s | $0.00074 |
+| 08 Agentic (LLM picks search / exact lookup, max 5 rounds) | **1.00** / 0.71 | **0.97** | **0.94** | **0.90** | **0 / 26** | 2.5 s | $0.00080 |
+
+Every architecture refuses all 4 unanswerable questions (abstention 1.00). Faithfulness differences are within the judge's error: sprint 07 found that the low scores come from the judge misreading correct answers, not from made-up facts.
 
 Details and findings are in each sprint's README.
 
