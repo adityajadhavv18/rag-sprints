@@ -1,0 +1,420 @@
+{
+ "contextual": {
+  "summary": {
+   "quote_coverage": 0.24,
+   "point_coverage": 0.28,
+   "cost_per_query": 0.00031
+  },
+  "questions": [
+   {
+    "id": "t01",
+    "answer": "The hospital's overall approach to high-alert medications includes storing them separately with warning labels and requiring an independent double check by a second nurse for insulin, opioid infusions, PCA, IV potassium, and heparin infusions.",
+    "context_ids": [
+     "hvmc_policies",
+     "hvmc_policies",
+     "hvmc_clinical_protocols",
+     "hvmc_directory",
+     "hvmc_clinical_protocols"
+    ],
+    "quote_positions": [
+     1,
+     1,
+     null,
+     null,
+     null
+    ],
+    "points_covered": [
+     false,
+     true,
+     true,
+     false,
+     false
+    ],
+    "judge_cost": 4.3950000000000004e-05
+   },
+   {
+    "id": "t02",
+    "answer": "The hospital's device manuals indicate that alarms are categorized by priority levels (medium, high, low), and fault codes appear on the display as E- followed by two digits. Faulty equipment must be removed from service, tagged with a red \"DO NOT USE\" tag, and reported to biomedical engineering at extension 4417.",
+    "context_ids": [
+     "kestrel_iv220_manual",
+     "kestrel_pca90_manual",
+     "kestrel_iv220_manual",
+     "talon_vm8_monitor_manual",
+     "kestrel_sp40_manual"
+    ],
+    "quote_positions": [
+     null,
+     1,
+     null,
+     null,
+     2
+    ],
+    "points_covered": [
+     true,
+     false,
+     false,
+     false,
+     true
+    ],
+    "judge_cost": 4.785e-05
+   },
+   {
+    "id": "t03",
+    "answer": "The hospital uses contact precautions (gown and gloves) for MRSA, VRE, and other multidrug-resistant organisms. For Clostridioides difficile, contact-plus precautions are implemented, requiring staff to wash hands with soap and water and clean the room with a sporicidal agent. Droplet precautions involve wearing a surgical mask within 2 meters of the patient for influenza and pertussis, while airborne precautions require a fit-tested N95 respirator and a negative-pressure room for tuberculosis, measles, and chickenpox.",
+    "context_ids": [
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets",
+     "hvmc_lab_catalog",
+     "hvmc_clinical_protocols",
+     "hvmc_formulary"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     4,
+     4,
+     null
+    ],
+    "points_covered": [
+     false,
+     true,
+     true,
+     true,
+     false
+    ],
+    "judge_cost": 5.295e-05
+   },
+   {
+    "id": "t04",
+    "answer": "I don't know based on the provided documents.",
+    "context_ids": [
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets",
+     "hvmc_policies",
+     "hvmc_clinical_protocols"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "points_covered": [
+     false,
+     false,
+     false,
+     false,
+     false
+    ],
+    "judge_cost": 3.66e-05
+   },
+   {
+    "id": "t05",
+    "answer": "Nurses are told to involve the pharmacy in the following situations: \n\n1. Before discharge, when comparing the home medication list with inpatient orders and discharge prescriptions, particularly for anticoagulants, insulin, and opioids, which receive pharmacist counselling before the patient leaves.\n2. When going home with new medicines, where a pharmacist or nurse will go through every medicine with the patient, especially blood thinners, insulin, and strong pain medicines.",
+    "context_ids": [
+     "hvmc_policies",
+     "hvmc_policies",
+     "hvmc_clinical_protocols",
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "points_covered": [
+     false,
+     false,
+     false,
+     false,
+     false
+    ],
+    "judge_cost": 5.114999999999999e-05
+   }
+  ]
+ },
+ "graph_rag": {
+  "summary": {
+   "quote_coverage": 0.28,
+   "point_coverage": 0.28,
+   "cost_per_query": 0.00033
+  },
+  "questions": [
+   {
+    "id": "t01",
+    "answer": "The hospital's overall approach to high-alert medications includes the following: they carry a heightened risk of significant harm when used in error, and at HVMC, high-alert medications include all insulins, opioids, IV potassium chloride, anticoagulants, vasopressors, neuromuscular blockers, and chemotherapy. These drugs are stored separately with warning labels, and insulin, opioid infusions, PCA, IV potassium, and heparin infusions require an independent double check by a second nurse.",
+    "context_ids": [
+     "kestrel_iv220_manual",
+     "hvmc_policies",
+     "hvmc_policies",
+     "hvmc_clinical_protocols",
+     "hvmc_directory",
+     "hvmc_clinical_protocols"
+    ],
+    "quote_positions": [
+     3,
+     2,
+     null,
+     1,
+     null
+    ],
+    "points_covered": [
+     true,
+     true,
+     true,
+     false,
+     false
+    ],
+    "judge_cost": 5.25e-05
+   },
+   {
+    "id": "t02",
+    "answer": "The hospital's device manuals indicate that alarms and fault codes are categorized by priority levels (clinical and technical), with specific actions required for each fault. Faulty equipment must be tagged with a red \"DO NOT USE\" tag, and biomedical engineering should be notified at extension 4417. Additionally, any event that reached the patient must be reported in the safety event system within the same shift.",
+    "context_ids": [
+     "kestrel_iv220_manual",
+     "kestrel_pca90_manual",
+     "kestrel_iv220_manual",
+     "talon_vm8_monitor_manual",
+     "kestrel_sp40_manual"
+    ],
+    "quote_positions": [
+     null,
+     1,
+     null,
+     null,
+     2
+    ],
+    "points_covered": [
+     true,
+     false,
+     false,
+     false,
+     true
+    ],
+    "judge_cost": 4.9649999999999994e-05
+   },
+   {
+    "id": "t03",
+    "answer": "The hospital uses isolation precautions, which include contact precautions (gown and gloves) for MRSA, VRE, and other multidrug-resistant organisms, contact-plus precautions for Clostridioides difficile, droplet precautions requiring a surgical mask within 2 meters of the patient for influenza and pertussis, and airborne precautions with a fit-tested N95 respirator and a negative-pressure room for tuberculosis, measles, and chickenpox.",
+    "context_ids": [
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets",
+     "hvmc_lab_catalog",
+     "hvmc_clinical_protocols",
+     "hvmc_formulary"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     4,
+     4,
+     null
+    ],
+    "points_covered": [
+     false,
+     false,
+     true,
+     true,
+     false
+    ],
+    "judge_cost": 5.009999999999999e-05
+   },
+   {
+    "id": "t04",
+    "answer": "I don't know based on the provided documents.",
+    "context_ids": [
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets",
+     "hvmc_policies",
+     "hvmc_clinical_protocols"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "points_covered": [
+     false,
+     false,
+     false,
+     false,
+     false
+    ],
+    "judge_cost": 3.66e-05
+   },
+   {
+    "id": "t05",
+    "answer": "Nurses are told to involve the pharmacy in the following situations: \n\n1. Before discharge, when comparing the home medication list with inpatient orders and discharge prescriptions, particularly for anticoagulants, insulin, and opioids, which receive pharmacist counselling before the patient leaves.\n2. When going home with new medicines, where a pharmacist or nurse will go through every medicine with the patient, especially blood thinners, insulin, and strong pain medicines.",
+    "context_ids": [
+     "hvmc_policies",
+     "hvmc_policies",
+     "hvmc_clinical_protocols",
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "points_covered": [
+     false,
+     false,
+     false,
+     false,
+     false
+    ],
+    "judge_cost": 5.114999999999999e-05
+   }
+  ]
+ },
+ "raptor": {
+  "summary": {
+   "quote_coverage": 0.24,
+   "point_coverage": 0.28,
+   "cost_per_query": 0.00032
+  },
+  "questions": [
+   {
+    "id": "t01",
+    "answer": "The hospital's overall approach to high-alert medications includes storing them separately with warning labels and requiring an independent double check by nursing staff for medications such as insulin, opioid infusions, PCA, IV potassium, and heparin infusions.",
+    "context_ids": [
+     "raptor:L1-07",
+     "raptor:L1-06",
+     "raptor:L2-03",
+     "raptor:L1-11",
+     "hvmc_policies"
+    ],
+    "quote_positions": [
+     5,
+     5,
+     null,
+     null,
+     null
+    ],
+    "points_covered": [
+     false,
+     true,
+     true,
+     false,
+     false
+    ],
+    "judge_cost": 4.425e-05
+   },
+   {
+    "id": "t02",
+    "answer": "The hospital's device manuals emphasize the importance of monitoring alarms and fault codes, categorizing them by priority (clinical and technical), and outlining specific actions required for each fault. Faulty equipment must be removed from service, tagged with a red \"DO NOT USE\" label, and reported to biomedical engineering at extension 4417. Preventive maintenance is also highlighted, with inspections occurring every 12 months to ensure operational integrity.",
+    "context_ids": [
+     "raptor:L1-17",
+     "raptor:L1-18",
+     "kestrel_iv220_manual",
+     "kestrel_iv220_manual",
+     "kestrel_pca90_manual"
+    ],
+    "quote_positions": [
+     null,
+     3,
+     null,
+     null,
+     1
+    ],
+    "points_covered": [
+     true,
+     false,
+     false,
+     false,
+     true
+    ],
+    "judge_cost": 5.0549999999999995e-05
+   },
+   {
+    "id": "t03",
+    "answer": "The hospital uses contact precautions (gown and gloves) for MRSA, VRE, and other multidrug-resistant organisms. For Clostridioides difficile, contact-plus precautions are implemented, requiring staff to wash hands with soap and water and clean the room with a sporicidal agent. Droplet precautions involve wearing a surgical mask within 2 meters of the patient for influenza and pertussis, while airborne precautions require a fit-tested N95 respirator and a negative-pressure room for tuberculosis, measles, and chickenpox.",
+    "context_ids": [
+     "hvmc_patient_leaflets",
+     "hvmc_lab_catalog",
+     "hvmc_patient_leaflets",
+     "hvmc_clinical_protocols",
+     "hvmc_formulary"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     4,
+     4,
+     null
+    ],
+    "points_covered": [
+     false,
+     true,
+     true,
+     true,
+     false
+    ],
+    "judge_cost": 5.295e-05
+   },
+   {
+    "id": "t04",
+    "answer": "I don't know based on the provided documents.",
+    "context_ids": [
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets",
+     "hvmc_patient_leaflets",
+     "hvmc_clinical_protocols",
+     "hvmc_clinical_protocols"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "points_covered": [
+     false,
+     false,
+     false,
+     false,
+     false
+    ],
+    "judge_cost": 3.66e-05
+   },
+   {
+    "id": "t05",
+    "answer": "I don't know based on the provided documents.",
+    "context_ids": [
+     "hvmc_policies",
+     "raptor:L1-07",
+     "raptor:L1-08",
+     "hvmc_patient_leaflets",
+     "raptor:L1-06"
+    ],
+    "quote_positions": [
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "points_covered": [
+     false,
+     false,
+     false,
+     false,
+     false
+    ],
+    "judge_cost": 3.9450000000000003e-05
+   }
+  ]
+ }
+}

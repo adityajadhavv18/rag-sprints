@@ -1,0 +1,10 @@
+{
+ "leaves": 180,
+ "llm_calls": 22,
+ "tokens_in": 76527,
+ "tokens_out": 7603,
+ "level1_summaries": 18,
+ "level2_summaries": 4,
+ "cost_usd": 0.016,
+ "seconds": 86
+}

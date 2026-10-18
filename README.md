@@ -7,8 +7,8 @@ Hands-on builds of 12 RAG architectures (plus a naive baseline). Each one runs o
 | 00 Naive baseline ✅ | 06 Corrective RAG ✅ |
 | 01 Hybrid RAG ✅ | 07 Self-RAG ✅ |
 | 02 Parent-Child RAG ✅ | 08 Agentic RAG ✅ |
-| 03 Contextual RAG ✅ | 09 GraphRAG |
-| 04 RAG Fusion ✅ | 10 RAPTOR |
+| 03 Contextual RAG ✅ | 09 GraphRAG ✅ |
+| 04 RAG Fusion ✅ | 10 RAPTOR ✅ |
 | 05 Adaptive RAG ✅ | 11 Multimodal RAG |
 | | 12 Speculative RAG |
 
@@ -53,8 +53,12 @@ RAG_CORPUS=medical uv run week1/01_hybrid_rag/run_eval.py
 | 06 Corrective (chunk grader + refine and retry) | 0.96 / **0.86** | 0.95 | 0.91 | **0.90** | **0 / 26** | 2.6 s | $0.00056 |
 | 07 Self-RAG (answer checker + wider search / rewrite) | 0.96 / **0.86** | 0.96 | 0.90 | 0.87 | 1 / 26 | 2.7 s | $0.00074 |
 | 08 Agentic (LLM picks search / exact lookup, max 5 rounds) | **1.00** / 0.71 | **0.97** | **0.94** | **0.90** | **0 / 26** | 2.5 s | $0.00080 |
+| 09 GraphRAG (graph walk + hybrid; +$0.094 one-off index) | 0.92 / 0.68 | 0.92 | 0.91 | 0.83 | 1 / 26 | 1.1 s | $0.00036 |
+| 10 RAPTOR (collapsed tree: chunks + 22 summaries; +$0.016 one-off index) | 0.88 / 0.71 | 0.90 | **0.94** | 0.81 | 2 / 26 | 1.1 s | $0.00031 |
 
 Every architecture refuses all 4 unanswerable questions (abstention 1.00). Faithfulness differences are within the judge's error: sprint 07 found that the low scores come from the judge misreading correct answers, not from made-up facts.
+
+The golden set is all fact lookups. Sprint 09 adds chain questions (one fact leads to the next) and sprint 10 adds broad thematic questions; their results are in those sprints' READMEs. On the thematic questions RAPTOR ties Contextual and GraphRAG (7 of 25 points each).
 
 Details and findings are in each sprint's README.
 
