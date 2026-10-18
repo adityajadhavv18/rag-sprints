@@ -1,0 +1,10 @@
+{
+ "chunks": 180,
+ "llm_calls": 180,
+ "triples": 1468,
+ "tokens_in": 200179,
+ "tokens_out": 106491,
+ "cost_usd": 0.0939,
+ "nodes": 820,
+ "edges": 1388
+}
