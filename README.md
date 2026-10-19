@@ -10,7 +10,7 @@ Hands-on builds of 12 RAG architectures (plus a naive baseline). Each one runs o
 | 03 Contextual RAG ✅ | 09 GraphRAG ✅ |
 | 04 RAG Fusion ✅ | 10 RAPTOR ✅ |
 | 05 Adaptive RAG ✅ | 11 Multimodal RAG |
-| | 12 Speculative RAG |
+| | 12 Speculative RAG ✅ |
 
 ## Setup
 
@@ -55,8 +55,11 @@ RAG_CORPUS=medical uv run week1/01_hybrid_rag/run_eval.py
 | 08 Agentic (LLM picks search / exact lookup, max 5 rounds) | **1.00** / 0.71 | **0.97** | **0.94** | **0.90** | **0 / 26** | 2.5 s | $0.00080 |
 | 09 GraphRAG (graph walk + hybrid; +$0.094 one-off index) | 0.92 / 0.68 | 0.92 | 0.91 | 0.83 | 1 / 26 | 1.1 s | $0.00036 |
 | 10 RAPTOR (collapsed tree: chunks + 22 summaries; +$0.016 one-off index) | 0.88 / 0.71 | 0.90 | **0.94** | 0.81 | 2 / 26 | 1.1 s | $0.00031 |
+| 12 Speculative (3 gpt-4o-mini drafts, gpt-4o picks one) | 0.83 / 0.80 | 0.84 | 0.84 | 0.72 | 1 / 26 | 2.6 s | $0.00108 |
 
 Every architecture refuses all 4 unanswerable questions (abstention 1.00). Faithfulness differences are within the judge's error: sprint 07 found that the low scores come from the judge misreading correct answers, not from made-up facts.
+
+Speculative is the exception: its lower faithfulness comes from real wrong answers (a child quoting a look-alike chunk). Its cost is the real one, with each model at its own price; the harness column assumes gpt-4o-mini for every token. Its baseline, gpt-4o reading the same 9 chunks alone, scored 0.96 / 0.75, faithfulness 0.97, 4 / 26 refused, 1.3 s, $0.00882 (see its README).
 
 The golden set is all fact lookups. Sprint 09 adds chain questions (one fact leads to the next) and sprint 10 adds broad thematic questions; their results are in those sprints' READMEs. On the thematic questions RAPTOR ties Contextual and GraphRAG (7 of 25 points each).
 

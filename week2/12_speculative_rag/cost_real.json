@@ -1,0 +1,35 @@
+{
+  "contextual_4o": {
+    "run": "contextual_4o_20261019-214432.json",
+    "by_model": {
+      "gpt-4o": {
+        "calls": 30,
+        "tokens_in": 102262,
+        "tokens_out": 883,
+        "cost_usd": 0.26449
+      }
+    },
+    "cost_per_query": 0.008816,
+    "harness_cost_per_query": 0.00052897
+  },
+  "speculative": {
+    "run": "speculative_20261019-214606.json",
+    "by_model": {
+      "gpt-4o-mini": {
+        "calls": 90,
+        "tokens_in": 110150,
+        "tokens_out": 3839,
+        "cost_usd": 0.01883
+      },
+      "gpt-4o": {
+        "calls": 41,
+        "tokens_in": 5282,
+        "tokens_out": 41,
+        "cost_usd": 0.01362
+      }
+    },
+    "cost_per_query": 0.001081,
+    "harness_cost_per_query": 0.00065476,
+    "evidence_in_any_of_9": "25/26"
+  }
+}
