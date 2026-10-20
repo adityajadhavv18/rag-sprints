@@ -1,0 +1,38 @@
+[
+  {
+    "id": "img01",
+    "caption": "The image shows a horizontal arrangement of six colored tubes labeled with numbers 1 to 6. \n\n- Top-left: Number 1, light blue tube.\n- Top-middle-left: Number 2, gold tube.\n- Top-middle-right: Number 3, mint green tube.\n- Top-right: Number 4, lavender tube.\n- Bottom-right: Number 5, pink tube.\n- Bottom-right: Number 6, gray tube.\n\nThe order of draw from left to right is: light blue (1), gold (2), mint green (3), lavender (4), pink (5), gray (6). \n\nThe text at the top reads \"HVMC Phlebotomy: Order of Draw.\" \n\nAt the bottom, there is a note stating \"SYNTHETIC IMAGE: fictional HVMC hospital, created for retrieval testing. Not medical guidance.\"",
+    "tokens_in": 25576,
+    "tokens_out": 177
+  },
+  {
+    "id": "img02",
+    "caption": "Kestrel IV-220: Front Panel is displayed at the top center in black text on a white background. Below this, there is a red horizontal bar. \n\nIn the center of the panel, there is a dark blue rectangle showing \"125 mL/h\" in white text. \n\nThe control buttons are arranged in a grid format below the display:\n\n- Top row (left to right): \n  - Yellow button labeled \"SILENCE\"\n  - Gray button with an upward arrow (\u25b2)\n  - Gray button labeled \"MENU\"\n\n- Middle row (left to right):\n  - Gray button with a left arrow (\u25c4)\n  - Gray button labeled \"OK\"\n  - Gray button with a right arrow (\u25ba)\n\n- Bottom row (left to right):\n  - Green button labeled \"START\"\n  - Gray button with a downward arrow (\u25bc)\n  - Gray button labeled \"STOP\"\n\nThe overall panel has a gray background. The highest value displayed is \"125 mL/h.\" The \"SILENCE\" button is yellow, indicating its function may relate to sound or alerts. The \"START\" button is green, typically indicating a positive action, while the \"STOP\" button is gray, suggesting a neutral action.",
+    "tokens_in": 25576,
+    "tokens_out": 251
+  },
+  {
+    "id": "img03",
+    "caption": "The image displays a medical monitor screen titled \"Talon VM-8: Main Screen.\" \n\nAt the top-left, there is a green line graph representing heart activity. Below the graph, the following data is presented:\n\n- \"HR\" (Heart Rate) is displayed in white text with a value of \"72.\"\n- \"SpO2 %\" (Oxygen Saturation) is displayed in blue text with a value of \"97.\"\n- \"NIBP mmHg\" (Non-Invasive Blood Pressure) is displayed in white text with a value of \"118/76.\"\n- \"RR\" (Respiratory Rate) is displayed in yellow text with a value of \"16.\"\n\nThe heart rate (HR) is the second item from the top, followed by SpO2 %, then NIBP mmHg, and finally RR at the bottom. The highest value is the SpO2 % at 97, and the lowest is the RR at 16. The background of the screen is black. \n\nAt the bottom of the image, there is a note stating \"SYNTHETIC IMAGE: fictional HVMC hospital, created for retrieval testing. Not medical guidance.\"",
+    "tokens_in": 25576,
+    "tokens_out": 239
+  },
+  {
+    "id": "img04",
+    "caption": "The image is a bar graph titled \"HVMC Hand Hygiene Compliance by Unit, Q3 2026.\" \n\n- The vertical axis is labeled \"Compliance (%)\" and ranges from 50 to 100.\n- The horizontal axis lists the units: \"2 North,\" \"2 South,\" \"3 North,\" \"3 South,\" \"4 North,\" \"4 South,\" and \"5 North.\"\n- Each bar is colored blue.\n\nThe bars represent the following compliance percentages:\n- 2 North: approximately 90%\n- 2 South: approximately 90%\n- 3 North: approximately 95%\n- 3 South: approximately 70%\n- 4 North: approximately 95%\n- 4 South: approximately 90%\n- 5 North: approximately 95%\n\nA dashed red line at the 90% mark indicates the target compliance level. The highest bars are for \"3 North,\" \"4 North,\" and \"5 North,\" while the lowest bar is for \"3 South.\" \n\nThe text at the bottom reads: \"SYNTHETIC IMAGE: fictional HVMC hospital, created for retrieval testing. Not medical guidance.\"",
+    "tokens_in": 25576,
+    "tokens_out": 231
+  },
+  {
+    "id": "img05",
+    "caption": "HVMC Patient Wristband Colour Key\n\n- Red wristband: Allergy\n- Yellow wristband: Fall risk\n- Purple wristband: Do not resuscitate (DNR)\n- Green wristband: Latex allergy\n\nThe red wristband is at the top, followed by the yellow wristband in the second position, the purple wristband in the third position, and the green wristband at the bottom. The text is centered above the wristbands. The image has a white background. The words \"SYNTHETIC IMAGE: fictional HVMC hospital, created for retrieval testing. Not medical guidance.\" are at the bottom in smaller text.",
+    "tokens_in": 25576,
+    "tokens_out": 131
+  },
+  {
+    "id": "img06",
+    "caption": "Talon VM-8 Quick Card: Night Mode\n\n1. Press MENU.\n2. Select Display, then Night.\n3. The screen dims to 30% brightness.\n4. Alarm volume does NOT change.\n5. Touch the screen to return to day mode.\n\nThe text is centered within a rectangular box. The background is light, and the text is black. The title is at the top, followed by a numbered list. The first item is at the top of the list, and the fifth item is at the bottom. The words \"SYNTHETIC IMAGE: fictional HVMC hospital, created for retrieval testing. Not medical guidance.\" are at the bottom of the image in smaller text.",
+    "tokens_in": 25576,
+    "tokens_out": 142
+  }
+]

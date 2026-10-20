@@ -1,0 +1,6 @@
+{"id": "img01", "file": "img01_order_of_draw.png", "title": "Phlebotomy order of draw", "fact": "Light blue is drawn first, then gold, mint green, lavender, pink, gray."}
+{"id": "img02", "file": "img02_iv220_front_panel.png", "title": "Kestrel IV-220 front panel", "fact": "The SILENCE button is top-left of the keypad; STOP is bottom-right; START bottom-left."}
+{"id": "img03", "file": "img03_vm8_screen.png", "title": "Talon VM-8 main screen", "fact": "HR is green, SpO2 is cyan, NIBP is white, RR is yellow."}
+{"id": "img04", "file": "img04_hand_hygiene_chart.png", "title": "Hand hygiene compliance by unit, Q3 2026", "fact": "3 South is lowest (71%) and the only unit below the 90% target."}
+{"id": "img05", "file": "img05_wristband_key.png", "title": "Patient wristband colour key", "fact": "Red = allergy, yellow = fall risk, purple = DNR, green = latex allergy."}
+{"id": "img06", "file": "img06_vm8_night_mode_card.png", "title": "Talon VM-8 night mode quick card", "fact": "MENU > Display > Night; screen dims to 30%; alarm volume does not change."}

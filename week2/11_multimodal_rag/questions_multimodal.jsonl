@@ -1,0 +1,7 @@
+{"id": "mm01", "question": "When drawing several blood samples, which tube do I fill first?", "expected_id": "img01", "key_fact": "light blue"}
+{"id": "mm02", "question": "Where is the button to mute an alarm on the IV-220 pump?", "expected_id": "img02", "key_fact": "top-left"}
+{"id": "mm03", "question": "On the bedside monitor, what colour is the oxygen saturation number shown in?", "expected_id": "img03", "key_fact": "cyan"}
+{"id": "mm04", "question": "Which ward had the worst hand washing compliance last quarter?", "expected_id": "img04", "key_fact": "3 South"}
+{"id": "mm05", "question": "What does a purple wristband on a patient mean?", "expected_id": "img05", "key_fact": "DNR"}
+{"id": "mm06", "question": "How do I dim the VM-8 monitor screen at night?", "expected_id": "img06", "key_fact": "30%"}
+{"id": "mm07", "question": "What colour is the oxygen cylinder on the crash cart?", "expected_id": null, "key_fact": null}

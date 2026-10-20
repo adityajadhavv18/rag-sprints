@@ -9,7 +9,7 @@ Hands-on builds of 12 RAG architectures (plus a naive baseline). Each one runs o
 | 02 Parent-Child RAG ✅ | 08 Agentic RAG ✅ |
 | 03 Contextual RAG ✅ | 09 GraphRAG ✅ |
 | 04 RAG Fusion ✅ | 10 RAPTOR ✅ |
-| 05 Adaptive RAG ✅ | 11 Multimodal RAG |
+| 05 Adaptive RAG ✅ | 11 Multimodal RAG ✅ (awareness level) |
 | | 12 Speculative RAG ✅ |
 
 ## Setup
@@ -62,6 +62,8 @@ Every architecture refuses all 4 unanswerable questions (abstention 1.00). Faith
 Speculative is the exception: its lower faithfulness comes from real wrong answers (a child quoting a look-alike chunk). Its cost is the real one, with each model at its own price; the harness column assumes gpt-4o-mini for every token. Its baseline, gpt-4o reading the same 9 chunks alone, scored 0.96 / 0.75, faithfulness 0.97, 4 / 26 refused, 1.3 s, $0.00882 (see its README).
 
 The golden set is all fact lookups. Sprint 09 adds chain questions (one fact leads to the next) and sprint 10 adds broad thematic questions; their results are in those sprints' READMEs. On the thematic questions RAPTOR ties Contextual and GraphRAG (7 of 25 points each).
+
+Multimodal (11) is not on the golden set: the corpus is text, so pictures can't change its scores. It runs on its own 6 synthetic images and 7 questions. CLIP + gpt-4o-mini looking at the images and "caption each image once, then text RAG" both answer 5 of 7, at $0.0066 vs $0.00008 per question. See its README.
 
 Details and findings are in each sprint's README.
 
