@@ -67,6 +67,10 @@ Multimodal (11) is not on the golden set: the corpus is text, so pictures can't 
 
 Details and findings are in each sprint's README.
 
+## Dashboard
+
+A local web UI over the harness results: leaderboard, one card per architecture, a question explorer and run comparisons. Run `uv run dashboard/app.py` and open http://127.0.0.1:7860. See `dashboard/README.md`.
+
 ## Checks
 
 One script per eval-harness phase, run with `uv run <script>`: `check_config.py`, `check_schema.py`, `check_golden.py`, `check_runner.py`, `check_metrics.py`. `check_golden.py` takes an optional golden set and data folder, for example `uv run check_golden.py golden_medical_v1.jsonl data/medical`.
